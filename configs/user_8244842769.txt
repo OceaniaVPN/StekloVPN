@@ -1,0 +1,3 @@
+#profile-title: говро
+#profile-update-interval: 2
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
