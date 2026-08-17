@@ -1,0 +1,7 @@
+#profile-title: 🟦Steklo_VPN whitelist 🦆
+#profile-update-interval: 10
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://t.me/free_vpn123456
+#announce: ✨ Стекло впн бесплатно, поддержите канал @free_vpn123456
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@185.42.163.51:13868?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.epicgames.com&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&sid=e852dc#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%231
