@@ -1,0 +1,6 @@
+#profile-title: LAMPA_VPN
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://raw.githubusercontent.com/MK-l4/MK-14/refs/heads/main/LAMPA
+
+https://raw.githubusercontent.com/MK-l4/MK-14/refs/heads/main/LAMPA
