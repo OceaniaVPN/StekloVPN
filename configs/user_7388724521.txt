@@ -1,0 +1,7 @@
+#profile-title: Persiki
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://t.me/free_vpn123456
+
+vless://uuid@server:port?type=ws#USA
+vless://uuid@server2:port?type=ws#Germany
