@@ -1,0 +1,7 @@
+#profile-title: WVFWL
+#profile-update-interval: 2
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://t.me/WildVF
+#announce: ❤️ WILDVF впн бесплатно, поддержите канал @wildVF
+
+https://raw.githubusercontent.com/VansFenix/vpnparser/refs/heads/main/good.txt
