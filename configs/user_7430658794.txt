@@ -1,5 +1,0 @@
-#profile-title: Нико впн)
-#profile-update-interval: 2
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
-#profile-web-page-url: @KOT_CAMYPAN
-#announce: Нико впн). Обновляется еженедельно
