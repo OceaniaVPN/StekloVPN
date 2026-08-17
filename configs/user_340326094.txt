@@ -1,0 +1,5 @@
+#profile-title: okey
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+
+vless://ffb1d5ed-7d45-4f9b-8a35-d5e4cf5cc677@88.216.130.55:443/?type=grpc&encryption=none&flow=&serviceName=api.v1.StreamService&sni=sync.on3ok.com&fp=firefox&security=reality&pbk=2j9MbL9p_z1tmhfAOg8yJttmipPiG4IobC-RWYHkomM&sid=57b9dece2c7ebfcf#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%208%20Private%20Customer
