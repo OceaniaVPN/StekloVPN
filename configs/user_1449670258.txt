@@ -5,3 +5,4 @@
 #announce: Лучший впн @Detanetov_vpn
 
 vless://Германия
+vless://Финляндия
