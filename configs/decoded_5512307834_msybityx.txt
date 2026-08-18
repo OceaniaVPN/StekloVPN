@@ -1,0 +1,6 @@
+#profile-title: Decoded • sub.hat.onl
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://sub.hat.onl/E81oUv8AByf1varC
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#App%20not%20supported
