@@ -1,0 +1,33 @@
+#profile-title: Decoded • okeaniavpn.dimastekolnikov1.workers.dev
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://okeaniavpn.dimastekolnikov1.workers.dev/sub?token=239f7bdd-772e-44e5-875f-1898f3f341a8
+
+vless://1a8aa3c0-7741-49dd-adbc-dcc629f6b938@178.154.208.44:443?type=tcp&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&sid=03a70b17f8036009&flow=xtls-rprx-vision#proxy-10
+vless://1cfb00ea-fcd0-580e-b9b1-f9b83ef8897d@186.246.44.78:5000?type=tcp&security=reality&sni=www.vk.com&pbk=Nf0KL2beOtB7Lz4pzpPbcHJ0ywxJHM3w6eX3xe-jUhc&sid=61&flow=xtls-rprx-vision#proxy-11
+vless://c693f639-f6da-4caa-aea7-a46cacfcfdfe@serv50.strettenvpn.com:7771?type=grpc&security=reality&serviceName=5post-gate.x5.ru&sni=5post-gate.x5.ru&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896#proxy-12
+vless://1f35c4eb-e4fa-5a62-b0e1-b557983b34c7@132.243.207.38:4443?type=grpc&security=reality&sni=www.vk.com&pbk=wg5YJMYIcqRU9X9U54TRzKIIw5aUyxIEI3tL_jck5WU&sid=44#proxy-13
+vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@5.181.21.234:443?type=tcp&security=reality&sni=fl4.raketa-balance.com&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&flow=xtls-rprx-vision#proxy-0
+vless://5ca83936-136d-4314-8453-4ba10a86cf60@195.123.209.50.fwqfw783rg2dad.website:443?type=ws&security=tls&sni=195.123.209.50.fwqfw783rg2dad.website#proxy-1
+vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?type=grpc&security=reality&serviceName=neurex&sni=api-maps.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#proxy-2
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.166.71:443?type=tcp&security=reality&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&flow=xtls-rprx-vision#proxy-3
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@94.103.2.21:443?type=tcp&security=reality&sni=ru01.skorostnet.space&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&flow=xtls-rprx-vision#proxy-4
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?type=tcp&security=reality&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision#proxy-5
+vless://425e9e31-b017-4e32-bbd3-656473466d5e@swt3.pubconverter.com:1443?type=grpc&security=reality&serviceName=grpc&sni=sw.pubconverter.com&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&sid=361c68748712c743#proxy-6
+vless://9e3de7f7-a595-4117-b1b6-dc41eb870ab1@144.31.213.225:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=ABNRlkjlonYV9TOFYgjWwz0wn1s6sg_yCErsLYkU_Sg&sid=d6ff9019a77e354a&flow=xtls-rprx-vision#proxy-7
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@138.124.67.203:13868?type=tcp&security=reality&sni=booking.com&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&sid=e852dc&flow=xtls-rprx-vision#proxy-8
+vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@95.163.176.68:43821?type=tcp&security=reality&sni=www.twitch.tv&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&sid=58c5b3ee013bdc8f&flow=xtls-rprx-vision#proxy-9
+vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@5.181.21.234:443?type=tcp&security=reality&sni=fl4.raketa-balance.com&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&flow=xtls-rprx-vision#proxy
+vless://5ca83936-136d-4314-8453-4ba10a86cf60@195.123.209.50.fwqfw783rg2dad.website:443?type=ws&security=tls&sni=195.123.209.50.fwqfw783rg2dad.website#proxy
+vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?type=grpc&security=reality&serviceName=neurex&sni=api-maps.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#proxy
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.166.71:443?type=tcp&security=reality&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&flow=xtls-rprx-vision#proxy
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@94.103.2.21:443?type=tcp&security=reality&sni=ru01.skorostnet.space&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&flow=xtls-rprx-vision#proxy
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?type=tcp&security=reality&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision#proxy
+vless://425e9e31-b017-4e32-bbd3-656473466d5e@swt3.pubconverter.com:1443?type=grpc&security=reality&serviceName=grpc&sni=sw.pubconverter.com&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&sid=361c68748712c743#proxy
+vless://9e3de7f7-a595-4117-b1b6-dc41eb870ab1@144.31.213.225:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=ABNRlkjlonYV9TOFYgjWwz0wn1s6sg_yCErsLYkU_Sg&sid=d6ff9019a77e354a&flow=xtls-rprx-vision#proxy
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@138.124.67.203:13868?type=tcp&security=reality&sni=booking.com&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&sid=e852dc&flow=xtls-rprx-vision#proxy
+vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@95.163.176.68:43821?type=tcp&security=reality&sni=www.twitch.tv&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&sid=58c5b3ee013bdc8f&flow=xtls-rprx-vision#proxy
+vless://1a8aa3c0-7741-49dd-adbc-dcc629f6b938@178.154.208.44:443?type=tcp&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&sid=03a70b17f8036009&flow=xtls-rprx-vision#proxy
+vless://1cfb00ea-fcd0-580e-b9b1-f9b83ef8897d@186.246.44.78:5000?type=tcp&security=reality&sni=www.vk.com&pbk=Nf0KL2beOtB7Lz4pzpPbcHJ0ywxJHM3w6eX3xe-jUhc&sid=61&flow=xtls-rprx-vision#proxy
+vless://c693f639-f6da-4caa-aea7-a46cacfcfdfe@serv50.strettenvpn.com:7771?type=grpc&security=reality&serviceName=5post-gate.x5.ru&sni=5post-gate.x5.ru&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896#proxy
+vless://1f35c4eb-e4fa-5a62-b0e1-b557983b34c7@132.243.207.38:4443?type=grpc&security=reality&sni=www.vk.com&pbk=wg5YJMYIcqRU9X9U54TRzKIIw5aUyxIEI3tL_jck5WU&sid=44#proxy
