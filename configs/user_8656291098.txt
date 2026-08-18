@@ -11,3 +11,4 @@ vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@195.63.135.112:443?flow=xtls-rprx-v
 vless://391f093f-85fc-473d-abe2-ea607b9ff567@144.31.170.73:443?encryption=none&security=tls&sni=cloudflare.vhub.pro&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fwebsocket%3Fed%3D2560#Германия #1 🇩🇪
 vless://391f093f-85fc-473d-abe2-ea607b9ff567@94.183.157.60:443?encryption=none&security=tls&sni=94.183.157.60.fwqfw783rg2dad.website&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fwebsocket%3Fed%3D2560#Германия #2 [ Игровой ] 🇩🇪
 vless://2f919a1e-f00e-4538-b0a9-cf190721d578@94.183.157.123:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pl.shhflow.xyz&fp=firefox&pbk=HjLRDqyB9FZNOZwYbiCUN3itf5OEbU1sGIaHDe0e-Fc&type=tcp&headerType=none#Польша 🇵🇱
+hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#LTE - Россия 🇷🇺
