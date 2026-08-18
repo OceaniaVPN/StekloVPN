@@ -3,3 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: https://t.me/FreeUlitka
 #announce: ❗️ если vpn не работает нажмите 🔄
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@130.49.218.48:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=vimeo.com&fp=firefox&pbk=XnKwjsz6ec8B10wrZRTF1X120qtsmIo4Q7nEXd00MhE&sid=e852dc&type=tcp&headerType=none#Франция 🇫🇷
