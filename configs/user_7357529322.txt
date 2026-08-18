@@ -1,0 +1,5 @@
+#profile-title: Шерлок Холмс
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://t.me/free_vpn123456
+#announce: Бесплатно
