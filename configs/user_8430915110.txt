@@ -1,0 +1,4 @@
+#profile-title: PH0EN1XVPN
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#announce: ВПН сервис от PH0EN1XDAZN, бот @ph0en1xvpnbot
