@@ -15,3 +15,4 @@ ss://chacha20-ietf-poly1305:TFElG2FVqyqG@176.97.64.144:8388#%F0%9F%87%B8%F0%9F%8
 vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?encryption=none&security=tls&sni=workspace.evan00.dpdns.org&type=ws&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0%20WIFI
 vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?encryption=none&security=tls&sni=workspace.evan00.dpdns.org&fp=chrome&type=ws&host=workspace.evan00.dpdns.org&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20WIFI
 ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@193.29.139.223:8080#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20WIFI
+vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?encryption=none&security=tls&sni=workspace.evan00.dpdns.org&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20WIFI
