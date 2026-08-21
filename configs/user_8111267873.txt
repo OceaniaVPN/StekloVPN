@@ -2,3 +2,5 @@
 #profile-update-interval: 4
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #announce: Личный впн Zalpie
+
+vless://7ee53e03-96ed-4121-9da2-62f3d3374506@185.185.69.26:4100?type=ws&host=live.ok.ru&path=/v1&security=none#%F0%9F%87%AE%F0%9F%87%A9%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F%20%7C%20%D0%91%D0%A1%2328
