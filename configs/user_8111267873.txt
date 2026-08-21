@@ -5,3 +5,4 @@
 
 vless://7ee53e03-96ed-4121-9da2-62f3d3374506@185.185.69.26:4100?type=ws&host=live.ok.ru&path=/v1&security=none#%F0%9F%87%AE%F0%9F%87%A9%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F%20%7C%20%D0%91%D0%A1%2328
 vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.120:4100?type=ws&host=live.ok.ru&path=/v1&security=none#%F0%9F%87%B1%F0%9F%87%AE%D0%9B%D0%B8%D1%85%D1%82%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD%20%7C%20%D0%91%D0%A1%C2%B9
+vless://b55dd203-630d-46a3-b506-c52ebcafa77c@45.196.161.171:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=d3ee47fc2f553c44#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20%D0%91%D0%A1%C2%B9
