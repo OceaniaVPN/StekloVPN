@@ -1,0 +1,8 @@
+#profile-title: Decoded
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://gidroksi.fun/sub/1d622863
+
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=tls&sni=fake.blocked.com#â ÐÐ¾ÑÑÑÐ¿ Ð·Ð°Ð¿ÑÐµÑÐµÐ½
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=tls&sni=fake.blocked.com#âï¸ ÐÐ±ÑÐ°ÑÐ¸ÑÐµÑÑ Ð² Ð¿Ð¾Ð´Ð´ÐµÑÐ¶ÐºÑ
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=tls&sni=fake.blocked.com#@gidroksi_supportbot
