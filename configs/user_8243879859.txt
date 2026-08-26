@@ -5,3 +5,4 @@
 #announce: FREE VPN
 
 ss://YWVzLTI1Ni1nY206Q3pEV0IDd DFET2k4RjVqcQ@149.102.132.180: 80?prefix=%17%03%03# United Kingdom
+ss://YWVzLTI1Ni1nY206Q3pEV0lDdDFET2k4RjVqcQ@149.102.132.180:80?prefix=%17%03%03#🇬🇧United Kingdom
