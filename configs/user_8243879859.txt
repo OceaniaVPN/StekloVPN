@@ -3,3 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: none Https://t.me/bot_vpn123456
 #announce: none рабочий впн, подпишись не пожалеешь @bot_vpn123456
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080?prefix=%17%03%03#🇬🇧United Kingdom
