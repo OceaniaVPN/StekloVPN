@@ -1,4 +1,0 @@
-#profile-title: Beseda
-#profile-update-interval: 2
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
-#profile-web-page-url: none of
