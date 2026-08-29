@@ -1,5 +1,5 @@
-#profile-title: Music vpn
-#profile-update-interval: 1
+#profile-title: Просто ВПН
+#profile-update-interval: 24
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
-#profile-web-page-url: https://t.me/music_VPN
-#announce: 🎼 subscribe to my vpn pls 🎧
+#profile-web-page-url: https://t.me/prosto_vpn
+#announce: Бесплатный простой впн
