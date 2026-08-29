@@ -3,3 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: https://t.me/prosto_vpn
 #announce: Бесплатный простой впн
+
+trojan://PQ05174892@35.156.115.70:443?sni=fine-elf.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%2020
