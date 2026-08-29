@@ -1,0 +1,13 @@
+#profile-title: HavenTest
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: @s0ulcoil
+#announce: Не хочешь платить за подписку VPN? Мы собираем самые свежие ключи в одной подписке — бесплатно🔥
+
+💋 Haven — твой бесплатный доступ к сети
+
+Что у нас:
+• Регулярные обновления 🔄
+• Проверенные сервера 🔎
+• Без ограничений по трафику ⌛
+• Обходы глушилок
