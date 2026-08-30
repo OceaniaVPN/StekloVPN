@@ -1,7 +1,0 @@
-#profile-title: T-SHIRT V2
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
-#profile-web-page-url: httpshttps://t.me/TFA 18IO
-
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
