@@ -4,3 +4,4 @@
 #profile-web-page-url: https://t.me/Zzz zzz zzz zzz zzz 12 sos
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
+vless://7fa3a22c-0c3b-4085-8a21-aa45b1d17f4a@f1.slynetbest.ru:443?security=reality&encryption=none&pbk=LrRPBPaA6ZKt-jkMZc1S5jfknIkxcNTLCHEplbk7IX0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=f1.slynetbest.ru&sid=b77bb35941bd3068#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%28Reality%29%20%F0%9F%8E%AF
