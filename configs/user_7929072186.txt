@@ -1,5 +1,0 @@
-#profile-title: Moto
-#profile-update-interval: 1000
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
-
-vless://b91bcbe1-6982-4709-80cd-42a63b93e966@78.159.247.206:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=sso.passport.yandex.ru&fp=chrome&pbk=smzqWgG-wLasYWMveMswB9S5XU9ftuMfQZhmW18nsHc&sid=965cab7032ceb344&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20WhiteList%2001%20%40mel1ste%7C%40ciorsa
