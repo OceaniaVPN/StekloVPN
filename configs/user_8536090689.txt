@@ -1,0 +1,4 @@
+#profile-title: Zalupka
+#profile-update-interval: 100
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://t.me/Zzz zzz zzz zzz zzz 12 sos
