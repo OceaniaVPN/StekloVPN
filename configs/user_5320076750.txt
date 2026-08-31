@@ -2,3 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #announce: тест
+
+vless://0cfee0f7-de6d-4d72-95c5-bb5d35094974@194.55.239.164:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=c427&type=tcp&headerType=none#%D0%91%D0%A1%20%40VSPBOOST
