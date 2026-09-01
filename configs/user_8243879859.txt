@@ -4,3 +4,5 @@
 #profile-web-page-url: https://t.me/sozday_sam_vpn
 #announce: Создай впн сам
 
+
+vless://d20be48f-6317-4350-858b-d00929bdefc1@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#%40Vpn_jet7
