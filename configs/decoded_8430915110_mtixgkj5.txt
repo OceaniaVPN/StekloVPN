@@ -1,0 +1,6 @@
+#profile-title: Decoded • page2.anotherboring.top
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://page2.anotherboring.top/2uLY8sQ4uwAZXuE6
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%20HWID
