@@ -5,3 +5,4 @@
 #announce: Шлепанец VPN - твой ВПН без границ
 
 vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=%2Fv1#%5B%D1%80%D1%9F%E2%80%A1%C2%B7%D1%80%D1%9F%E2%80%A1%D1%94%5D
+vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=%2Fv1#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-258
