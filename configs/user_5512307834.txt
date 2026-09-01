@@ -1,7 +1,5 @@
-#profile-title: Щ
-#profile-update-interval: П
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1788449246
-#profile-web-page-url: 3
-#announce: У
-#x-expire-days-total: 2
-#x-expire-ts: 1788449246
+#profile-title: д
+#profile-update-interval: У
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: 2
+#announce: Ц
