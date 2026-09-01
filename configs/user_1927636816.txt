@@ -1,0 +1,7 @@
+#profile-title: HappKeysHub Premium
+#profile-update-interval: 3
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1819798831
+#profile-web-page-url: https://t.me/HappKeysHubOriginal
+#announce: HappKeysHub - лучший впн и обход глушилок! Не работает? Жми 🔄. Наш канал: @HappKeysHubOriginal или нажми на ✈️: LTE - 60 ГБ
+#x-expire-days-total: 365
+#x-expire-ts: 1819798831
