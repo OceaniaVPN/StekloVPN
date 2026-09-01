@@ -1,0 +1,13 @@
+#profile-title: Decoded • p.kfwl.lol
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://p.kfwl.lol/https://v8connect.ru/api/sub/wFqgUjxWDLcWQ16p
+
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?encryption=none&type=xhttp&path=%2F&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20NEW
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@95.85.228.30:443?encryption=none&type=xhttp&path=%2F&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@2.27.244.94:443?encryption=none&type=xhttp&path=%2F&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@95.85.228.168:443?encryption=none&type=xhttp&path=%2F&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20I
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@80.76.43.245:443?encryption=none&type=xhttp&path=%2F&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Fast%20I
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@95.85.231.79:443?encryption=none&type=xhttp&path=%2F&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?encryption=none&type=xhttp&path=%2F&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Fast
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@95.85.245.94:443?encryption=none&type=xhttp&path=%2F&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#%F0%9F%87%AA%F0%9F%87%AA%20Estonia
