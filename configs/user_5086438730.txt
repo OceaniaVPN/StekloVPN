@@ -3,3 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: 1
 #announce: Шлепанец VPN - твой ВПН без границ
+
+vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=%2Fv1#%5B%D1%80%D1%9F%E2%80%A1%C2%B7%D1%80%D1%9F%E2%80%A1%D1%94%5D
