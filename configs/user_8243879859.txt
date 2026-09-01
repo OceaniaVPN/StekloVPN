@@ -4,4 +4,3 @@
 #profile-web-page-url: https://t.me/sozday_sam_vpn
 #announce: Создай впн сам
 
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22224?security=&encryption=none&headerType=none&type=tcp#%40Vpn_jet7
