@@ -1,7 +1,0 @@
-#profile-title: Просто впн
-#profile-update-interval: 4
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
-#profile-web-page-url: https://t.me/sozday_vpn
-#announce: Создай впн сам
-
-vless://5fb3ebfe-a998-4ffa-b854-3cffacbb9b67@91.107.241.29:443?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=reality&encryption=none&pbk=94R5Qc5cek_AMwH904kAx4c-HriEjCYUAattL5ZfIXM&fp=chrome&spx=%2F&type=xhttp&sni=amp-api-edge.apps.apple.com&sid=b58b#%40Vpn_jet7
