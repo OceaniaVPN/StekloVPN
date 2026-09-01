@@ -1,0 +1,9 @@
+#profile-title: Decoded • sub1.404.mn
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://sub1.404.mn/CBo1J5JgnCLh5Urj
+
+vless://671b06a3-4c1f-42a3-bf02-d572c367664e@85.209.129.69:2452?type=tcp&security=reality&sni=maps.yandex.ru&fp=chrome&pbk=fea-AOEbTnv_hjqNPleq79oEXY51iw2_IE9RUCeuQw4&flow=xtls-rprx-vision#proxy
+vless://671b06a3-4c1f-42a3-bf02-d572c367664e@85.209.129.69:2059?type=grpc&security=reality&serviceName=ApiMapsYandex&sni=api-maps.yandex.ru&fp=chrome&pbk=FtdsU_DLWDJ1Fk7NESJAy_S0ezFFL_gaslsFDF23KCw&sid=7fe0c1c54e89aaae#proxy%201
+vless://671b06a3-4c1f-42a3-bf02-d572c367664e@2.27.59.147:2452?type=tcp&security=reality&sni=maps.yandex.ru&fp=chrome&pbk=fea-AOEbTnv_hjqNPleq79oEXY51iw2_IE9RUCeuQw4&flow=xtls-rprx-vision#proxy%202
+vless://671b06a3-4c1f-42a3-bf02-d572c367664e@2.27.59.147:2059?type=grpc&security=reality&serviceName=ApiMapsYandex&sni=api-maps.yandex.ru&fp=chrome&pbk=FtdsU_DLWDJ1Fk7NESJAy_S0ezFFL_gaslsFDF23KCw&sid=7fe0c1c54e89aaae#proxy%203
