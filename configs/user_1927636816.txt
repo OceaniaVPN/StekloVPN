@@ -1,5 +1,0 @@
-#profile-title: 🫵
-#profile-update-interval: 4
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1790797206
-#x-expire-days-total: 30
-#x-expire-ts: 1790797206
