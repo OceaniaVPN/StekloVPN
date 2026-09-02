@@ -1,7 +1,7 @@
-#profile-title: д
-#profile-update-interval: У
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
-#profile-web-page-url: 2
-#announce: Ц
-
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=qq&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%20%5B%D0%91%D0%A1%5D%20%231
+#profile-title: К
+#profile-update-interval: 2
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1790916693
+#profile-web-page-url: Ц
+#announce: П
+#x-expire-days-total: 30
+#x-expire-ts: 1790916693
