@@ -12,3 +12,4 @@ Vasl vless://5fb3ebfe-a998-4ffa-b854-3cffacbb9b67@91.107.241.29:443?mode=auto&pa
 vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:2053?security=reality&encryption=none&pbk=EDeWEPBq0QDOPp73PNVlaV2EWaEBWhgBcNy3MROgZ00&headerType=none&fp=chrome&type=tcp&sni=pinterest.com&sid=04b38b6b152a1b0b# By EbraSha 馃敟
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22224?security=&encryption=none&headerType=none&type=tcp#%40Vpn_jet7
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@31.57.35.41:65443?prefix=%17%03%03#🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538?prefix=%17%03%03#🇵🇱Poland
