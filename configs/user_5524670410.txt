@@ -1,0 +1,7 @@
+#profile-title: Aether VPN
+#profile-update-interval: Каждые 5 часов
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1791001764
+#profile-web-page-url: https://t.me/@Aethervpn_white_bot
+#announce: 30 дней = 100 звезд(100 рублей)
+#x-expire-days-total: 30
+#x-expire-ts: 1791001764
