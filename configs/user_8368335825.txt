@@ -1,0 +1,7 @@
+#profile-title: Тоьлш Впн ⚡
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1788605832
+#profile-web-page-url: Тоьлш
+#announce: Тоьлши йоьллан
+#x-expire-days-total: 2
+#x-expire-ts: 1788605832
