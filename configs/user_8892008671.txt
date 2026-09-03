@@ -1,7 +1,4 @@
-#profile-title: Тоьлш
+#profile-title: Free 🆓 Vpn
 #profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1790924529
-#profile-web-page-url: : https://t.me/тоьлш_vpn
-#announce: @тоьлшвпн
-#x-expire-days-total: 30
-#x-expire-ts: 1790924529
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#announce: Бесплатные конфиги
