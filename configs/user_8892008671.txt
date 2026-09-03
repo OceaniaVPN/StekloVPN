@@ -2,3 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #announce: Бесплатные конфиги
+
+vless://0dd9cfaa-cebd-4444-8778-70cb22737944@87.228.33.196:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yandex.ru&fp=firefox&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%7C%201
