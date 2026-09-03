@@ -5,3 +5,5 @@
 #announce: Тоьлши йоьллан
 #x-expire-days-total: 2
 #x-expire-ts: 1788605832
+
+vless://013b3e93-5b91-4146-b41d-4e517d68466f@95.85.228.65:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nl1.hat.onl&fp=firefox&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&sid=054602d818379876&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%92%8A%20%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9%20%231%3FserverDescription%3DV2ktRmkgfCBMVEU%3D%0A
