@@ -1,0 +1,7 @@
+#profile-title: Decoded • is.wepogp.gay
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://is.wepogp.gay/bypass-hwid-lock-3z5O6BFAaJQzGlamvtSo?payload=gG/IXjj2tBVY9/4JV3lO3LR8fEj/UerNm8z9mCCsm7SJ3ys2XwiB0%2BDskEqi5KAfMsHsakN5Ts1gfflCuHW4zA%3D%3D
+
+trojan://AY3u4npdT719zz7yycbmWjZ20Aj5TRu_@149.50.126.140:8447?security=tls&type=tcp&sni=pl.pag3r.com&fp=firefox#proxy
+trojan://AY3u4npdT719zz7yycbmWjZ20Aj5TRu_@0.0.0.0:1?security=tls&type=tcp&fp=chrome#proxy
