@@ -5,3 +5,4 @@
 #announce: Ty ahueeh ot nego
 
 vless://1cf3c15c-16ce-46cc-8a96-b33c33b8a20f@176.109.88.223:443?type=ws&host=2.26.148.147.tyr-agentstvo.tech&path=/websocket&security=tls&sni=2.26.148.147.tyr-agentstvo.tech&fp=ios&allowInsecure=0#%F0%9F%87%B5%F0%9F%87%B1%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%D1%8B%20-%20TG:%20AirLinkVPNBot%20%7C0090%7C
+vless://1cf3c15c-16ce-46cc-8a96-b33c33b8a20f@176.109.88.223:443?type=ws&host=2.26.148.147.tyr-agentstvo.tech&path=/websocket&security=tls&sni=2.26.148.147.tyr-agentstvo.tech&fp=android&allowInsecure=0#%F0%9F%87%B5%F0%9F%87%B1%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%D1%8B%20-%20TG:%20AirLinkVPNBot%20%7C0087%7C
