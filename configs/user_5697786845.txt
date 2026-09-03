@@ -1,5 +1,4 @@
-#profile-title: Aether vpn
+#profile-title: Lll
 #profile-update-interval: 4
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
-#profile-web-page-url: 79809338953
-#announce: Супер VPN, подпишись https://t.me/+0xi6LoMYkYlkMjEy
+#announce: @ggg
