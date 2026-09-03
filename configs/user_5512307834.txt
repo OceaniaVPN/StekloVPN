@@ -1,7 +1,7 @@
-#profile-title: К
-#profile-update-interval: 2
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1790916693
-#profile-web-page-url: Ц
-#announce: П
+#profile-title: Колу
+#profile-update-interval: 5
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1791000588
+#profile-web-page-url: 3то3лу
+#announce: Оуоулы
 #x-expire-days-total: 30
-#x-expire-ts: 1790916693
+#x-expire-ts: 1791000588
