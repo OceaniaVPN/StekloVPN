@@ -11,7 +11,6 @@ vless://c6037cf7-d931-4027-af06-6bfb0f10684c@88.216.190.205:443?type=tcp&securit
 vless://0dd9cfaa-cebd-4444-8778-70cb22737944@93.152.223.193:443?type=tcp&security=reality&sni=ded53.cloudvk.cc&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8&fp=firefox&flow=xtls-rprx-vision#proxy-2
 vless://df9f5aca-eda0-428f-a752-e53866153d12@31.56.189.27:8765?type=tcp&security=reality&sni=srv-21bac9.vless.monster&pbk=M08l5tDmJUYELykZCNYQyFgtR9Zc-A4ZGlUSLcUeS2c&sid=1bcc9177f3124b25&fp=chrome&flow=xtls-rprx-vision#proxy-3
 vless://fe1bec5d-e2f7-4d59-9ad9-4765588e8c04@77.90.52.178:2027?type=xhttp&security=reality&sni=nlka.skysafe.online&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1&fp=chrome#proxy-4
-vless://0dd9cfaa-cebd-4444-8778-70cb22737944@194.48.217.165:443?type=tcp&security=reality&sni=avc.cloudvk.cc&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8&fp=firefox&flow=xtls-rprx-vision#proxy-5
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@88.216.190.206:443?type=tcp&security=reality&sni=app4.goonars.com&pbk=u51rZT5vJj8nO80QBBHVW2-WA5OzzQ1eL6euvszWLQI&sid=09ef88a6&fp=firefox&flow=xtls-rprx-vision#proxy-6
 vless://20230bb6-e0da-464d-9290-392208ad14d8@13.143.64.253:443?type=tcp&security=reality&sni=addons.mozilla.org&pbk=hQ2UcPry_clN_CApgty2ve15M3yxOvgnmn6Mjs2Nlk0&sid=a60587c8&fp=randomized&flow=xtls-rprx-vision#proxy-7
 vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.154.19:8080?type=ws&security=none&path=%2F&host=91.107.154.19#proxy-8
