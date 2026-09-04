@@ -16,7 +16,6 @@ vless://20230bb6-e0da-464d-9290-392208ad14d8@13.143.64.253:443?type=tcp&security
 vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.154.19:8080?type=ws&security=none&path=%2F&host=91.107.154.19#proxy-8
 vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@80.253.249.193:5010?type=tcp&security=reality&sni=fr.aeternavpn.space&pbk=WblkmqKUs4-IiNsawjWBV16uB_FBxLr8xFVi6eDPkxk&sid=a1b2c3d4&fp=qq&flow=xtls-rprx-vision#proxy-9
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv9.jarvesitw.ru:443?type=tcp&security=reality&sni=apiv91.jarvesitw.ru&pbk=QMkh_UZF6wTVrYukjoZTbrRUziZxT-s0Oj8zVP_RuH0&sid=b0ffeec3&fp=firefox&flow=xtls-rprx-vision#proxy-10
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.225.64:62145?type=tcp&security=none#proxy-11
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@50.7.92.252:443?type=tcp&security=reality&sni=apiv1.jarvesitw.ru&pbk=ojDrVO838PScByjy1cb1-LLEpEh4LhJKG_jldp8g7xo&sid=8beb2706&fp=firefox&flow=xtls-rprx-vision#proxy-12
 vless://67f6f0f8-65bd-4900-9c82-7b63ca9b2404@203.188.173.3:443?type=tcp&security=reality&sni=royalehosting.net&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&sid=2b4790ccbac1edb2&fp=firefox&flow=xtls-rprx-vision#proxy-13
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.102.254:443?type=tcp&security=reality&sni=apiv3.jarvesitw.ru&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&sid=2aef5875&fp=firefox&flow=xtls-rprx-vision#proxy-14
