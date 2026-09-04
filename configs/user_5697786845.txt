@@ -5,3 +5,5 @@
 #announce: Впн от команды Aether vpn
 
 
+
+vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.166:7444?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6
