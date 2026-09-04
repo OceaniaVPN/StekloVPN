@@ -9,3 +9,4 @@ vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz03.api3-max.ru:443?flow=xtls-r
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.12:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=kamaz4.api3-max.ru&alpn=h2%2C%20http%2F1.1&fp=qq&type=tcp&headerType=none#Trman34
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@kamaz1.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz1.api3-max.ru&fp=firefox&alpn=h2,http%2F1.1&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%9A%80%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%3FserverDescription=V2ktRmkgfCBMVEU=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱%20t.мне%2Frjsxrd
