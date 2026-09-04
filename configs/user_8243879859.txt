@@ -9,7 +9,6 @@ vless://0a322246-8c1a-47cd-9865-cccebbb2e5c1@31.76.64.248:443?type=tcp&security=
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9873?security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&serviceName=grpc-tunnel&packetEncoding=xudp&encryption=none#🇺🇦 Украина #3
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9873?security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&serviceName=grpc-tunnel&packetEncoding=xudp&encryption=none#🇺🇦 Украина #4
 vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@185.121.179.250:443?type=tcp&security=reality&fp=firefox&sni=edge-de2.mystatic-cdn.ru&pbk=q1T5P4TRFFaZZhmz8UFJJ2F-otzU6Cl8uagvaytNUHY&sid=19d844ab15cc29d6&flow=xtls-rprx-vision#🇳🇱 Нидерланды #1
-vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.238.49:8080?type=ws&path=%2F#🇳🇱 Нидерланды #3
 vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@185.121.179.250:443?type=tcp&security=reality&fp=firefox&sni=edge-de2.mystatic-cdn.ru&pbk=q1T5P4TRFFaZZhmz8UFJJ2F-otzU6Cl8uagvaytNUHY&sid=19d844ab15cc29d6&flow=xtls-rprx-vision#🇳🇱 Нидерланды #4
 vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.79:8080?type=ws&path=%2F#🇺🇸 США #1
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?type=grpc&security=reality&fp=chrome&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&sid=1a3102bb8e51399e&serviceName=gw.v2.RelayService#🇧🇬 Болгария #1
