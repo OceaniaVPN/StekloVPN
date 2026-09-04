@@ -1,0 +1,41 @@
+#profile-title: Haven vpn
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://gitverse.ru/api/repos/soulcoil/Haven/raw/branch/master/Haven
+#announce: base64: dGdrIEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogNC4wOS4yNiAxOjI2INCc0KHQmgrQsdC70LDQs9C+0LTQsNGA0Y4g0LfQsCDQuNGB0L/QvtC70YzQt9C+0LLQsNC90LjQtSDQv9C+0LTQv9C40YHQutC4IQ==
+
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&sni=www.google.com&fp=qq&type=xhttp&host=www.google.com&path=/#🇩🇪 Германия #1
+vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.188.158:8080?type=ws&security=none&sni=91.107.188.158#🇩🇪 Германия #2
+vless://0a322246-8c1a-47cd-9865-cccebbb2e5c1@31.76.64.248:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=blog.api.www.cloudflare.com&pbk=9OV_GN4lgwY_4llPfYCGev-PPXLMj-hfYnveKF4tjws&sid=f8&spx=%2F9a51181547531a2#🇩🇪 Германия #3
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?type=xhttp&security=reality&fp=qq&sni=www.google.com&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com&mode=auto#🇩🇪 Германия #4
+vless://0a322246-8c1a-47cd-9865-cccebbb2e5c1@31.76.64.248:443?type=tcp&security=reality&fp=firefox&sni=blog.api.www.cloudflare.com&pbk=9OV_GN4lgwY_4llPfYCGev-PPXLMj-hfYnveKF4tjws&sid=f8&spx=%2F9a51181547531a2&flow=xtls-rprx-vision#🇩🇪 Германия #5
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?type=xhttp&security=reality&fp=qq&sni=www.google.com&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com&mode=auto#🇩🇪 Германия #6
+vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.154.19:8080?type=ws&path=%2F#🇩🇪 Германия #7
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@2.27.244.94:443?type=xhttp&security=reality&fp=firefox&sni=www.google.com&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#🇵🇱 Польша #1
+vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?type=tcp&security=reality&fp=firefox&sni=timeline.www.cloudflare.com&pbk=S_13TsXuoNyvk6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&spx=%2Fzsncv2tq91fyune#🇵🇱 Польша #2
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@2.27.244.94:443?type=xhttp&security=reality&fp=qq&sni=www.google.com&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com&mode=auto#🇵🇱 Польша #3
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.86.107:9830?type=grpc&security=reality&fp=firefox&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&serviceName=grpc-tunnel#🇺🇦 Украина #1
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9873?security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&serviceName=grpc-tunnel&packetEncoding=xudp&encryption=none#🇺🇦 Украина #2
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9873?security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&serviceName=grpc-tunnel&packetEncoding=xudp&encryption=none#🇺🇦 Украина #3
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9873?security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&serviceName=grpc-tunnel&packetEncoding=xudp&encryption=none#🇺🇦 Украина #4
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9873?type=grpc&security=reality&fp=chrome&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&serviceName=grpc-tunnel#🇺🇦 Украина #5
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.86.107:9830?type=grpc&security=reality&fp=firefox&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&serviceName=grpc-tunnel#🇺🇦 Украина #6
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?type=grpc&security=reality&fp=firefox&sni=md3.univesalsrv.com&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&serviceName=stats.v2.PushService&mode=gun#🇲🇩 Молдова #1
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?type=grpc&security=reality&fp=firefox&sni=md3.univesalsrv.com&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&serviceName=stats.v2.PushService#🇲🇩 Молдова #2
+vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@185.121.179.250:443?type=tcp&security=reality&fp=firefox&sni=edge-de2.mystatic-cdn.ru&pbk=q1T5P4TRFFaZZhmz8UFJJ2F-otzU6Cl8uagvaytNUHY&sid=19d844ab15cc29d6&flow=xtls-rprx-vision#🇳🇱 Нидерланды #1
+vless://d2aeb078-90db-4f90-b334-623bcbea8d31@vs-nl9.vibesignal.space:443?type=tcp&security=reality&fp=edge&sni=cdnjs.cloudflare.com&pbk=qJzNbNVsTx5TLS9d-0kygrHnUSv1vhzTZLn5a192JU0&sid=e018b609c12facbe&flow=xtls-rprx-vision#🇳🇱 Нидерланды #2
+vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.238.49:8080?type=ws&path=%2F#🇳🇱 Нидерланды #3
+vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@185.121.179.250:443?type=tcp&security=reality&fp=firefox&sni=edge-de2.mystatic-cdn.ru&pbk=q1T5P4TRFFaZZhmz8UFJJ2F-otzU6Cl8uagvaytNUHY&sid=19d844ab15cc29d6&flow=xtls-rprx-vision#🇳🇱 Нидерланды #4
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.79:8080?type=ws&path=%2F#🇺🇸 США #1
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?type=grpc&security=reality&fp=chrome&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&sid=1a3102bb8e51399e&serviceName=gw.v2.RelayService#🇧🇬 Болгария #1
+vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?encryption=none&security=reality&type=xhttp&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&path=%2F&mode=auto#🇩🇪 Белые списки #1
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.86.107:9830?security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&serviceName=grpc-tunnel&packetEncoding=xudp&encryption=none#🇺🇦 Белые списки #2
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9882?security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&type=grpc&serviceName=grpc-tunnel&packetEncoding=xudp&encryption=none#🇰🇿 Белые списки #3
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9873?security=reality&sni=dl.google.com&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&serviceName=grpc-tunnel&packetEncoding=xudp&encryption=none#🇺🇸 Белые списки #4
+vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:2200?security=none&fp=&type=ws&path=/v1&packetEncoding=xudp&encryption=none#🇷🇺 Белые списки #5
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@2.27.244.94:443?type=xhttp&security=reality&fp=qq&sni=www.google.com&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com&mode=auto#🇵🇱 Белые списки #6
+vless://9c2307ba-7972-4ea5-a199-f2c80049be7f@81.200.146.190:4100?type=ws&path=%2Fv1&host=live.ok.ru&security=none#🇷🇺 Белые списки #7
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@212.41.11.31:9882?type=grpc&security=reality&fp=safari&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa&serviceName=grpc-tunnel#🇷🇺 Белые списки #8
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@45.92.177.10:9895?type=grpc&security=reality&fp=ios&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&serviceName=grpc-tunnel#🇷🇺 Белые списки #9
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@212.41.11.31:9891?type=grpc&security=reality&fp=firefox&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&serviceName=grpc-tunnel#🇷🇺 Белые списки #10
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.86.107:9830?type=grpc&security=reality&fp=firefox&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&serviceName=grpc-tunnel#🇺🇦 Белые списки #11
