@@ -1,0 +1,6 @@
+#profile-title: Создай впн сам
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://t.me/sozdayvpnsam
+#announce: Создай впн сам через бота @sozdanie_VPN_bot
+Подпишись https://t.me/sozdayvpnsam
