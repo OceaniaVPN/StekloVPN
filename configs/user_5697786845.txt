@@ -1,0 +1,5 @@
+#profile-title: Aether vpn 0.2
+#profile-update-interval: 6
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: 79199718584
+#announce: Впн от команды Aether vpn
