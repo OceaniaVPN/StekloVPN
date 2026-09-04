@@ -4,7 +4,6 @@
 #profile-web-page-url: https://t.me/sozdayvpnsam
 #announce: Создай впн сам через бота @sozdanie_VPN_bot
 
-Подпишись https://t.me/sozdayvpnsam
 vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&sni=www.google.com&fp=qq&type=xhttp&host=www.google.com&path=/#🇩🇪 Германия #1
 vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.188.158:8080?type=ws&security=none&sni=91.107.188.158#🇩🇪 Германия #2
 vless://0a322246-8c1a-47cd-9865-cccebbb2e5c1@31.76.64.248:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=blog.api.www.cloudflare.com&pbk=9OV_GN4lgwY_4llPfYCGev-PPXLMj-hfYnveKF4tjws&sid=f8&spx=%2F9a51181547531a2#🇩🇪 Германия #3
