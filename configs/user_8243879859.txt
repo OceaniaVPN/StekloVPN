@@ -3,3 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: https://t.me/sozdayvpnsam
 #announce: Создай впн сам с @sozdanie_VPN_bot
+
+vless://139ce424-2210-4861-ad88-7243517ee0de@37.9.4.112:8443?security=reality&encryption=none&pbk=S6uj26PN2fKvyKj_VDW1j3paggazP3a_R2jp2Se5NEI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#Обход 2 vless://139ce424-2210-4861-ad88-7243517ee0de@37.9.4.112:443?security=reality&encryption=none&pbk=duEUoqG-YhrCsPr_R0380IxUFTUbtOl37mWPl9ArmgM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#Обход 3
