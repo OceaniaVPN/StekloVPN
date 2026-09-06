@@ -3,3 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=1944413382
 #x-expire-days-total: 1802
 #x-expire-ts: 1944413382
+
+vless://f1d0c696-495c-420d-adcd-f519661f7ac7@ya3.pro-1.vlessi.cloud:443?type=xhttp&security=tls&fp=firefox&sni=ya3.pro-1.vlessi.cloud&path=%2Fvideo%2Fdownload&host=ya3.pro-1.vlessi.cloud&mode=auto&extra=%7B%22path%22%3A%22%2Fvideo%2Fdownload%22%2C%22seqKey%22%3A%22chunk%22%2C%22sessionKey%22%3A%22visitor_id%22%2C%22xPaddingKey%22%3A%22_ts%22%2C%22seqPlacement%22%3A%22cookie%22%2C%22sessionIDKey%22%3A%22visitor_id%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingHeader%22%3A%22X-Cache-Status%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkChunkSize%22%3A0%2C%22sessionPlacement%22%3A%22cookie%22%2C%22uplinkHTTPMethod%22%3A%22HEAD%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22sessionIDPlacement%22%3A%22cookie%22%2C%22uplinkDataPlacement%22%3A%22body%22%7D&alpn=h2#%F0%9F%87%B3%F0%9F%87%B1+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%E2%84%969
