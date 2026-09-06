@@ -1,0 +1,7 @@
+#profile-title: оригами VPN
+#profile-update-interval: 2
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=8.204509094925434e+21
+#profile-web-page-url: https://t.me/orriggammi best vpn
+#announce: за свободный интернет
+#x-expire-days-total: 94959596006060700
+#x-expire-ts: 8.204509094925434e+21
