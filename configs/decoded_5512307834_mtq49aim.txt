@@ -1,0 +1,13 @@
+#profile-title: Decoded • p.kfwl.lol
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://p.kfwl.lol/ua=happ/os=android/https://sub.routeliora.ru/sub/3pLlLjh7abB825CHQDzF2A
+
+vless://70d482eb-7584-4841-a02a-c668f1ee33e7@de.routeliora.ru:7443?type=tcp&security=reality&sni=de.routeliora.ru&pbk=bDDR3ubmqiA8nv8uD72QLIKgpcWaENtY0Vumrce6jgg&sid=a1b2c3d4&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://70d482eb-7584-4841-a02a-c668f1ee33e7@de2.routeliora.ru:8443?type=tcp&security=reality&sni=de2.routeliora.ru&pbk=bDDR3ubmqiA8nv8uD72QLIKgpcWaENtY0Vumrce6jgg&sid=9f3a7c2d&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://70d482eb-7584-4841-a02a-c668f1ee33e7@de3.routeliora.ru:9443?type=tcp&security=reality&sni=de3.routeliora.ru&pbk=bDDR3ubmqiA8nv8uD72QLIKgpcWaENtY0Vumrce6jgg&sid=7a8b9c0d&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://70d482eb-7584-4841-a02a-c668f1ee33e7@194.50.94.36:8443?type=tcp&security=reality&sni=max.ru&pbk=W5U5Z8pLftajPTvjPaNhn6YCHTQrX-fOvrl8blISS1w&sid=c2d3e4f5&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://70d482eb-7584-4841-a02a-c668f1ee33e7@nl2.routeliora.ru:7443?type=tcp&security=reality&sni=nl2.routeliora.ru&pbk=W5U5Z8pLftajPTvjPaNhn6YCHTQrX-fOvrl8blISS1w&sid=b1c2d3e4&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://70d482eb-7584-4841-a02a-c668f1ee33e7@fi.routeliora.ru:8443?type=tcp&security=reality&sni=dzen.ru&pbk=AxzvGjWPl7k1QMOWsRCgtuizgSS5NVWXwRoYsKP-630&sid=f2a3b4c5&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://70d482eb-7584-4841-a02a-c668f1ee33e7@fi2.routeliora.ru:7443?type=tcp&security=reality&sni=fi2.routeliora.ru&pbk=AxzvGjWPl7k1QMOWsRCgtuizgSS5NVWXwRoYsKP-630&sid=e1f2a3b4&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://70d482eb-7584-4841-a02a-c668f1ee33e7@1ebc3dc6-5d67-4721-b2f5-82228919ddaf.selcdn.net:443?type=xhttp&security=tls&sni=1ebc3dc6-5d67-4721-b2f5-82228919ddaf.selcdn.net#proxy
