@@ -1,9 +1,0 @@
-#profile-title: Колу
-#profile-update-interval: 5
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1791000588
-#profile-web-page-url: 3то3лу
-#announce: Оуоулы
-#x-expire-days-total: 30
-#x-expire-ts: 1791000588
-
-vless://7fa3a22c-0c3b-4085-8a21-aa45b1d17f4a@f1.slynetbest.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=f1.slynetbest.ru&fp=firefox&pbk=LrRPBPaA6ZKt-jkMZc1S5jfknIkxcNTLCHEplbk7IX0&sid=b77bb35941bd3068&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20(Reality)%20%F0%9F%8E%AF
