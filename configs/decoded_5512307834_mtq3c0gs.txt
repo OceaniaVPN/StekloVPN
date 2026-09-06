@@ -1,0 +1,56 @@
+#profile-title: Haven vpn
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://gitverse.ru/api/repos/soulcoil/Haven/raw/branch/master/Haven
+#announce: base64: dGdrIEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogNi4wOS4yNiAxNDo1MCDQnNCh0JoK0LHQu9Cw0LPQvtC00LDRgNGOINC30LAg0LjRgdC/0L7Qu9GM0LfQvtCy0LDQvdC40LUg0L/QvtC00L/QuNGB0LrQuCE=
+
+vless://f219800f-9c62-46c9-b518-df996f754b61@38.180.216.110:20861?security=reality&encryption=mlkem768x25519plus.native.0rtt.2k0jZl0aQn__-3TwASbL-_6TwzW1EX3eijpGTcPOCAY&pbk=5d3R0LwRP61nCvkcSy7j3byPLnC7U3fucNyec4UHRyc&headerType=none&fp=firefox&spx=%2FVCWT2tXIF7CnS6V&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=2759#🇪🇪 Эстония #1
+hy2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?insecure=1&sni=nl01ntrhy01.tcp-reset-club.net#🇳🇱 Нидерланды #1
+vless://d2aeb078-90db-4f90-b334-623bcbea8d31@94.183.208.158:443?security=reality&encryption=none&pbk=qJzNbNVsTx5TLS9d-0kygrHnUSv1vhzTZLn5a192JU0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&sid=e018b609c12facbe#🇳🇱 Нидерланды #2
+vless://a4a57f19-789b-48f6-95da-77bf4e059d3d@nl3.freekeysh110.online:443?security=reality&sni=nl3.freekeysh110.online&fp=edge&pbk=zVEDSKwQEIM6xRD7YEhJakteNI2xPK3xhhKulDo_vWg&sid=b664d93e9d7a04f1&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇳🇱 Нидерланды #3
+vless://a4a57f19-789b-48f6-95da-77bf4e059d3d@nl5.freekeysh110.online:443?security=reality&sni=nl5.freekeysh110.online&fp=edge&pbk=sgPREsDFJUchKawgXgFGEM4YBjTDur0rgD2GuQmZXzA&sid=04b9f0b2470fae16&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇳🇱 Нидерланды #4
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?security=tls&sni=fsn1.nordlinkcloud.com&alpn=h2&fp=&type=xhttp&path=/api/v3/stream/&mode=auto&packetEncoding=xudp&encryption=none#🇳🇱 Нидерланды #5
+https://testuser1:e4b72b531a2d10900519@167.172.172.190:443?security=tls&sni=a7acacbe.acsnet.co&insecure=1&fp=&type=tcp#🇳🇱 Нидерланды #6
+http://87.215.14.228:65432?security=none&fp=&type=tcp#🇳🇱 Нидерланды #7
+https://45.134.9.41:443?security=tls&sni=991cc80f13caf81d3426ddebb2da7f49-240d6105b6ef86f0.apache-iv.com&insecure=1&fp=&type=tcp#🇳🇱 Нидерланды #8
+https://185.246.153.28:443?security=tls&sni=4a8c2906c96058315dffbc2b0e7ff19b-0c66a58858a795df.apache-iv.com&insecure=1&fp=&type=tcp#🇳🇱 Нидерланды #9
+http://kZXMC3Z1:FxNApp@137.131.25.3:50327?security=none&fp=&type=tcp#🇳🇱 Нидерланды #10
+http://148.100.84.192:5252?security=none&fp=&type=tcp#🇬🇧 Великобритания #1
+hy2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=1&sni=de1.sferavpn.pro#🇬🇧 Великобритания #2
+anytls://e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401@178.105.126.242:443?idle_session_check_interval=30s&idle_session_timeout=30s&security=tls&sni=cn.bing.com&insecure=1&fp=&type=tcp#🇬🇧 Великобритания #3
+hy2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@deu0003ntrhy01.tcp-reset-club.net:443?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#🇩🇪 Германия #1
+vmess://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?global_padding=false&authenticated_length=true&encryption=auto&security=none&fp=&type=tcp#🇺🇸 США #1
+http://54.235.192.64:442?security=none&fp=&type=tcp#🇺🇸 США #2
+anytls://2d7bda32-a8b5-4416-a1ea-4559ff98f86e@us13.vipjiedian.sbs:21333?idle_session_check_interval=30s&idle_session_timeout=30s&security=tls&sni=apple.com&insecure=1&fp=&type=tcp#🇺🇸 США #3
+anytls://fanvpn.net@anytls.864106.xyz:18001?idle_session_check_interval=30s&idle_session_timeout=30s&security=tls&sni=anytls.864106.xyz&insecure=1&fp=&type=tcp#🇺🇸 США #4
+vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.1.83:443?security=none&fp=&type=tcp&path=/&headerType=http&host=store.steampowered.com&packetEncoding=xudp&encryption=none#🇹🇷 Турция #1
+vless://0afcdc48-917d-47e8-8adb-cbe6908baede@nl1.dzen-services.com:443?security=reality&sni=nl1.dzen-services.com&fp=&pbk=xgjh4INLejIsR8DCnlOOKV9nK6fKIg1TtB5hhYfahhs&sid=81ea&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇹🇷 Турция #2
+vless://0afcdc48-917d-47e8-8adb-cbe6908baede@50.7.177.20:443?security=reality&sni=nl1.dzen-services.com&fp=&pbk=xgjh4INLejIsR8DCnlOOKV9nK6fKIg1TtB5hhYfahhs&sid=81ea&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇹🇷 Турция #3
+vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.58.134:443?security=none&fp=&type=tcp&headerType=http&host=store.steampowered.com&packetEncoding=xudp&encryption=none#🇹🇷 Турция #4
+vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.50.192:443?security=none&fp=&type=tcp&path=/&headerType=http&host=store.steampowered.com&packetEncoding=xudp&encryption=none#🇹🇷 Турция #5
+vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@45.82.31.129:192?security=reality&sni=fyu.bazaragelbazara.cfd&fp=chrome&pbk=t59o65kEgrYZDGHg3AayZmzmNMsTI8LIqfRXopVyCAY&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇰🇿 Казахстан #1
+vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@45.82.31.129:191?security=reality&sni=on.amusnetnot.site&fp=chrome&pbk=t59o65kEgrYZDGHg3AayZmzmNMsTI8LIqfRXopVyCAY&type=tcp&packetEncoding=xudp&encryption=none#🇰🇿 Казахстан #2
+vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@45.82.31.129:196?security=none&fp=&type=tcp&headerType=http&host=google.com&packetEncoding=xudp&encryption=none#🇰🇿 Казахстан #3
+vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@45.82.31.129:190?security=reality&sni=waldes.amusnetnot.site&fp=chrome&pbk=t59o65kEgrYZDGHg3AayZmzmNMsTI8LIqfRXopVyCAY&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇰🇿 Казахстан #4
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🇦🇺 Австралия #1
+vless://d4719d52-c3fc-4651-98e1-535dbd77dbcf@91.218.230.240:20443?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#🇷🇺 Россия #1
+vless://d4719d52-c3fc-4651-98e1-535dbd77dbcf@cdn2.24lider.ru:443?security=tls&sni=cdn2.24lider.ru&insecure=1&fp=firefox&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇷🇺 Россия #2
+http://178.217.12.101:6669?security=none&fp=&type=tcp#🇷🇺 Россия #3
+http://178.217.12.193:6669?security=none&fp=&type=tcp#🇷🇺 Россия #4
+http://82.115.6.209:16668?security=none&fp=&type=tcp#🇷🇺 Россия #5
+http://178.217.12.232:6669?security=none&fp=&type=tcp#🇷🇺 Россия #6
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@65.109.238.140:443?security=tls&sni=hel1.nordlinkcloud.com&alpn=h2&fp=ios&type=xhttp&path=/api/v3/stream/&mode=auto&extra=%7B%22noSSEHeader%22:true,%22xPaddingBytes%22:%22100-1000%22%7D&packetEncoding=xudp&encryption=none#🇫🇮 Финляндия #1
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@65.109.238.140:443?security=tls&sni=hel1.nordlinkcloud.com&alpn=h2&fp=firefox&type=xhttp&path=/api/v3/stream/&mode=auto&packetEncoding=xudp&encryption=none#🇫🇮 Финляндия #2
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@65.109.238.140:443?security=tls&sni=hel1.nordlinkcloud.com&alpn=h2&fp=&type=xhttp&path=/api/v3/stream/&mode=auto&packetEncoding=xudp&encryption=none#🇫🇮 Финляндия #3
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@65.109.238.140:443?security=tls&sni=hel1.nordlinkcloud.com&alpn=h2&fp=qq&type=xhttp&path=/api/v3/stream/&mode=auto&extra=%7B%22noSSEHeader%22:true,%22xPaddingBytes%22:%22100-1000%22%7D&packetEncoding=xudp&encryption=none#🇫🇮 Финляндия #4
+https://5.101.149.245:8443?security=tls&insecure=1&fp=&type=tcp#🇫🇮 Финляндия #5
+hy2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443?insecure=1#🇨🇭 Швейцария #1
+hy2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443?insecure=1&sni=che01plrhy01.tcp-reset-club.net#🇨🇭 Швейцария #2
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.36.132.218:8686?security=reality&sni=www.apple.com&fp=&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f&type=tcp&packetEncoding=xudp&encryption=none#🇷🇺 Белые списки #1
+vless://d2c6735b-1d72-4596-91e6-f0c190ea0ebb@media-zs12-m53x.mx.yndx-cdn.com:20443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&security=reality&sid=505c94b8c65afb0a&sni=river-3-369.rtbcdn.ru&type=tcp&host=X5x92nOy1n57n5#🇷🇺 Белые списки #2
+vless://d2c6735b-1d72-4596-91e6-f0c190ea0ebb@media-zs12-m53x.mx.yndx-cdn.com:20443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&security=reality&sid=505c94b8c65afb0a&sni=player.mx.yndx-cdn.com&type=tcp&host=X5x92nOy1n57n5#🇷🇺 Белые списки #3
+vless://d2c6735b-1d72-4596-91e6-f0c190ea0ebb@m2e4f3b-m9r8vv.95.yndx-cdn.com:40443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&security=reality&sid=a1b2c3d4e5f6789a&sni=api-maps.yandex.ru&type=tcp&host=X5x92nOy1n57n5#🇷🇺 Белые списки #4
+vless://d2c6735b-1d72-4596-91e6-f0c190ea0ebb@ub7y-fck-e7kxj9.se.yndx-cdn.com:40443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&security=reality&sid=a1b2c3d4e5f6789a&sni=api-maps.yandex.ru&type=tcp&host=X5x92nOy1n57n5#🇷🇺 Белые списки #5
+vless://d2c6735b-1d72-4596-91e6-f0c190ea0ebb@35a1-1mr4-msk-bbd-5zx.89-1.yndx-cdn.com:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&security=reality&sid=a1b2c3d4e5f6789a&sni=ads.x5.ru&type=tcp&host=X5x92nOy1n57n5#🇷🇺 Белые списки #6
+vless://d2c6735b-1d72-4596-91e6-f0c190ea0ebb@z0211mq18-z3rk.ru-a1.y-tun.com:40443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&security=reality&sid=a1b2c3d4e5f6789a&sni=api-maps.yandex.ru&type=tcp&host=X5x92nOy1n57n5#🇷🇺 Белые списки #7
+vless://d2c6735b-1d72-4596-91e6-f0c190ea0ebb@b3aa11az-k15gg1.ru.y-tun.com:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&security=reality&sid=a1b2c3d4e5f6789a&sni=api-maps.yandex.ru&type=tcp&host=X5x92nOy1n57n5#🇷🇺 Белые списки #8
