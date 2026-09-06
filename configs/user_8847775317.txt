@@ -1,0 +1,7 @@
+#profile-title: Aether vpn
+#profile-update-interval: 5
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1791308085
+#profile-web-page-url: Подпишись на канал https://t.me/AETHER_KV
+#announce: По вопросам писать @Aether_KVN1
+#x-expire-days-total: 30
+#x-expire-ts: 1791308085
