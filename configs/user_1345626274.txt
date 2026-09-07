@@ -1,0 +1,7 @@
+#profile-title: Lol
+#profile-update-interval: 2
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1791347887
+#profile-web-page-url: https://t.me/durov
+#announce: Лол
+#x-expire-days-total: 30
+#x-expire-ts: 1791347887
