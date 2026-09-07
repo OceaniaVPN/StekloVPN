@@ -1,0 +1,7 @@
+#profile-title: TitanVPN
+#profile-update-interval: 3
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1820337657
+#profile-web-page-url: @Fanta6755
+#announce: Быстрый и дешевый впн
+#x-expire-days-total: 365
+#x-expire-ts: 1820337657
