@@ -1,7 +1,7 @@
-#profile-title: BananVpn
-#profile-update-interval: 4
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1788976081
-#profile-web-page-url: t.me vpnbanana
-#announce: Впн
-#x-expire-days-total: 2
-#x-expire-ts: 1788976081
+#profile-title: Crystal vpn
+#profile-update-interval: 3
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1793469126
+#profile-web-page-url: T.me crystal vpn
+#announce: Платный впн
+#x-expire-days-total: 54
+#x-expire-ts: 1793469126
