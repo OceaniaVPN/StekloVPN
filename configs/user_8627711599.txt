@@ -1,0 +1,7 @@
+#profile-title: BananVpn
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1788976081
+#profile-web-page-url: t.me vpnbanana
+#announce: Впн
+#x-expire-days-total: 2
+#x-expire-ts: 1788976081
