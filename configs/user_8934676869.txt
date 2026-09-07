@@ -1,0 +1,7 @@
+#profile-title: segggey
+#profile-update-interval: 5
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=88188659640
+#profile-web-page-url: https://t.me/pudzhq
+#announce: обновляй подписку каждую неделю для полноценной работы
+#x-expire-days-total: 999999
+#x-expire-ts: 88188659640
