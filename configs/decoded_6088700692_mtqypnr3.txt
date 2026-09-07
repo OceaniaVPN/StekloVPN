@@ -1,0 +1,14 @@
+#profile-title: Decoded • client.disavi.store
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://client.disavi.store/HajPnj7qdszEdRqv
+
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@all.myrka.digital:443?type=tcp&security=reality&sni=all.myrka.digital&pbk=NCR9_tDPj2ctM9IILmIS_tWiD_UJaneYlKbkWC3Dyz4&sid=b21d6dd5&fp=firefox&flow=xtls-rprx-vision#www
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@free.kyras.pw:443?type=tcp&security=reality&sni=free.kyras.pw&pbk=gBPqQUJUjO1k8-Z9gl6oAgsdJ4OLkwR90zY262Juqyg&sid=afc3da&fp=firefox&flow=xtls-rprx-vision#www-2
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@vera.kyras.pw:443?type=tcp&security=reality&sni=vera.kyras.pw&pbk=xa2oqWBhi_uW7Zns1Irp8OlAEGQFU_vKTUqUqbnG2Wg&sid=cdf67af2&fp=firefox&flow=xtls-rprx-vision#www-3
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@free-exp.kyras.pw:4443?type=grpc&security=reality&sni=free-exp.kyras.pw&pbk=7hecYEsGaHx6EamIZ-n7dT-SIlRnxdJGCRfUbBwSJW0&sid=9fcb7c3f5d8a&fp=firefox#www-4
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@all.myrka.digital:443?type=tcp&security=reality&sni=all.myrka.digital&pbk=NCR9_tDPj2ctM9IILmIS_tWiD_UJaneYlKbkWC3Dyz4&sid=b21d6dd5&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@free.kyras.pw:443?type=tcp&security=reality&sni=free.kyras.pw&pbk=gBPqQUJUjO1k8-Z9gl6oAgsdJ4OLkwR90zY262Juqyg&sid=afc3da&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@vera.kyras.pw:443?type=tcp&security=reality&sni=vera.kyras.pw&pbk=xa2oqWBhi_uW7Zns1Irp8OlAEGQFU_vKTUqUqbnG2Wg&sid=cdf67af2&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@free-exp.kyras.pw:443?type=tcp&security=reality&sni=free-exp.kyras.pw&pbk=j0zYZBOxVchbmpo2MozvopDc1XNNImvKbtKTfVC6igw&sid=3a8f2c9d1b&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@free-exp.kyras.pw:4443?type=grpc&security=reality&sni=free-exp.kyras.pw&pbk=7hecYEsGaHx6EamIZ-n7dT-SIlRnxdJGCRfUbBwSJW0&sid=9fcb7c3f5d8a&fp=firefox#proxy
