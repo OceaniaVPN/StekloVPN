@@ -1,0 +1,60 @@
+#profile-title: Decoded • gist.githubusercontent.com
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://gist.githubusercontent.com/MrBrxof/a9e175524948ef5c3744a8fb23a91440/raw/f53e9684a6e3afde3cd4409b3c773f5a6a148f8d/gistfile1.txt#%F0%9F%8C%B8
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443?headerType=none&type=tcp#🇳🇱 Нидерланды #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#🇳🇱 Нидерланды #2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDE5My4yOS4xMzkuMTk3OjgwODA=#🇳🇱 Нидерланды #3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#🇳🇱 Нидерланды #4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#🇳🇱 Нидерланды #5
+vless://5d4a87fa-16f1-4b65-b217-225a31e36239@89.105.206.122:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=nl.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&encryption=none&fp=chrome#🇳🇱 Нидерланды #6
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@fin4.freeinternat.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&sni=fin4.freeinternat.com#🇳🇱 Нидерланды #7
+vless://cf1d2ded-2472-483a-f2f2-12c83d1826dd@pro2.hx9.ir:2087?encryption=none&type=xhttp&mode=auto&path=%2F%40v2_line&security=tls&sni=cdn-edge-static-assets-delivery-node-a7f2c9e4b1d8.esmahdi9.com&alpn=h2%2Chttp%2F1.1&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%231
+vless://cf1d2ded-2472-483a-f2f2-12c83d1826dd@pro2.hx9.ir:2087?encryption=none&type=xhttp&mode=auto&path=%2F%40v2_line&security=tls&sni=cdn-edge-static-assets-delivery-node-a7f2c9e4b1d8.esmahdi9.com&alpn=h2%2Chttp%2F1.1&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%232
+vless://cf1d2ded-2472-483a-f2f2-12c83d1826dd@cl.nigali.ir:2087?type=xhttp&security=tls&sni=cdn-edge-static-assets-delivery-node-a7f2c9e4b1d8.esmahdi9.com&path=%2F%40v2_line&mode=auto&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22length%22%3A%2240-60%22%2C%22packets%22%3A%22tlshello%22%2C%22delay%22%3A%222-5%22%7D%7D%5D%7D&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%233
+vless://cf1d2ded-2472-483a-f2f2-12c83d1826dd@pro2.hx9.ir:2087?type=xhttp&security=tls&path=%2F%40v2_line&sni=cdn-edge-static-assets-delivery-node-a7f2c9e4b1d8.esmahdi9.com&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%234
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#🇩🇪 Германия #5
+vless://df9f5aca-eda0-428f-a752-e53866153d12@srv-21bac9.vless.monster:2087?security=tls&type=grpc&mode=gun&serviceName=freegrpc&packetEncoding=xudp&alpn=h2&sni=srv-21bac9.vless.monster&fp=firefox# 🇩🇪 Германия #6
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?encryption=none&fp=&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&security=reality&serviceName=api.v1.StreamService&sid=1ea59febb8d4fc8e&sni=api.noneok.com&type=grpc#🇩🇪 Германия #7
+vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?type=tcp&security=tls&encryption=none&fp=firefox&sni=deproxy2.lckdwn.ru#🇩🇪 Германия #8
+vless://df9f5aca-eda0-428f-a752-e53866153d12@31.56.189.27:2087?type=grpc&security=tls&fp=firefox&sni=srv-21bac9.vless.monster&serviceName=freegrpc#🇩🇪 Германия #9
+vless://0a322246-8c1a-47cd-9865-cccebbb2e5c1@31.76.64.248:443?security=reality&encryption=none&pbk=9OV_GN4lgwY_4llPfYCGev-PPXLMj-hfYnveKF4tjws&headerType=none&fp=firefox&spx=%2F9a51181547531a2&type=tcp&flow=xtls-rprx-vision&sni=blog.api.www.cloudflare.com&sid=f8#🇩🇪 Германия #10
+vless://1c20357e-be52-4e5e-8eb6-6434adcb4b71@104.167.24.227:18443?mode=gun&security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&fp=chrome&type=grpc&serviceName=grpc&sni=gp1.steptofsvo.com&sid=5c766813929a1fdd#🇩🇪 Германия #11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#🇩🇪 Германия #12
+vless://0325e30e-7505-477e-aa32-7f73a3cc0153@cdn7-02.cdn-vkvideo.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&sid=b0d8f964b7ac8ac0&sni=cdn7-02.cdn-vkvideo.com&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%231
+vless://0325e30e-7505-477e-aa32-7f73a3cc0153@cdn7-02.cdn-vkvideo.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&sid=b0d8f964b7ac8ac0&sni=cdn7-02.cdn-vkvideo.com&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%232
+vless://0325e30e-7505-477e-aa32-7f73a3cc0153@138.124.9.165:443?encryption=none&flow=xtls-rprx-vision&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&security=reality&sid=b0d8f964b7ac8ac0&sni=cdn7-02.cdn-vkvideo.com&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%233
+vless://0325e30e-7505-477e-aa32-7f73a3cc0153@cdn7-02.cdn-vkvideo.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&sid=b0d8f964b7ac8ac0&sni=cdn7-02.cdn-vkvideo.com&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%231
+vless://0325e30e-7505-477e-aa32-7f73a3cc0153@cdn7-02.cdn-vkvideo.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&sid=b0d8f964b7ac8ac0&sni=cdn7-02.cdn-vkvideo.com&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%232
+vless://0325e30e-7505-477e-aa32-7f73a3cc0153@138.124.9.165:443?encryption=none&flow=xtls-rprx-vision&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&security=reality&sid=b0d8f964b7ac8ac0&sni=cdn7-02.cdn-vkvideo.com&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%233
+vless://7a657573-2b15-7da4-f946-ea01958fc999@77.105.163.59:8443?path=%2Fstream%2FPANEL_ZEUS%2Fea01958fc999%2Floc-0&security=tls&encryption=none&insecure=0&host=amz7goecubds.qiz56mebupbs.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=amz7goecubds.qiz56mebupbs.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80%20%231
+vless://7a657573-2b15-7da4-f946-ea01958fc999@195.85.59.55:8443?path=%2Fstream%2FPANEL_ZEUS%2Fea01958fc999%2Floc-0&security=tls&encryption=none&insecure=0&host=amz7goecubds.qiz56mebupbs.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=amz7goecubds.qiz56mebupbs.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80%20%232
+vless://7a657573-2b15-7da4-f946-ea01958fc999@77.105.163.59:443?path=%2Fstream%2FPANEL_ZEUS%2Fea01958fc999%2Floc-0&security=tls&encryption=none&insecure=0&host=amz7goecubds.qiz56mebupbs.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=amz7goecubds.qiz56mebupbs.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80%20%233
+vless://7a657573-2b15-7da4-f946-ea01958fc999@195.85.59.55:443?path=%2Fstream%2FPANEL_ZEUS%2Fea01958fc999%2Floc-0&security=tls&encryption=none&insecure=0&host=amz7goecubds.qiz56mebupbs.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=amz7goecubds.qiz56mebupbs.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80%20%234
+vless://7a657573-2b15-7da4-f946-ea01958fc999@195.85.59.55:8443?fp=qq&host=amz7goecubds.qiz56mebupbs.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fea01958fc999%2Floc-0&security=tls&sni=amz7goecubds.qiz56mebupbs.workers.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80%20%235
+vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?security=false&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F&fp=ios#%F0%9F%87%B9%F0%9F%87%AD%20%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4%20%231
+vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?security=false&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F&fp=edge#%F0%9F%87%B9%F0%9F%87%AD%20%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4%20%232
+vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?encryption=none&security=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F&fp=edge#%F0%9F%87%B9%F0%9F%87%AD%20%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4%20%233
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#🇯🇵 Япония #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.152.189:50099#🇯🇵 Япония #2
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdkA4NC4yNDcuMTU1LjE5Njo4MA==#🇯🇵 Япония #3
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@130.12.102.62:443?&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=chrome&sni=localhost&type=tcp&headerType=none&host=localhost&path=%2F#🇯🇵 Япония #4
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#🇺🇸 США #1
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#🇺🇸 США #2
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE1LjIwNC4yNDYuMTMyOjczMDc=#🇺🇸 США #3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQjJDdjlWSWx1amo@23.150.248.20:8388#🇺🇸 США #4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#🇺🇸 США #5
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#🇺🇸 США #6
+vless://8c235628-4c27-44b5-9559-7ab1d53b7ff3@34.222.2.182:50159?&security=reality&flow=xtls-rprx-vision&pbk=SX1vaYIIZcbcfO3RrAPhYQ1FAeA7bkcDZJtEDN9pbxw&sid=94c8a1b378da7250&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🇺🇸 США #7
+vless://abd1c29a-94cb-4648-8d1e-5baae9d2a807@172.236.233.59:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=525e0ffc773f48ba&pbk=oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0#🇺🇸 США #8
+vless://cd23ed17-33d8-499b-8836-f16531081366@69.46.46.106:443?mode=stream-up&path=%2Fxhttp-siz10%2Fstream-up%2Fcd23ed17-33d8-499b-8836-f16531081366&security=tls&alpn=h2&encryption=none&host=marble-prairie-10e2-production.up.railway.app&type=xhttp&sni=marble-prairie-10e2-production.up.railway.app&fp=safari#🇺🇸 США #9
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#🇨🇦 Канада #1
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#🇨🇦 Канада #2
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#🇨🇦 Канада #3
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445?type=tcp&headerType=none#🇨🇦 Канада #4
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000?type=tcp#🇨🇦 Канада #5
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.149.209:2087?security=tls&fp=chrome&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&path=/?ed=2560#🇹🇷 Туриця #1
+vless://bbb9b9db-d7f8-4242-b053-8526899f87b5@ae.209qu4892fh8934.live:443?security=reality&alpn=h2&encryption=none&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&type=grpc&serviceName=livestreamcontent&sni=irangov.ir&sid=5c93a30dbabbc444&fp=android#🇹🇷 Турция #2
+vless://3a42d8f9-12ce-5345-bfdb-5a5c605c2da5@31.76.21.44:443?encryption=none&type=ws&path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=firefox&sni=31.76.21.44.fwqfw783rg2dad.website#🇰🇿 Казахстан #1
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.42.39.10:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&type=grpc&serviceName=TunService&sni=www.google.com#🇸🇪 Швеция #1
