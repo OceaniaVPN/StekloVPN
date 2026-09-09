@@ -2,3 +2,5 @@
 #profile-update-interval: 3
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #announce: +7 (982) 912-73-73 скинь денег если не жалко
+
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?security=reality&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&fp=safari&type=tcp&sni=localhost#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90
