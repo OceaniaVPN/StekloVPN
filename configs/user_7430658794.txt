@@ -5,3 +5,4 @@
 #announce: Обновление 4
 
 vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@144.31.243.220:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=lt.yservice.help&fp=firefox&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20WIFI
+vless://af7fe31b-503f-48a0-b201-93b097d923c2@mebel-v-rostove.online:443?encryption=none&security=tls&sni=mebel-v-rostove.online&alpn=h3%2C%20h2&fp=qq&type=xhttp&mode=auto&host=mebel-v-rostove.online&path=%2Fapi%2Fv2%2F&extra=%7B%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D#%D0%BF%D1%80%D0%B8%20%D0%BF%D0%BB%D0%BE%D1%85%D0%BE%D0%BC%20%D0%B8%D0%BD%D0%B5%D1%82%D0%B5
