@@ -4,7 +4,7 @@
 #profile-web-page-url: https://t.me/yebanutyye_68
 
 vless://02f3a6a2-289e-4026-8e26-616d47e0914f@lit.lizard.surf:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=lit.lizard.surf&fp=qq&pbk=QPGdBjmycK5eA6rV4-sKsNUn8VyK-NCWHw3jO5SJ6C4&sid=2b1e40fbb1362f77&type=tcp&headerType=none#Литва кастомка
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@46.254.19.179:8443?encryption=none&security=reality&sni=id.pervye.ru&fp=firefox&pbk=aXRkGuTaLQILSXsgyi79AcsxLPFhUXUKMTVExG6bmi8&type=grpc&mode=gun&authority=&serviceName=ns#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%9A%80%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%A1%20%233
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#%D0%90%D0%92%D0%A2%D0%9E%20%40happcluchi%20vpn%20%F0%9F%87%AA%F0%9F%87%BA
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#%F0%9F%87%AB%F0%9F%87%AE%20Кастом сервер
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#%F0%9F%87%B7%F0%9F%87%BA%20RU%2053%20%7C%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D1%81%20t.me%2Fowpns%20%5Bowpn.org%5D
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#%Россия%20-%2075%20%F0%9F%87%B7%F0%9F%87%BA
