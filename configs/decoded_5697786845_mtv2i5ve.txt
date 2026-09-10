@@ -1,0 +1,57 @@
+#profile-title: Decoded • gitverse.ru
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://gitverse.ru/api/repos/SlavaKat/FreeProxyNova/raw/branch/master/%F0%9F%86%93ProxyNova%20%E2%9D%AF%20%F0%9F%97%BD%F0%9F%95%8A%E2%9C%8A%20%D0%90%D0%B2%D1%82%D0%BE%20%D0%B2%D1%8B%D0%B1%D0%BE%D1%80
+
+vless://140f954a-7ab9-0001-be3a-248c269117f1@cdn.yandex.lumixvpn.org:443?type=xhttp&security=tls&sni=cdn.yandex.lumixvpn.org&fp=qq#proxy-1
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@188.225.33.141:443?type=ws&security=tls&path=%2Fapi%2Fconnect&host=wstg.datasynctrue.online&sni=wstg.datasynctrue.online#proxy-2
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?type=ws&security=tls&path=%2Fapi%2Fconnect&host=wstg.datasynctrue.online&sni=wstg.datasynctrue.online#proxy-3
+vless://40b8f1ff-36c2-41af-9e54-9c34a74607e9@188.72.103.4:443?type=xhttp&security=tls&sni=j2.astrav2.online&fp=firefox#proxy-4
+vless://172fc96e-3e29-439f-9136-2d6bfde8223c@188.72.103.4:443?type=xhttp&security=tls&sni=j2.astrav2.online&fp=firefox#proxy-5
+vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@188.225.45.99:443?type=tcp&security=reality&sni=on.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox&flow=xtls-rprx-vision#proxy-6
+vless://3013f09a-25c7-499c-a39a-697f6c032cfa@46.243.142.239:8443?type=tcp&security=reality&sni=helper-test.x5.ru&pbk=tl-y_EBK2pPKhlChEPSYgKrXxrKUWomrQ8X9V8SP0xQ&sid=4acb4c423d47ae19&fp=firefox&flow=xtls-rprx-vision#proxy-7
+vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@mine-host.mcufa.pro:443?type=tcp&security=reality&sni=on.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox&flow=xtls-rprx-vision#proxy-8
+vless://0764541b-3e57-4b47-954b-51e996fae5fc@xs22.mcufa.pro:443?type=xhttp&security=tls&sni=xs22.mcufa.pro&fp=firefox#proxy-9
+vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.213:443?type=tcp&security=reality&sni=on.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox&flow=xtls-rprx-vision#proxy-10
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.170:443?type=tcp&security=tls&sni=pl1-ded.moritech.net&fp=firefox&flow=xtls-rprx-vision#proxy-11
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?type=grpc&security=reality&serviceName=api.v1.StreamService&sni=files.noneok.com&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&sid=d3b394558cfe0266&fp=firefox#proxy-12
+vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?type=tcp&security=reality&sni=timeline.www.cloudflare.com&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&fp=firefox#proxy-13
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?type=grpc&security=reality&serviceName=api.v1.StreamService&sni=files.noneok.com&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&sid=d3b394558cfe0266&fp=firefox#proxy-14
+vless://d2aeb078-90db-4f90-b334-623bcbea8d31@94.183.208.158:443?type=tcp&security=reality&sni=cdnjs.cloudflare.com&pbk=qJzNbNVsTx5TLS9d-0kygrHnUSv1vhzTZLn5a192JU0&sid=e018b609c12facbe&fp=firefox&flow=xtls-rprx-vision#proxy-15
+vless://4cbefb4d-328c-411d-bf76-780df1082df8@31.76.89.110:8443?type=xhttp&security=reality&sni=wikihow.com&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&fp=firefox#proxy-16
+vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.76.31.98:3443?type=tcp&security=reality&sni=fr.aeternavpn.space&pbk=fKf7EIjZdqNxLi0XCfevI-LOtOxW_D-48Nh9N_gd0hw&sid=a1b2c3d4&fp=qq&flow=xtls-rprx-vision#proxy-17
+vless://d2aeb078-90db-4f90-b334-623bcbea8d31@vs-nl9.vibesignal.space:443?type=tcp&security=reality&sni=cdnjs.cloudflare.com&pbk=qJzNbNVsTx5TLS9d-0kygrHnUSv1vhzTZLn5a192JU0&sid=e018b609c12facbe&fp=edge&flow=xtls-rprx-vision#proxy-18
+vless://eaf8abff-0fbf-4b64-8d8f-18c1757c75df@188.130.209.185:443?type=tcp&security=reality&sni=images.mycdn-io.ru&pbk=vrtWpW_N3rBs9WEoV1Yz4uOYsci3Kpe7HitaYr4oQGc&sid=fbe42a5d4788bacc&fp=qq&flow=xtls-rprx-vision#proxy-19
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@viper-21.moriarty-web.com:443?type=tcp&security=tls&sni=viper-21.moriarty-web.com&fp=firefox&flow=xtls-rprx-vision#proxy-20
+vless://f26d7d58-1e5d-4ff2-b56a-42f3792de323@195.133.80.8:443?type=tcp&security=reality&sni=uuidp.aeternavpn.space&pbk=BfWH0Semc11YkTslIO_Igss921A5J3JMmq_i2FaZxDo&sid=a1b2c3d4&fp=firefox&flow=xtls-rprx-vision#proxy-21
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&fp=qq#proxy-22
+vless://3a42d8f9-12ce-5345-bfdb-5a5c605c2da5@31.76.21.44:443?type=ws&security=tls&path=%2Fwebsocket%3Fed%3D2560&sni=31.76.21.44.fwqfw783rg2dad.website&fp=firefox#proxy-23
+vless://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@mix.pantera-radio.ru:443?type=xhttp&security=tls&sni=mix.pantera-radio.ru&fp=chrome#proxy-24
+vless://c928859b-424d-429c-b1fe-c99137af7c4b@151.244.30.176:443?type=tcp&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=V4MbF_aWSZ8bw6WbRL_wApaf4uagzBnu0c62g3dyNQY&sid=c16225938b61882e&fp=firefox&flow=xtls-rprx-vision#proxy-25
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&fp=firefox#proxy-26
+vless://2a0f8d3d-9b53-4173-9a32-ac7dcf51963b@188.72.103.4:443?type=xhttp&security=tls&sni=cdnpol6.pguard.pro&fp=edge#proxy-27
+vless://2a0f8d3d-9b53-4173-9a32-ac7dcf51963b@cdnpol6.pguard.pro:443?type=xhttp&security=tls&sni=cdnpol6.pguard.pro&fp=edge#proxy-28
+vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.162:443?type=tcp&security=reality&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&fp=qq&flow=xtls-rprx-vision#proxy-29
+vless://b7797db2-27fa-4127-a9f7-18ae181a1cb7@79.174.92.85:6443?type=grpc&security=reality&serviceName=grpc&sni=iv.kommersant.ru&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&sid=bad5722c72a0&fp=qq#proxy-30
+vless://da57dfef-d209-45a1-bfd8-56081a9cd85a@159.194.227.162:443?type=tcp&security=reality&sni=host.sdssg-vid.online&pbk=JTfn2ptIhAUEvckdewfrYYQXi9nTTOyWGuWInafzxm0&sid=b3a1d910e7c2d2&fp=firefox&flow=xtls-rprx-vision#proxy-31
+vless://b719dc9d-c881-4c9a-8200-7985c2cfc9b5@46.243.142.89:9443?type=xhttp&security=reality&sni=h5wnt.nodes.ac&pbk=5hhzoP441DrGa2l5YlwizPSA5chdY2VjRP7CiEfLLA0&sid=eea4ab7bddaeea39&fp=firefox#proxy-32
+vless://b719dc9d-c881-4c9a-8200-7985c2cfc9b5@46.243.142.89:9443?type=xhttp&security=reality&sni=pl-1.nodes.ac&pbk=5hhzoP441DrGa2l5YlwizPSA5chdY2VjRP7CiEfLLA0&sid=eea4ab7bddaeea39&fp=firefox#proxy-33
+vless://5de7a6f1-a272-4057-b679-aee03fd0c584@31.129.42.37:443?type=xhttp&security=tls&sni=forward-change.datapull.cc&fp=firefox#proxy-34
+vless://e35cef4a-e059-493e-9735-0cdf90014b74@185.241.195.146:443?type=ws&security=tls&path=%2Fe7ws&sni=dostavka.stroymatdv.cc&fp=edge#proxy-35
+vless://2d3df0a0-7299-4db4-a4d9-5b228f81566a@87.242.127.110:9443?type=grpc&security=reality&serviceName=grpc-vk&sni=smartcaptcha.yandexcloud.net&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a33&fp=firefox#proxy-36
+vless://eb3a6c45-1d9b-4a78-89d7-08b196d7af15@188.72.103.4:443?type=xhttp&security=tls&sni=j2.astrav2.online&fp=firefox#proxy-37
+vless://d4e3b9d1-8b59-4407-98dc-71fee859304c@46.254.18.60:443?type=xhttp&security=tls&sni=ihcbs1.luxusvpn.app&fp=firefox#proxy-38
+vless://d4e3b9d1-8b59-4407-98dc-71fee859304c@188.225.72.20:443?type=xhttp&security=tls&sni=ob3.floatingcars.net&fp=firefox#proxy-39
+vless://d4e3b9d1-8b59-4407-98dc-71fee859304c@188.225.24.73:443?type=xhttp&security=tls&sni=ob1.floatingcars.net&fp=firefox#proxy-40
+vless://b719dc9d-c881-4c9a-8200-7985c2cfc9b5@95.129.236.216:443?type=ws&security=tls&path=%2Forigin%2F190546791%2Ffetch&host=cdnguard.org&sni=cdnguard.org&fp=firefox#proxy-41
+vless://5de7a6f1-a272-4057-b679-aee03fd0c584@188.68.218.110:443?type=xhttp&security=tls&sni=forward-change.pushbyte.cc&fp=firefox#proxy-42
+vless://b719dc9d-c881-4c9a-8200-7985c2cfc9b5@46.243.142.184:4443?type=xhttp&security=reality&sni=k7vqz.nodes.ac&pbk=h4ykk3TnjOoph-89y4vL9A_V9nQB1yp1WMN344yhU3I&sid=791176388131b7e2&fp=firefox#proxy-43
+vless://2d3df0a0-7299-4db4-a4d9-5b228f81566a@185.40.153.217:443?type=grpc&security=reality&serviceName=grpc-vk&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a33&fp=firefox#proxy-44
+vless://d4e3b9d1-8b59-4407-98dc-71fee859304c@188.72.103.4:443?type=xhttp&security=tls&sni=cdnyan4.floatingcars.net&fp=firefox#proxy-45
+vless://d4e3b9d1-8b59-4407-98dc-71fee859304c@188.72.103.4:443?type=xhttp&security=tls&sni=cdnyan7.floatingcars.net&fp=firefox#proxy-46
+vless://d4e3b9d1-8b59-4407-98dc-71fee859304c@188.72.103.4:443?type=xhttp&security=tls&sni=cdnyan6.floatingcars.net&fp=firefox#proxy-47
+vless://d4e3b9d1-8b59-4407-98dc-71fee859304c@188.72.103.4:443?type=xhttp&security=tls&sni=cdnyan3.floatingcars.net&fp=firefox#proxy-48
+vless://d4e3b9d1-8b59-4407-98dc-71fee859304c@188.72.103.4:443?type=xhttp&security=tls&sni=cdnyan5.floatingcars.net&fp=firefox#proxy-49
+vless://d4e3b9d1-8b59-4407-98dc-71fee859304c@188.72.103.4:443?type=xhttp&security=tls&sni=cdnyan8.floatingcars.net&fp=firefox#proxy-50
+vless://d4e3b9d1-8b59-4407-98dc-71fee859304c@188.72.103.4:443?type=xhttp&security=tls&sni=cdnyan.floatingcars.net&fp=firefox#proxy-51
+vless://d4e3b9d1-8b59-4407-98dc-71fee859304c@188.72.103.4:443?type=xhttp&security=tls&sni=cdnyan2.floatingcars.net&fp=firefox#proxy-52
