@@ -1,3 +1,5 @@
 #profile-title: Подписка для админов Aether vpn
 #profile-update-interval: 4
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+
+vless://eb253711-dd6e-4eca-9640-6062c867ba7f@45.11.26.99:8001?encryption=none&type=xhttp&path=%2F&mode=auto&security=reality&sni=ads.x5.ru&fp=firefox&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U#%F0%9F%87%A9%F0%9F%87%AA%20Germany-3%20%7C%20WL%20%7C%20x5
