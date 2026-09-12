@@ -2,3 +2,5 @@
 #profile-update-interval: 5
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #announce: Обновление 6
+
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&mode=multi&authority=&serviceName=grpc-tunnel#%F0%9F%87%A6%F0%9F%87%B9%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%20WIFI
