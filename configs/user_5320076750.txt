@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: https://t.me/yebanutyye_68
 
-vless://d9d0f208-d582-41d5-bb7b-742671402810@145.63.136.220:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=us-main-2.hanvpn.biz&fp=firefox&pbk=PBdrT4IGQ9dXoz3Sb52kGRUb22OoHF4jTtTq_5K3AWc&sid=95f904b1e977e5cb&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%7C%20%D0%9A%D0%B8%D0%BF%D1%80%20%2362
+ss://2022-blake3-aes-256-gcm:cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:2tFqykGqZ101XW11f6iRiERnPycFAjjYq0y2zUYhKho=@51.38.71.51:2083#%F0%9F%87%AC%F0%9F%87%A7United%20Kingdom
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@nl-new-ded.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20%7C%20%D0%9C%D0%BE%D1%89%D0%BD%D1%8B%D0%B9
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#%F0%9F%87%AB%F0%9F%87%AE%20Кастом сервер
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#%F0%9F%87%B7%F0%9F%87%BA%20RU%2053%20%7C%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D1%81%20t.me%2Fowpns%20%5Bowpn.org%5D
