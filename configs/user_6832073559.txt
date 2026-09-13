@@ -7,3 +7,4 @@ hysteria2://@31.56.185.228:443?sni=hyst.dataroute.biz&alpn=h3#%25F0%259F%2587%25
 vless://Fluffy_VPN-31IiMnqX@84.201.136.139:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=hkWS1b3Hr9QYpBJ47yEgghAMEWj293itZ-_BDHTYozQ#proxy-salsa
 vless://Fluffy_VPN-31IiMnqX@158.160.159.168:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=hGcMifcx5w0yLPhmGq0dmxDgqMsHvyPjGCV0_sQXnDA#proxy-rumba
 vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?type=ws&host=fbsv6.guardora.pro&path=/ws&security=tls&sni=fbsv6.guardora.pro&fp=firefox&allowInsecure=0#guardorabridgevless1
+vless://Fluffy_VPN-31IiMnqX@89.110.98.32:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ya.ru&pbk=qPUsODhSCg1q0FiIyc2m9mL3Qqkx6Ll_8eGhzWhqalM#proxy-badger
