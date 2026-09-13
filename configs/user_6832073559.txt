@@ -2,3 +2,5 @@
 #profile-update-interval: 2
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #announce: nonnonee of
+
+hysteria2://@31.56.185.228:443?sni=hyst.dataroute.biz&alpn=h3#%25F0%259F%2587%25B3%25F0%259F%2587%25B1%2520%25F0%259F%258E%25AE%2520%25D0%259D%25D0%25B8%25D0%25B4%25D0%25B5%25D1%2580%25D0%25BB%25D0%25B0%25D0%25BD%25D0%25B4%25D1%258B%2520%257C%2520Hysteria2
