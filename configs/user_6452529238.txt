@@ -1,0 +1,6 @@
+#profile-title: GRN_VPN
+#profile-update-interval: 2
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: t.me/apruxx
+#announce: Интернет без границ! 
+Владелец @apruxx (не ручаюсь за работоспособность)
