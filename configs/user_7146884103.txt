@@ -1,0 +1,7 @@
+#profile-title: 🟦StekloVPN whitelist 🦆
+#profile-update-interval: 2
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1791136717
+#profile-web-page-url: https://t.me/drefs_trybpn
+#announce: Обход впн @dfers_tryvpn
+#x-expire-days-total: 20
+#x-expire-ts: 1791136717
