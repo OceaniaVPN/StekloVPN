@@ -3,3 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@188.225.33.141:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20%232
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@stream.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=stream.betust.net&fp=firefox&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&sid=2aef5875&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%D0%90%D0%B2%D1%82%D0%BE%20%7C%20%E2%9A%A1%EF%B8%8F%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%201%20(2)
