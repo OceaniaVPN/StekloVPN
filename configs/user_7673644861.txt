@@ -1,0 +1,7 @@
+#profile-title: WINVPN
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1804999069
+#profile-web-page-url: https://t.me/W1NTER1177
+#announce: За подпиской в W1NTER1177
+#x-expire-days-total: 180
+#x-expire-ts: 1804999069
