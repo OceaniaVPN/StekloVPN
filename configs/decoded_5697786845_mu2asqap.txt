@@ -1,0 +1,25 @@
+#profile-title: Decoded • gitverse.ru
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://gitverse.ru/api/repos/Pizduk/PizdukVPN/raw/branch/master/WaHapp
+
+vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?type=tcp&security=reality&sni=timeline.www.cloudflare.com&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&fp=firefox#Wyszkow
+vless://64c3ae71-4874-4a05-8d52-73b2fbb8a207@143.246.192.151:443?type=tcp&security=reality&sni=start.ru&pbk=bvsWIFDpAQUwS3AxFX6GjUEphHZKuFFJd0VF-4GjvRI&fp=firefox&flow=xtls-rprx-vision#Sweden_1
+vless://64c3ae71-4874-4a05-8d52-73b2fbb8a207@143.246.193.150:443?type=tcp&security=reality&sni=start.ru&pbk=bvsWIFDpAQUwS3AxFX6GjUEphHZKuFFJd0VF-4GjvRI&sid=0a381e1fa219&fp=firefox&flow=xtls-rprx-vision#Sweden_2
+vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@144.124.252.13:443?type=tcp&security=reality&sni=nid3.pinkmoon.pro&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&fp=firefox&flow=xtls-rprx-vision#Amsterdam_pinkmoon
+vless://d9d0f208-d582-41d5-bb7b-742671402810@212.87.223.71:443?type=tcp&security=reality&sni=eu-west-nl-5.hanvpn.biz&pbk=hbC3iY1vomc1WbYJPQ4EjJrxVre5eTBURa-RO9tV9Tw&sid=840533421b43571b&fp=firefox&flow=xtls-rprx-vision#Dronten
+vless://02722550-1915-4629-a653-cbe95e594f70@cdn1nd.goonars.com:443?type=tcp&security=reality&sni=apiv23tw.goonars.com&pbk=8HYqDHdQ1IuLPhAOENT70_j0prAi1PNkwlT6venYAEM&sid=a78da1f7&fp=firefox&flow=xtls-rprx-vision#Halfweg
+vless://02722550-1915-4629-a653-cbe95e594f70@50.7.193.138:443?type=tcp&security=reality&sni=apiv12nd.goonars.com&pbk=OINuDFEDTdmtFR8QRxAZfQIMPA-wJxfGN1LjB3TFUHo&sid=535a3304&fp=firefox&flow=xtls-rprx-vision#Slough
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?type=grpc&security=none&serviceName=vless#London
+vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:443?type=tcp&security=reality&sni=de4-hub.hanvpn.biz&pbk=LFPv5Q45OXAS1Oh_1LYJluGeZ037_0G4r6c97PdJ7lA&sid=fdc320533dce033b&fp=firefox&flow=xtls-rprx-vision#Frankfurt_hanvpn
+vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@31.76.20.209:443?type=tcp&security=reality&sni=de.pinkmoon.pro&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&fp=firefox&flow=xtls-rprx-vision#Frankfurt_pinkmoon_1
+vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@31.77.129.182:443?type=tcp&security=reality&sni=de.pinkmoon.pro&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&fp=firefox&flow=xtls-rprx-vision#Frankfurt_pinkmoon_2
+vless://02722550-1915-4629-a653-cbe95e594f70@cdn12usa.goonars.com:443?type=tcp&security=reality&sni=cdn12usa.goonars.com&pbk=vFnG0SzHIv43o3L8bw4reKp3EIFuSS-BCyBqbWUsYCo&sid=6591f200&fp=firefox&flow=xtls-rprx-vision#Chicago
+vless://5934cc4f-c17b-41c0-9280-c75eb222f4b7@152.53.210.68:8443?type=xhttp&security=reality&sni=magoo.cykotix.com&pbk=O_13gTb5W88d_u8W22JYm15-Ns6eAFg7wSAWpPVFgHQ&fp=firefox#Manassas_1
+vless://5934cc4f-c17b-41c0-9280-c75eb222f4b7@152.53.209.72:8443?type=xhttp&security=reality&sni=magoo.cykotix.com&pbk=O_13gTb5W88d_u8W22JYm15-Ns6eAFg7wSAWpPVFgHQ&fp=firefox#Manassas_2
+vless://367b6ccd-ecf1-42da-b9d7-375161ab0952@167.104.216.148:443?type=tcp&security=reality&sni=fr3.esimpson.org&pbk=YzcD3L8gMsXxNBiGsPaLsy6DMip_MK6xu7voH_HriA8&sid=cd41f54066ca4672&fp=firefox&flow=xtls-rprx-vision#Paris
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&fp=qq#Ukrayinka_1
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&fp=firefox#Ukrayinka_2
+vless://b89196b1-7b72-4b81-83d0-e4d4df79f678@31.76.8.192:443?type=tcp&security=reality&sni=fi.yabloko.top&pbk=PedRm9kq-9CQ4f9Wr1utMyCf1V3qUXH_IeCBBMhy8z0&sid=e07824f6b1be0b82&fp=firefox#Helsinki_yabloko
+vless://40205ae5-d30f-4216-b2e0-0506dbbd382e@2.26.100.192:445?type=tcp&security=reality&sni=ads.x5.ru&pbk=Ku60WZ3HEdE07DoEBJ5I9o_fjcN_bhdK8bTW3RJjBmM&sid=c226283c4de5b1ad&fp=firefox&flow=xtls-rprx-vision#Helsinki_adsx5
+vless://238e492b-bc20-4380-92b6-135d39112ca4@200.165.235.78:443?type=tcp&security=reality&sni=api8.eaglors.com&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&sid=52ccb3687fe0b7ec&fp=qq&flow=xtls-rprx-vision#Moscow
