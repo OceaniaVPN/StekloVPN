@@ -2,3 +2,5 @@
 #profile-update-interval: 1 час
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: https://t.me/nenekalamw
+
+vless://b1224548-aa19-4d09-9ded-51d4d2a74035@cdn.afrofreedom.site:443?encryption=none&security=tls&sni=cdn.afrofreedom.site&alpn=h2%2C%20http%2F1.1&fp=chrome&type=xhttp&mode=packet-up&host=cdn.afrofreedom.site&path=%2Flive%2Fedge&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingKey%22%3A%22dc%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22uplinkHTTPMethod%22%3A%22OPTIONS%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22scMaxBufferedPosts%22%3A20.0%2C%22scMaxEachPostBytes%22%3A262144.0%2C%22scMinPostsIntervalMs%22%3A10.0%7D#%F0%9F%87%B8%F0%9F%87%B4LTE%20%E2%9A%A1%EF%B8%8F%D0%91%D0%AB%D0%A1%D0%A2%D0%A0%D0%AB%D0%99%E2%9A%A1%EF%B8%8Fz
