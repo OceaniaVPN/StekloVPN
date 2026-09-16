@@ -1,0 +1,10 @@
+#profile-title: Decoded • enc.ring-team.casa
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://enc.ring-team.casa/sub/kuajs27ilzcz
+
+vless://729425fa-585b-458e-841a-ea30872d4ac2@45.144.54.2:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.uva.nl&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&sid=940dbf5b&fp=firefox#ð©ðª Frankfurt
+vless://729425fa-585b-458e-841a-ea30872d4ac2@2.27.40.16:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.uva.nl&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&sid=940dbf5b&fp=firefox#ð³ð± YouTube Ð±ÐµÐ· ÑÐµÐºÐ»Ð°Ð¼Ñ
+vless://729425fa-585b-458e-841a-ea30872d4ac2@177.3.208.167:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.uva.nl&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&sid=940dbf5b&fp=firefox#ð³ð± Amsterdam
+vless://729425fa-585b-458e-841a-ea30872d4ac2@cdn.stinpuls1.ru:443?encryption=none&type=xhttp&security=tls&sni=cdn.stinpuls1.ru&path=/&host=cdn.stinpuls1.ru&mode=auto&extra={"path":"/","xPaddingKey":"_dc","xPaddingHeader":"X-Cache","xPaddingMethod":"tokenish","uplinkHTTPMethod":"HEAD","xPaddingObfsMode":true,"xPaddingPlacement":"queryInHeader","uplinkDataPlacement":"body"}#ð³ð± LTE | ÐÐÐÐ«Ð Ð¡ÐÐÐ¡ÐÐ
+vless://729425fa-585b-458e-841a-ea30872d4ac2@cdn.stinpuls.ru:443?encryption=none&type=xhttp&security=tls&sni=cdn.stinpuls.ru&path=/&host=cdn.stinpuls.ru&mode=auto&extra={"path":"/","xPaddingKey":"_dc","xPaddingHeader":"X-Cache","xPaddingMethod":"tokenish","uplinkHTTPMethod":"HEAD","xPaddingObfsMode":true,"xPaddingPlacement":"queryInHeader","uplinkDataPlacement":"body"}#ð¸ðª LTE | ÐÐÐÐ«Ð Ð¡ÐÐÐ¡ÐÐ YANDEX
