@@ -1,0 +1,6 @@
+#profile-title: PipidasterVPN
+#profile-update-interval: 48
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1797365753
+#profile-web-page-url: https://t.me//free_vpn123456
+#x-expire-days-total: 90
+#x-expire-ts: 1797365753
