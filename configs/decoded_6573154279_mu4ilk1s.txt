@@ -1,0 +1,6 @@
+#profile-title: Decoded • id.docdn.pro
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://id.docdn.pro/v2/6WhytMHenwL3Gpx8
+
+vless://f1c26c09-7259-4906-928a-7854e35c56fc@2.26.148.127:10443?type=xhttp&security=none#proxy
