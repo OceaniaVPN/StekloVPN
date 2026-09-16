@@ -1,0 +1,7 @@
+#profile-title: lightDMX
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1953752002
+#profile-web-page-url: Da
+#announce: Da
+#x-expire-days-total: 1900
+#x-expire-ts: 1953752002
