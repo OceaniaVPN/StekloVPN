@@ -1,0 +1,7 @@
+#profile-title: stepan
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1821136089
+#profile-web-page-url: https://t.me/stepanananas
+#announce: free
+#x-expire-days-total: 365
+#x-expire-ts: 1821136089
