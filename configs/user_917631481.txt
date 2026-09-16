@@ -1,7 +1,7 @@
-#profile-title: stepan
+#profile-title: https://realityvpn.online/api/sub/6CFzn-OdKJLTST89ZTvgWIeZ
 #profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1821136089
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1796512664
 #profile-web-page-url: https://t.me/stepanananas
-#announce: free
-#x-expire-days-total: 365
-#x-expire-ts: 1821136089
+#announce: беспотка
+#x-expire-days-total: 80
+#x-expire-ts: 1796512664
