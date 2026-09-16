@@ -1,0 +1,7 @@
+#profile-title: 후이타
+#profile-update-interval: 5
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1792180296
+#profile-web-page-url: https://yandex.ru/images/touch/search?pos=1&img_url=https%3A%2F%2Fiv.okcdn.ru%2FgetVideoPreview%3Fid%3D17420956142261%26idx%3D1%26type%3D39%26tkn%3DlA_kpXb8Opj48-i156VBxkjzN3s%26fn%3Dvid_w&text=%D0%BB%D0%BE%D1%85&rpt=simage&source=tabbar&lr=48
+#announce: 도대체 뭘 보고 있는 거야?
+#x-expire-days-total: 30
+#x-expire-ts: 1792180296
