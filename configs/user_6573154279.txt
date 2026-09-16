@@ -1,0 +1,6 @@
+#profile-title: 🎰Высокий шанс на дроп. Horizon VPN
+#profile-update-interval: 2
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1792179719
+#profile-web-page-url: 2
+#x-expire-days-total: 30
+#x-expire-ts: 1792179719
