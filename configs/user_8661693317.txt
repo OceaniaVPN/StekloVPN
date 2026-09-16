@@ -1,9 +1,0 @@
-#profile-title: Happ/Incy keys sub✌️🔥
-#profile-update-interval: 1час
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1968126665
-#profile-web-page-url: https://t.me/svobodyinternety05
-#announce: ✨ Бесплатный VPN, Канала Happ/Incy Keys sub✌️🔥
-Поддержка
-@Lolopoq.
-#x-expire-days-total: 2067
-#x-expire-ts: 1968126665
