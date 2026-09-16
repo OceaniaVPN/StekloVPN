@@ -1,0 +1,9 @@
+#profile-title: Decoded • subikapi.org
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://subikapi.org/PfixaEFB/sub/0ae087e2-5a8e-4f59-9958-a738f56c6be8
+
+vless://8f59c831-5535-40b1-906e-2aeb23c692f4@91.222.236.195:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=m.vk.ru&fp=random&pbk=irCArOUECL-HZtHowWqmgQkNBN38U4v-bWSE1TtLAlA&sid=8ac77e6bab7376c8&spx=%2F#%F0%9F%9A%AB%20%D0%9F%D1%80%D0%B5%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%20%D0%BB%D0%B8%D0%BC%D0%B8%D1%82%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%21
+vless://8f59c831-5535-40b1-906e-2aeb23c692f4@91.222.236.195:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=m.vk.ru&fp=random&pbk=irCArOUECL-HZtHowWqmgQkNBN38U4v-bWSE1TtLAlA&sid=8ac77e6bab7376c8&spx=%2F#%F0%9F%93%B1%20%D0%A0%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%BE%20%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%203%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0
+vless://8f59c831-5535-40b1-906e-2aeb23c692f4@91.222.236.195:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=m.vk.ru&fp=random&pbk=irCArOUECL-HZtHowWqmgQkNBN38U4v-bWSE1TtLAlA&sid=8ac77e6bab7376c8&spx=%2F#%E2%9E%A1%EF%B8%8F%20%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%3A%20https%3A//telegram.me/djarbvpnsupport
+vless://8f59c831-5535-40b1-906e-2aeb23c692f4@91.222.236.195:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=m.vk.ru&fp=random&pbk=irCArOUECL-HZtHowWqmgQkNBN38U4v-bWSE1TtLAlA&sid=8ac77e6bab7376c8&spx=%2F#%F0%9F%9F%A2%20%D0%94%D0%BE%D1%81%D1%82%D1%83%D0%BF%20%D0%BA%20TELEGRAM
