@@ -1,0 +1,5 @@
+#profile-title: Decoded • Happ crypt
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+
+https://yax.nenadoblokirowatgnidda.ru/exec?url=http%3A%2F%2F77.110.104.181%3A5002%2Fsub%2Fb2FKaTIzLDE3Nzg2NzY1MzcuPRvvOvVhV
