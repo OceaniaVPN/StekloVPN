@@ -1,3 +1,4 @@
 #profile-title: vless://d0f0a880-0df1-0002-bdf1-5669fb9483ce@46.254.18.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=&fp=edge&pbk=Sx6bJWPbDlwuMfKjcz-sUyJxZkuks4uLqqLa-1uyjH4&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20WhiteList%2001%20%40mel1ste%7C%40ciorsa
-#profile-update-interval: 1
+#profile-update-interval: 0
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: 1
