@@ -1,0 +1,6 @@
+#profile-title: Podpiska kirilla
+#profile-update-interval: 8 часов
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1838024369
+#announce: Лс udpyr
+#x-expire-days-total: 560
+#x-expire-ts: 1838024369
