@@ -1,0 +1,6 @@
+#profile-title: 🤍nnyaluvVPN
+#profile-update-interval: 5
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1792244413
+#profile-web-page-url: 5
+#x-expire-days-total: 30
+#x-expire-ts: 1792244413
