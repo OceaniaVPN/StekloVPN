@@ -1,0 +1,6 @@
+#profile-title: https://sub.tunneldrums.ru/happ/x0tNgRTTiwqcWxdfSDG0mrnC21RGv4i-b1B3LXW_QrA
+#profile-update-interval: 24
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1792233041
+#announce: Подписка ВПН
+#x-expire-days-total: 30
+#x-expire-ts: 1792233041
