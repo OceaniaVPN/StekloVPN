@@ -1,0 +1,5 @@
+#profile-title: Decoded • Happ crypt
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+
+https://gist.githubusercontent.com/HappKeysHub2/cdaed609176704424eb617bb4f008f53/raw/
