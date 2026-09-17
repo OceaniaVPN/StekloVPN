@@ -1,0 +1,6 @@
+#profile-title: Happ
+#profile-update-interval: 3
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1792258983
+#announce: Впн
+#x-expire-days-total: 30
+#x-expire-ts: 1792258983
