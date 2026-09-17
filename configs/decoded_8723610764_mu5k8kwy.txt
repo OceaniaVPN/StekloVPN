@@ -1,0 +1,25 @@
+#profile-title: Decoded • gitverse.ru
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://gitverse.ru/api/repos/Pizduk/PizdukVPN/raw/branch/master/WaHapp
+
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&fp=qq#Ukrayinka_1
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.87.22:9873?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&fp=firefox#Ukrayinka_2
+vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?type=tcp&security=reality&sni=timeline.www.cloudflare.com&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&fp=firefox#Poland_Wyszkow
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@50.7.95.245:443?type=tcp&security=reality&sni=apiv6.jarvesitw.ru&pbk=2e9dGid5D-e4demAVGqU71uEeusuBhviikchaJ96E3o&sid=8ece2039&fp=firefox&flow=xtls-rprx-vision#Netherlands_Halfweg
+vless://069ba4cf-e8af-4561-b11e-18bd07b0dbd3@94.183.255.101:443?type=tcp&security=reality&sni=buzz.blackbigdog.com&pbk=N8tPKh6gTyc6L5GOmBn_3wIy707a-5QYB0FrF2HigUc&fp=firefox&flow=xtls-rprx-vision#Netherlands_Amsterdam_1
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@cdn6.goonars.com:443?type=tcp&security=reality&sni=cdn6.goonars.com&pbk=VWDBW2RS3o-oFBrSNdpncoaVVU8KixbPNHoj4-Wy7lM&sid=04a69fc6&fp=firefox&flow=xtls-rprx-vision#Netherlands_Amsterdam_2
+vless://4360f941-b541-02f4-8507-2de3763e0cfd@89.105.206.124:443?type=tcp&security=reality&sni=nl.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&fp=qq&flow=xtls-rprx-vision#Netherlands_Enschede
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.210:2083?type=grpc&security=none&serviceName=vless#UK_London
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@os.betust.net:443?type=tcp&security=reality&sni=os.betust.net&pbk=OINuDFEDTdmtFR8QRxAZfQIMPA-wJxfGN1LjB3TFUHo&sid=535a3304&fp=firefox&flow=xtls-rprx-vision#UK_Slough
+vless://238e492b-bc20-4380-92b6-135d39112ca4@200.165.235.78:443?type=tcp&security=reality&sni=api8.eaglors.com&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&sid=52ccb3687fe0b7ec&fp=qq&flow=xtls-rprx-vision#Russia_Moscow
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@app4.betust.net:443?type=tcp&security=reality&sni=app4.betust.net&pbk=NCW-zK60GXsiDdlbxww18Pqp4kz3zTG1URHWS_bnfDk&sid=3f7e0363&fp=firefox&flow=xtls-rprx-vision#Russia_StPetersburg_1
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@api.betust.net:443?type=tcp&security=reality&sni=api.betust.net&pbk=YczbievYAOeZIypa58aRpil6XbfdyifK_0cFJWn8-yg&sid=d6c172d3&fp=firefox&flow=xtls-rprx-vision#Russia_StPetersburg_2
+vless://f2381f29-c724-4491-95a3-a17bd6eea47f@46.28.69.53:443?type=tcp&security=reality&sni=de2.willo.help&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&sid=abcd1234&fp=firefox&flow=xtls-rprx-vision#Germany_Rheine
+vless://5934cc4f-c17b-41c0-9280-c75eb222f4b7@node-de.usel.pro:443?type=tcp&security=reality&sni=loca-software.com&pbk=RR_T91yZY_QUPN53wQNakGmCN3mq0i_Ozom7etyh4RI&fp=firefox&flow=xtls-rprx-vision#Germany_Nuremberg
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@check.betust.net:443?type=tcp&security=reality&sni=check.betust.net&pbk=AFmyx-wVGXMttT1jmiatBxJs6ecLGMkfsMxeNakdHVM&sid=3e8c7752&fp=firefox&flow=xtls-rprx-vision#Germany_Frankfurt
+vless://4360f941-b541-43d4-8507-2de3763e0cfd@131.123.25.4:443?type=tcp&security=reality&sni=fr.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&fp=qq&flow=xtls-rprx-vision#Moldova_Chisinau
+vless://f2381f29-c724-4491-95a3-a17bd6eea47f@144.31.243.247:443?type=tcp&security=reality&sni=lt.willo.help&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&sid=abcd1234&fp=firefox&flow=xtls-rprx-vision#Lithuania_Vilnius
+vless://5934cc4f-c17b-41c0-9280-c75eb222f4b7@84.32.214.77:443?type=tcp&security=reality&sni=vu.nl&pbk=BTCZ0hMhV10H818mbm54EQdU0s3qQXMtY4Hl67dFA18&fp=firefox&flow=xtls-rprx-vision#Lithuania_Siauliai
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@app1.betust.net:443?type=tcp&security=reality&sni=app1.betust.net&pbk=8HYqDHdQ1IuLPhAOENT70_j0prAi1PNkwlT6venYAEM&sid=a78da1f7&fp=firefox&flow=xtls-rprx-vision#Sweden_Stockholm
+vless://f2381f29-c724-4491-95a3-a17bd6eea47f@2.27.42.33:443?type=tcp&security=reality&sni=fi.willo.help&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&sid=abcd1234&fp=firefox&flow=xtls-rprx-vision#Finland_Helsinki
