@@ -1,0 +1,7 @@
+#profile-title: tayso gag
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1792690132
+#profile-web-page-url: nonnonee of
+#announce: впн
+#x-expire-days-total: 35
+#x-expire-ts: 1792690132
