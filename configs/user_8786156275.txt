@@ -1,5 +1,6 @@
-#profile-title: My Subscription
-#profile-update-interval: 3
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1815540753
-#x-expire-days-total: 300
-#x-expire-ts: 1815540753
+#profile-title: Vless
+#profile-update-interval: Vmess
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=2593789622159
+#profile-web-page-url: N9ne
+#x-expire-days-total: 30000000
+#x-expire-ts: 2593789622159
