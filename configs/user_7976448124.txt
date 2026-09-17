@@ -1,0 +1,6 @@
+#profile-title: Vpn
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1797391322
+#announce: Фри впн
+#x-expire-days-total: 90
+#x-expire-ts: 1797391322
