@@ -5,3 +5,4 @@
 #announce: Создай впн сам с @sozdanie_VPN_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2 x5MTMwNTpvWklvQTY5UTh5aG NRVjhrYTNQYTNB@82.38.31.69: 8080?prefix=%17%03%03# The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x 5MTMwNTprMWRCT21PQjRvcWk3 VW1wMzdhMWJR@82.38.31.205: 8080?prefix=%17%03%03# United Kingdom
