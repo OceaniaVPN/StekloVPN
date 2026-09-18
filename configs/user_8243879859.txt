@@ -6,3 +6,4 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2 x5MTMwNTpvWklvQTY5UTh5aG NRVjhrYTNQYTNB@82.38.31.69: 8080?prefix=%17%03%03# The Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x 5MTMwNTprMWRCT21PQjRvcWk3 VW1wMzdhMWJR@82.38.31.205: 8080?prefix=%17%03%03# United Kingdom
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@2.59.134.226:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=1sSmdw90uTiGuitDvp_q8zcXTcHXKQS3IVjA7T1UNiY&security=reality&sni=rich-falcon.cdn.cachefleet.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20LTE%20-%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA%20%231
