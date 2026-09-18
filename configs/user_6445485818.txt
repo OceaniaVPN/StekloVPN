@@ -40,3 +40,4 @@ hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=hy.quattro-tech.ru#🌐 Anycast-IP | 🇷🇺 [*CIDR]-1
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els1.mangshe.xyz:2056?security=tls&sni=els1.mangshe.xyz&insecure=1#🌐 Anycast-IP | 🇷🇺 [*CIDR]-2
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=hy.quattro-tech.ru&alpn=h3#🌐 Anycast-IP | 🇷🇺 🇸🇪 [*CIDR]
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els1.mangshe.xyz:2056?security=tls&sni=www.microsoft.com&insecure=1#🌐 Anycast-IP | 🇷🇺 🇸🇪 [*CIDR]-1
