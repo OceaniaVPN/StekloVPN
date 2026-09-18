@@ -37,3 +37,4 @@ vless://dbbcfdbd-89a0-0032-9161-a57271d42474@161.104.38.98:443?encryption=none&s
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?security=tls&sni=hy.quattro-tech.ru#🌐 Anycast-IP | 🇱🇻 🇸🇪 [*CIDR]
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=91.240.86.70&insecure=1#🌐 Anycast-IP | 🇷🇺 [*CIDR]
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=91.240.86.70&insecure=1#🌐 Anycast-IP | 🇷🇺 [*CIDR]
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=hy.quattro-tech.ru#🌐 Anycast-IP | 🇷🇺 [*CIDR]-1
