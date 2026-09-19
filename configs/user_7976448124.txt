@@ -4,3 +4,5 @@
 #announce: Фри впн
 #x-expire-days-total: 90
 #x-expire-ts: 1797391322
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@115.161.136.145:10099#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea
