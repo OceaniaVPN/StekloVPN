@@ -1,0 +1,6 @@
+#profile-title: Swinnota vpn
+#profile-update-interval: 5
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1797604926
+#announce: Бесплатный  ВПН Swinnota vpn
+#x-expire-days-total: 90
+#x-expire-ts: 1797604926
