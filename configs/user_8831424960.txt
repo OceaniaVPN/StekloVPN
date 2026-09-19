@@ -1,6 +1,0 @@
-#profile-title: Good
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1792438579
-#announce: ✨ Бесплатный VPN
-#x-expire-days-total: 30
-#x-expire-ts: 1792438579
