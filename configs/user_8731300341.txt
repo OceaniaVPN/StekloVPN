@@ -1,0 +1,8 @@
+#profile-title: noName vpn
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1792480039
+#profile-web-page-url: https://t.me/losingvpn
+#announce: 🐌-нескоростной 
+🟩-для Torrent
+#x-expire-days-total: 30
+#x-expire-ts: 1792480039
