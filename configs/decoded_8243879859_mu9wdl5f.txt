@@ -1,0 +1,17 @@
+#profile-title: Decoded • p.kfwl.lol
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://p.kfwl.lol/ua=happ/os=android/https://sub.purpl.su/veecYT_5PCHqfFWD
+
+vless://25a6bce0-81c1-4539-bef3-b5693ba99de7@apartmentsnl1.purpl.su:443?type=tcp&security=reality&sni=apartmentsnl1.purpl.su&pbk=OCmjbKbDsuMDZJTuzQVmdJ1RuKvMA-nAPvi4i5hm6VU&sid=0a97965c&fp=qq&flow=xtls-rprx-vision#proxy
+vless://25a6bce0-81c1-4539-bef3-b5693ba99de7@greger.purpl.su:443?type=tcp&security=reality&sni=greger.purpl.su&pbk=q7E00O1zh2xSYK64FUVYWUHxZ5J8E10-gfojtkWqK2Q&sid=3617ef3dcacef9d2&fp=qq&flow=xtls-rprx-vision#proxy
+vless://25a6bce0-81c1-4539-bef3-b5693ba99de7@lilpipestonia.purpl.su:443?type=tcp&security=reality&sni=lilpipestonia.purpl.su&pbk=aasLEPMe1srZOTWCimT0V2u3xEkK0nAfVfCQoNZG8kw&sid=947f1e22&fp=qq&flow=xtls-rprx-vision#proxy
+vless://25a6bce0-81c1-4539-bef3-b5693ba99de7@skifin.purpl.su:443?type=tcp&security=reality&sni=skifin.purpl.su&pbk=5ReLHFspV-Y-wtJiUKjc3EfJvtEGYiQq-WuPfePixXQ&sid=73c8d6d2&fp=qq&flow=xtls-rprx-vision#proxy
+vless://25a6bce0-81c1-4539-bef3-b5693ba99de7@dilonorway.purpl.su:443?type=tcp&security=reality&sni=dilonorway.purpl.su&pbk=FW6_M3_eKqREWL-NAm_zJoUyBWbMszFEwKd1LZAedxs&sid=0a97965fd5412c&fp=qq&flow=xtls-rprx-vision#proxy
+vless://25a6bce0-81c1-4539-bef3-b5693ba99de7@czechomine.purpl.su:443?type=tcp&security=reality&sni=czechomine.purpl.su&pbk=eDzrkdjj8CB6_kiF4YQBIMX3osY3o_AAkbjAmIGezUE&sid=845cae338c&fp=qq&flow=xtls-rprx-vision#proxy
+vless://25a6bce0-81c1-4539-bef3-b5693ba99de7@housepoland.purpl.su:443?type=xhttp&security=reality&sni=housepoland.purpl.su&pbk=zS5aE3WhyeSdG0eNeMM9GwGvMLZ_DUiWlJlFe2yNrjg&sid=6c0d42e9df5f39f7&fp=qq#proxy
+vless://25a6bce0-81c1-4539-bef3-b5693ba99de7@townhouseusa1.purpl.su:443?type=tcp&security=reality&sni=townhouseusa1.purpl.su&pbk=83OuwaHhy7LMq7hCl0C9mdckoGvzYRhC0iE0dXXdXXs&sid=2b777629&fp=qq&flow=xtls-rprx-vision#proxy
+vless://25a6bce0-81c1-4539-bef3-b5693ba99de7@moscowia.purpl.su:443?type=tcp&security=reality&sni=moscowia.purpl.su&pbk=Zq4lN0wLz19keJcHr4H3d18yJfqJVPUAR79spzq2kSk&sid=7c04574e&fp=qq&flow=xtls-rprx-vision#proxy
+vless://25a6bce0-81c1-4539-bef3-b5693ba99de7@media.purpl.su:443?type=xhttp&security=tls&sni=media.purpl.su&fp=qq#proxy
+vless://25a6bce0-81c1-4539-bef3-b5693ba99de7@cdn1vk.purpl.su:443?type=xhttp&security=tls&sni=cdn1vk.purpl.su&fp=qq#proxy
+vless://25a6bce0-81c1-4539-bef3-b5693ba99de7@no66dek3ne.cdn.twcstorage.ru:443?type=xhttp&security=tls&sni=no66dek3ne.cdn.twcstorage.ru&fp=qq#proxy
