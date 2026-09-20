@@ -1,0 +1,12 @@
+#profile-title: Decoded • p.kfwl.lol
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://p.kfwl.lol/ua=happ/os=android/https://sub.vpnul.codes/hvNzPKNn0QMbTXbP
+
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-fra.pleiades.codes:443?type=grpc&security=tls&serviceName=cdn.v1.AssetService&sni=assets-fra.pleiades.codes&fp=firefox#proxy
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-frnl.pleiades.codes:443?type=grpc&security=tls&serviceName=cdn.v1.MediaService&sni=assets-frnl.pleiades.codes&fp=firefox#proxy
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-fi.pleiades.codes:443?type=grpc&security=tls&serviceName=cdn.v1.AssetService&sni=assets-fi.pleiades.codes&fp=firefox#proxy
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de.pleiades.codes:443?type=grpc&security=tls&serviceName=cdn.v1.AssetService&sni=assets-de.pleiades.codes&fp=firefox#proxy
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-nl.pleiades.codes:443?type=grpc&security=tls&serviceName=cdn.v1.AssetService&sni=assets-nl.pleiades.codes&fp=firefox#proxy
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@31.77.100.97:2087?type=grpc&security=reality&serviceName=grpc&sni=www.google.com&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&sid=d3124debabf1456c&fp=random#proxy
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@nlam.pleiades.codes:443?type=xhttp&security=tls&sni=nlam.pleiades.codes&fp=random#proxy
