@@ -1,0 +1,7 @@
+#profile-title: Grr_vpn
+#profile-update-interval: 15
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1820689705
+#profile-web-page-url: https://t.me/+fd5hOXoZZ-1lNDEy
+#announce: ✨Бесплатный VPN, подпишись @grr_vpn
+#x-expire-days-total: 356
+#x-expire-ts: 1820689705
