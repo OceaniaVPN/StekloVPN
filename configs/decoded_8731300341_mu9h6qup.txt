@@ -1,0 +1,11 @@
+#profile-title: Decoded • is.wepogp.gay
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://is.wepogp.gay/bypass-hwid-lock-3z5O6BFAaJQzGlamvtSo?payload=AVDEPHeby2mStM3GKW9foK%2BxmcGsNOHOSsdEQRU6IRL%2BTcJcqw5Rii53HWJDJCFDsQfRp0jqUWi/687YE7E9%2BLBtfHNbodw5bE3xpEFXymc%3D
+
+vless://bc727b27-416b-40d9-842a-92956c43f9c5@91.108.241.99:443?type=tcp&security=reality&sni=www.uva.nl&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&sid=940dbf5b&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://bc727b27-416b-40d9-842a-92956c43f9c5@213.165.46.44:443?type=tcp&security=reality&sni=www.uva.nl&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&sid=940dbf5b&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://bc727b27-416b-40d9-842a-92956c43f9c5@2.27.40.16:443?type=tcp&security=reality&sni=www.uva.nl&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&sid=940dbf5b&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://bc727b27-416b-40d9-842a-92956c43f9c5@213.165.39.40:443?type=tcp&security=reality&sni=www.uva.nl&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&sid=940dbf5b&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://bc727b27-416b-40d9-842a-92956c43f9c5@cdn.stinpuls1.ru:443?type=xhttp&security=tls&sni=cdn.stinpuls1.ru&fp=firefox#proxy
+vless://bc727b27-416b-40d9-842a-92956c43f9c5@cdn.stinpuls.ru:443?type=xhttp&security=tls&sni=cdn.stinpuls.ru&fp=firefox#proxy
