@@ -1,0 +1,11 @@
+#profile-title: Decoded • enc.ring-team.casa
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://enc.ring-team.casa/sub/cq97m5iku220
+
+vless://b4232e57-46bd-4490-9e29-7b6683c66c72@79.174.94.252:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=rDoEyVQUPv0R3dEC9joO4Ubz4u5lziWwV7wwAmRWP1Y&sid=f32ec2ab265c5efd&fp=firefox#ð«ð®   Ð¤Ð¸Ð½Ð»ÑÐ½Ð´Ð¸Ñ [ 4G LTE | ÐÐÐ¡ ]
+vless://b4232e57-46bd-4490-9e29-7b6683c66c72@88.216.189.128:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.deepl.com&pbk=tGKPIClxh5UrLDCEzcCSque9EIE9yQKu0gdO3yIEoFQ&sid=f35ec2ab265c5afd&fp=firefox#ð¸ðª  â¡ï¸  Ð¨Ð²ÐµÑÐ¸Ñ
+vless://b4232e57-46bd-4490-9e29-7b6683c66c72@144.31.90.116:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.deepl.com&pbk=tGKPIClxh5UrLDCEzcCSque9EIE9yQKu0gdO3yIEoFQ&sid=f35ec2ab265c5afd&fp=firefox#ð«ð® â¡ï¸  Ð¤Ð¸Ð½Ð»ÑÐ½Ð´Ð¸Ñ
+vless://b4232e57-46bd-4490-9e29-7b6683c66c72@84.32.104.142:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.deepl.com&pbk=tGKPIClxh5UrLDCEzcCSque9EIE9yQKu0gdO3yIEoFQ&sid=f35ec2ab265c5afd&fp=firefox#ð³ð±  â¡ ÐÐ¸Ð´ÐµÑÐ»Ð°Ð½Ð´Ñ
+vless://b4232e57-46bd-4490-9e29-7b6683c66c72@51.254.211.52:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.deepl.com&pbk=tGKPIClxh5UrLDCEzcCSque9EIE9yQKu0gdO3yIEoFQ&sid=f35ec2ab265c5afd&fp=firefox# ð«ð·  Ð¤ÑÐ°Ð½ÑÐ¸Ñ
+vless://b4232e57-46bd-4490-9e29-7b6683c66c72@13.143.176.143:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.deepl.com&pbk=tGKPIClxh5UrLDCEzcCSque9EIE9yQKu0gdO3yIEoFQ&sid=f35ec2ab265c5afd&fp=firefox#ðªðª  Ð­ÑÑÐ¾Ð½Ð¸Ñ | Gemini
