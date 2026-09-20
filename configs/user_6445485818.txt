@@ -14,3 +14,4 @@ hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els1.mangshe.xyz:2056?security=
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=hy.quattro-tech.ru&alpn=h3#🌐 Anycast-IP | 🇷🇺 🇸🇪 [*CIDR]
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els1.mangshe.xyz:2056?security=tls&sni=www.microsoft.com&insecure=1#🌐 Anycast-IP | 🇷🇺 🇸🇪 [*CIDR]-1
 vless://ba69baa6-67e5-4ec5-93b2-d111ff2f732f@217.16.27.174:443?encryption=none&security=reality&sni=id.x5.ru&fp=random&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&type=tcp&headerType=none&flow=xtls-rprx-vision&packetEncoding=xudp#🌐 Anycast-IP | [IPv6] [*CIDR] VK
+vless://208a5dda-5f5e-47e8-8f22-8db77e00ab1b@188.124.36.63:443?encryption=none&security=reality&sni=ultimate.warriorofblacksun.run&fp=android&pbk=Ww_HS9_n7ob3uESSXtbU23EPM-BOJ5ZYLp-RFB0L0SY&type=grpc&serviceName=xyz#🌐 Anycast-IP | 🇩🇪 🇫🇮 | [*CIDR]
