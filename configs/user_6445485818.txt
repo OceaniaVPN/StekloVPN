@@ -9,3 +9,4 @@ vless://06914c33-c6e0-464f-8fab-9bee9ee9b6a6@95.163.232.96:443?flow=xtls-rprx-vi
 vless://06914c33-c6e0-464f-8fab-9bee9ee9b6a6@217.16.29.102:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pic.rutubelist.ru&fp=firefox&pbk=wk7mnDvZxuYVqq2CrHwcR8D5mjYktynywVygkZZKSRs&sid=8ba12e75110b7a9c&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20AUTO%20%E2%80%94%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%A1
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?security=tls&sni=hy.quattro-tech.ru#🌐 Anycast-IP | 🇱🇻 🇸🇪 [*CIDR]
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=91.240.86.70&insecure=1#🌐 Anycast-IP | 🇷🇺 [*CIDR]
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=hy.quattro-tech.ru#🌐 Anycast-IP | 🇷🇺 [*CIDR]-1
