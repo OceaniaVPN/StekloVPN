@@ -1,0 +1,10 @@
+#profile-title: Decoded • raw.githubusercontent.com
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://raw.githubusercontent.com/MK-l4/Mk14/refs/heads/main/Elite_VpN
+
+vless://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@50.7.120.219:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=filesconvert.org&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&sid=10debbdf94767541#%F0%9F%87%AA%F0%9F%87%BAElite%20%7C%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%7C%20tcp
+vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?flow=&type=grpc&mode=gun&serviceName=lv01-grpc-8e47a&security=tls&sni=hub-lv-01.hanvpn.cc&fp=chrome#%F0%9F%87%B1%F0%9F%87%BBElite%20%7C%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%7C%20gRPC
+vless://d9d0f208-d582-41d5-bb7b-742671402810@31.76.226.100:9443?flow=&type=xhttp&host=hub-ee-01.hanvpn.cc&path=/ee01-xhttp-8e47a/&mode=auto&security=tls&sni=hub-ee-01.hanvpn.cc&fp=chrome#%F0%9F%87%AA%F0%9F%87%AAElite%20%7C%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%7C%20xhttp
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.42:2083?flow=&type=grpc&mode=gun&serviceName=vless&security=none#%F0%9F%87%BA%F0%9F%87%A6Elite%20%7C%20LTE/5G%20%7C%20gRCP
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520:%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&type=hysteria&security=tls&sni=msk.frkn.org&alpn=h3&fp=chrome#%F0%9F%87%B7%F0%9F%87%BAElite%20%7C%20LTE/5G%20%7C%20TLS
