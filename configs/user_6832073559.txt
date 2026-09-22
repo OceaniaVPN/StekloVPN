@@ -4,3 +4,4 @@
 #announce: Free
 
 vless://d72f05b0-b182-4783-a6f2-21cecc7d841a@179.198.49.43:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=dzen.ru&pbk=SibLV5WBGdljTiUCmKx77KhHQfErCwjDMD_ZLoha3js&sid=a1b2c3d4e5f67890#%F0%9F%87%B5%F0%9F%87%B1%204G%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%E2%84%9619
+vless://d72f05b0-b182-4783-a6f2-21cecc7d841a@31.76.101.39:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=dzen.ru&pbk=SibLV5WBGdljTiUCmKx77KhHQfErCwjDMD_ZLoha3js&sid=a1b2c3d4e5f67890#%F0%9F%87%A9%F0%9F%87%AA%204G%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%E2%84%9626
