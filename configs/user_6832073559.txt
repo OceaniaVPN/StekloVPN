@@ -70,3 +70,4 @@ vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@136.148.71.4:443?flow=xtls-rprx-vis
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru&alpn=h3#%25F0%259F%2587%25AA%25F0%259F%2587%25BALTE%2520%25E2%2584%259614
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru&insecure=1&alpn=h3#%25F0%259F%2587%25AA%25F0%259F%2587%25BALTE%2520%25E2%2584%259626
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=itsallproxy.quattro-tech.ru&alpn=h3#%25F0%259F%2587%25AA%25F0%259F%2587%25BALTE%2520%25E2%2584%259625
+vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@5.157.10.250:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=swebz.loozerp.wiki&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#%F0%9F%87%B8%F0%9F%87%AA+4G+%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%BE%D0%B1%D1%85%D0%BE%D0%B4+%E2%84%9628
