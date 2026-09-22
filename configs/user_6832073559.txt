@@ -69,3 +69,4 @@ vless://953358cb-82ba-4296-960d-6d2ec3468f4c@itga8.guardora.pro:10654?type=xhttp
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@136.148.71.4:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=de2.edge-9d7c.com&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=9d84de9d9f7b85e9#%F0%9F%87%B3%F0%9F%87%B1+4G+%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%BE%D0%B1%D1%85%D0%BE%D0%B4+%E2%84%9612
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru&alpn=h3#%25F0%259F%2587%25AA%25F0%259F%2587%25BALTE%2520%25E2%2584%259614
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru&insecure=1&alpn=h3#%25F0%259F%2587%25AA%25F0%259F%2587%25BALTE%2520%25E2%2584%259626
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=itsallproxy.quattro-tech.ru&alpn=h3#%25F0%259F%2587%25AA%25F0%259F%2587%25BALTE%2520%25E2%2584%259625
