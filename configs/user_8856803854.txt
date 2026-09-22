@@ -1,0 +1,7 @@
+#profile-title: s
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1792690242
+#profile-web-page-url: nonnonee of
+#announce: d
+#x-expire-days-total: 30
+#x-expire-ts: 1792690242
