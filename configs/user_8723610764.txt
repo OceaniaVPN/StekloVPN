@@ -1,2 +1,3 @@
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&fm=%7B%7D&sni=hy.quattro-tech.ru#%F0%9F%8C%8D%20FREE%20internet%20%F0%9F%8D%81%2027
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@188.225.33.141:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20%232
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&fp=chrome&type=xhttp&mode=auto&host=dismissaltree.net&path=%2Fapi%2Fv1%2Fupload#LTE%2F5G%20%5Bowpn.org%5D
