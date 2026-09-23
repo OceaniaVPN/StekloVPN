@@ -1,0 +1,1 @@
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&fm=%7B%7D&sni=hy.quattro-tech.ru#%F0%9F%8C%8D%20FREE%20internet%20%F0%9F%8D%81%2027
