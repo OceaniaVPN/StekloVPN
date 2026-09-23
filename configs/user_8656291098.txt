@@ -1,4 +1,5 @@
-#profile-title: VPN
-#profile-update-interval: 30
+#profile-title: vless://2f347914-08b5-4f22-8558-8dc3127ed065@45.151.180.167:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.sciencedirect.com&fp=qq&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%BF%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20%7C%20%40Ulitka_robot
+#profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: https://t.me/FreeUlitka
+#announce: Круто
