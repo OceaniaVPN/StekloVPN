@@ -1,0 +1,20 @@
+#profile-title: Decoded • feitov.duckdns.org
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://feitov.duckdns.org:8443/s/ETCpfDfPzvk
+
+vless://1e2c38d5-e0dc-472e-b31b-a1e15f083cc7@159.195.150.69:443?type=tcp&security=reality&pbk=RR_T91yZY_QUPN53wQNakGmCN3mq0i_Ozom7etyh4RI&fp=firefox&sni=loca-software.com&flow=xtls-rprx-vision#ð©ðª ÐÐµÑÐ¼Ð°Ð½Ð¸Ñ-1
+vless://765390bc-1daf-41dd-9012-a04b93f07139@5.188.114.71:443?type=tcp&security=reality&pbk=CmKaRa0TecpFSyn7OK6UTPPuWJ7ji2OwsaOBuUtSKGM&fp=chrome&sni=de-s3.ru&sid=7a3f9e2b1c8d4f6a&spx=%2F&flow=xtls-rprx-vision#ð³ï¸ ÐÐµÐ»ÑÐµ%20ÑÐ¿Ð¸ÑÐºÐ¸-1
+vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?type=ws&security=tls&fp=chrome&sni=hub-nl-01.hanvpn.cc&path=%2Fnl01-ws-8e47a&host=hub-nl-01.hanvpn.cc#ð³ï¸ ÐÐµÐ»ÑÐµ%20ÑÐ¿Ð¸ÑÐºÐ¸-2
+vless://d9d0f208-d582-41d5-bb7b-742671402810@31.76.226.100:443?type=ws&security=tls&fp=chrome&sni=hub-fi-03.hanvpn.cc&path=%2Ffi03-ws-8e47a&host=hub-fi-03.hanvpn.cc#ð³ï¸ ÐÐµÐ»ÑÐµ%20ÑÐ¿Ð¸ÑÐºÐ¸-3
+vless://Fluffy_VPN-zKZUa4Ie@201.51.11.65:443?type=tcp&security=reality&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&fp=edge&sni=absolute-disaster.org&spx=%2F&flow=xtls-rprx-vision#ð³ï¸ ÐÐµÐ»ÑÐµ%20ÑÐ¿Ð¸ÑÐºÐ¸-4
+vless://d9d0f208-d582-41d5-bb7b-742671402810@31.76.226.100:9443?type=ws&security=tls&fp=chrome&sni=hub-de-01.hanvpn.cc&path=%2Fde01-ws-8e47a&host=hub-de-01.hanvpn.cc#ð³ï¸ ÐÐµÐ»ÑÐµ%20ÑÐ¿Ð¸ÑÐºÐ¸-5
+vless://3a2265d2-9f4f-437b-abf1-a44047776cf0@bz18.wba-pn.ru:2053?type=ws&security=tls&fp=firefox&sni=bz18.wba-pn.ru&path=%2F&host=bz18.wba-pn.ru#ð³ï¸ ÐÐµÐ»ÑÐµ%20ÑÐ¿Ð¸ÑÐºÐ¸-6
+vless://d0e80dcb-190e-48e3-87dc-b2bab2324723@91.215.40.26:16443?type=xhttp&path=%2FaFlS06iNEzhdEdIa&host=ddg.steptofsvo.com&mode=auto&security=reality&sni=ddg.steptofsvo.com&fp=randomized&pbk=NcusujNOLaj9kiNIAMzg3BKdb3WYXMdkCgfeNHyie1E&sid=67ca97db5f330f5f#%F0%9F%8F%B3%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8-7
+vless://58ef78a9-4bf6-424f-bede-a57ea89c51d3@153.52.69.82:2053?type=xhttp&mode=stream-one&host=vc.ru&path=%2Fv3%2Fplaylist%2Fchunk&security=reality&sni=vc.ru&pbk=_KSeEH5idWkoDTfwebA8pi1pDYH1hGfcJQUJBuMk1n4&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%201
+vless://8bbe5178-a991-4a56-871c-553e2f8e9e70@103.245.229.32:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sUDdxp5g9lRHlVEH6meJWXah84yhLDyVI7KuZhW-MTQ&security=reality&sid=b4e44a&sni=adminvps.ru&spx=%2F3227d335801e57f&type=tcp#ð«ð®Ð¤Ð¸Ð½Ð»ÑÐ½Ð´Ð¸Ñ 1
+vless://71091100-c6ed-41fa-84ac-acf7ff9eeb7f@slowkd.sadiepinki.com:443?type=tcp&security=reality&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&fp=firefox&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%201
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@171.22.129.3:2053?type=grpc&security=reality&encryption=none&serviceName=de2262268grpc&sni=www.tagesschau.de&fp=firefox&pbk=o_HrloEGeJF7j3RChs2gC7YzyezRMLlguh7Zqbh1WhY&sid=01dd4a1b292c6177#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%202
+hysteria2://5413edfb-08d6-4fba-b51c-809c04feb127@77.110.104.238:443/?sni=ch2-hy2.veilvpn.life&alpn=h3&insecure=0#ð¨ð­%20Ð¨Ð²ÐµÐ¹ÑÐ°ÑÐ¸Ñ%201
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?security=reality&sni=pl.bubahero.com&fp=chrome&pbk=GmZv3anSeAeHr_cMFKr-6MPLli-nyKNatnY6P3AFK00&sid=9c2378562188c3cb&spx=%2F&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%201
+hysteria2://011cdb2d-53ac-469c-964e-0ab974c0b491@82.41.181.46:443/?sni=82.41.181.46.nip.io&alpn=h3&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%201
