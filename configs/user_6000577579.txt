@@ -2,3 +2,5 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: t.me/ad99084
+
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@84.32.177.74:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app.betust.net&fp=chrome&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands
