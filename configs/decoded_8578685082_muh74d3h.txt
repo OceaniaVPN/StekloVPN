@@ -1,0 +1,12 @@
+#profile-title: Decoded • kubsub.vip
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://kubsub.vip/bs/?tid=8578685082
+
+vless://9f770717-20eb-4db4-aec6-dd3749e92e78@ns.l90909l.vip:2096?type=grpc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#vless_eu
+vless://9f770717-20eb-4db4-aec6-dd3749e92e78@ss.l90909l.vip:2096?type=grpc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#vless_ru
+vless://9f770717-20eb-4db4-aec6-dd3749e92e78@bs.l90909l.vip:2096?type=grpc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#vless_fallback
+vless://9f770717-20eb-4db4-aec6-dd3749e92e78@us.l90909l.vip:2096?type=grpc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#vless_eu
+vless://9f770717-20eb-4db4-aec6-dd3749e92e78@us.l90909l.vip:2096?type=grpc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#vless_ru
+vless://9f770717-20eb-4db4-aec6-dd3749e92e78@ss.l90909l.vip:2096?type=grpc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#vless_eu
+vless://9f770717-20eb-4db4-aec6-dd3749e92e78@ns.l90909l.vip:2096?type=grpc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#vless_ru
