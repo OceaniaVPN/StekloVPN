@@ -9,4 +9,3 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyc IVMaklwNzQ=@185.226.172.8:8008
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5 MTMwNTpXU3IMNFhUd05zZHY= @108.181.121.226:8388%🇪🇺
 vless://11281708-0629-477e-9b7e-34b4ca5e8da5@s23.x5-ads-landing.org:443?encryption=none&fp=firefox&pbk=GlZGBPDFWGoYs7TIumLx9XlNVYMJrHP5c3cz8gPafAY&security=reality&sid=41e43708&sni=api.mindbox.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F
 vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@31.76.249.87:443?security=reality&encryption=none&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.akamai.com#%40
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443/?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%D0%91%D0%95%D0%9B%D0%AB%D0%99%20IP%20%7C%20@owpns%20%5Bowpn.org%5D
