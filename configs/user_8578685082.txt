@@ -1,7 +1,7 @@
-#profile-title: KirpichVPN
+#profile-title: Kirpich1337Vpn
 #profile-update-interval: 4
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1792945594
-#profile-web-page-url: https://t.me/kirpich_vpn
-#announce: Недорогой VPN, используй - @kirpichVPN
-#x-expire-days-total: 30
-#x-expire-ts: 1792945594
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1793033458
+#profile-web-page-url: Kirpich1337vpn
+#announce: Платный впн
+#x-expire-days-total: 31
+#x-expire-ts: 1793033458
