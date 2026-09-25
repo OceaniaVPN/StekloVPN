@@ -1,0 +1,6 @@
+#profile-title: Decoded • id.docdn.pro
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://id.docdn.pro/v2/o-dB7CsxRqKM-cbN
+
+vless://d3ee3cf1-fc76-4d55-bb4c-29f065317bc5@45.88.12.111:2083?type=ws&security=tls&path=%2Fvless-ws&sni=mol.ultimagamest.com&fp=chrome#proxy
