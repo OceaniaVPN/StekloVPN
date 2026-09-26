@@ -8,5 +8,4 @@ vless://2e0074bc-d08a-48bf-b0e6-5da21b7a1202@pl.tlsov.pro:443?flow=xtls-rprx-vis
 hy2://5413edfb-08d6-4fba-b51c-809c04feb127@77.110.104.238:443?sni=ch2-hy2.veilvpn.life&insecure=1#🇨🇭 Швейцария
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=&type=tcp&headerType=none#🇪🇺 Обход
 vless://fcb3d6ed-2553-4e62-99a1-e547f5406629@94.183.184.243:8443?encryption=none&security=reality&sni=www.tradingview.com&pbk=20S6h41s9ryfL4j83087Yz6XfgOJs40QINh4sE1YOyE&sid=307b7f35b5efb733&type=xhttp&host=www.tradingview.com&path=%2Fapi%2Fv2%2Fsync&mode=auto#🇺🇸 United States
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&host=dostavitos.stroymatdv.cc&path=%2Fe9ws#🇩🇪 Германия | БС⁴
 hy2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quattro-tech.ru&insecure=1#🇱🇻 Латвия
