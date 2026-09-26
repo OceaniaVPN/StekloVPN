@@ -23,3 +23,4 @@ vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?flow=xtls-rprx-vi
 vless://7e24f2b1-04a0-4ab0-af87-3bef7eb78e25@104.143.223.67:2085?encryption=none&security=none&type=grpc&mode=multi&authority=&serviceName=vless#%23%F0%9F%87%A9%F0%9F%87%AA%20Germany%20australia%20%E2%80%A2%20TG%20%40RE_s_B
 vless://7e24f2b1-04a0-4ab0-af87-3bef7eb78e25@93.190.9.172:3090?encryption=none&security=none&type=grpc&mode=multi&authority=&serviceName=vless#%23%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20lithuania%20%E2%80%A2%20TG%20%40RE_s_B
 vless://7e24f2b1-04a0-4ab0-af87-3bef7eb78e25@93.190.9.172:3090?encryption=none&security=none&type=grpc&mode=multi&authority=&serviceName=vless#%23%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20uk%20%E2%80%A2%20TG%20%40RE_s_B
+vless://7e24f2b1-04a0-4ab0-af87-3bef7eb78e25@104.143.223.67:2085?encryption=none&security=none&type=grpc&mode=multi&authority=&serviceName=vless#%23%F0%9F%87%A9%F0%9F%87%AA%20Germany%20usa%20%E2%80%A2%20TG%20%40RE_s_B
