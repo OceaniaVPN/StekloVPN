@@ -2,5 +2,3 @@
 #profile-update-interval: 3
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: https://t.me/yebanutyye_68
-
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@hub-mori-new.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&type=tcp&headerType=none#tg%3AVLESSFORU%20top%20speed%20%F0%9F%87%AC%F0%9F%87%A7
