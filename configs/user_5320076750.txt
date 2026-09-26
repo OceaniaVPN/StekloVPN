@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: https://t.me/yebanutyye_68
 
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#%F0%9F%87%AB%F0%9F%87%AE%F0%9F%95%8A%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%A1%20%7C%20%D0%9C%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%E2%9D%8C%5D%20%232%20t.me%2Fowpns%20%5Bowpn.org%5D
 vless://ffb3118d-729f-40c0-bbe8-c3172c1ea8fb@213.226.112.36:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ru1.boutique-hotel1108.ru&fp=firefox&pbk=hIVbIYF3iwOuSetN2shx2JuS_lhCeTfgIxK9WtJgFnc&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9%20%D0%A4%D1%80%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%206
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@188.225.33.141:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20%232
 vless://8bbe5178-a991-4a56-871c-553e2f8e9e70@103.245.229.32:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=adminvps.ru&fp=firefox&pbk=sUDdxp5g9lRHlVEH6meJWXah84yhLDyVI7KuZhW-MTQ&sid=b4e44a&spx=%2F3227d335801e57f&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%201
