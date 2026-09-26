@@ -2,3 +2,5 @@
 #profile-update-interval: 3
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: https://t.me/yebanutyye_68
+
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@admin.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=admin.betust.net&fp=firefox&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&sid=3e137406&spx=%2F&type=tcp&headerType=none#Для Wi-Fi🛜
