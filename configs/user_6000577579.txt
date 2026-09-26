@@ -6,4 +6,3 @@
 hy2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quattro-tech.ru&insecure=1#🇱🇻 Латвия
 hy2://5413edfb-08d6-4fba-b51c-809c04feb127@77.110.104.238:443?sni=ch2-hy2.veilvpn.life&insecure=1#🇨🇭 Швейцария
 vless://a449b942-e70d-4124-96c1-a489e701d7ee@151.241.166.137:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=151.241.166.137.sslip.io&fp=firefox&pbk=HhY8AOOPbY7Aah3XHlAUYYbXR8kSncqslAvY8iUbnUc&sid=90265b4bea0f563a&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%AA%20%20%D0%9E%D0%90%D0%AD
-vless://55d21d88-ff56-4210-a44c-4c00d853ad63@151.241.173.6:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=gDZ5Ddo3albCw8ChoudlrzLWHWfGth3G1db2bIaEfTw&sid=e254&type=tcp&headerType=none#Германия
