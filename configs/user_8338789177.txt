@@ -1,7 +1,4 @@
-#profile-title: Burmalda von
-#profile-update-interval: 3
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=10430500089
-#profile-web-page-url: https://t.me/@woukn
-#announce: 🟥🟥🟥burmalda VPN🟥🟥🟥
-#x-expire-days-total: 100000
-#x-expire-ts: 10430500089
+#profile-title: ⬜BURMALDA VPN⬜
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#announce: Просто free впн
