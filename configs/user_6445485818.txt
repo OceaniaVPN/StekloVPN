@@ -44,3 +44,4 @@ hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?security=tls
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=91.240.86.70&insecure=1#🌐 Anycast-IP | 🇷🇺 [*CIDR]
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=hy.quattro-tech.ru#🌐 Anycast-IP | 🇷🇺 [*CIDR]-1
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els1.mangshe.xyz:2056?security=tls&sni=els1.mangshe.xyz&insecure=1#🌐 Anycast-IP | 🇷🇺 [*CIDR]-2
+vless://2c5594e5-850e-44f8-9eba-906f9bd1d282@Jelly.pconnectq.ir:443?security=reality&encryption=none&pbk=hiwmkUU64-16Xlxtp8WrbmG6y4j1_RGr09GGXmYbPw4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tencent.com&sid=012e1adb09710097#%40Mehxray ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSEE5LUZHcE12VHRPVTVqMFI1clVaajRrZW5Ha1YwYQ@Fish.pconnectq.ir:2095#%40Mehxray
