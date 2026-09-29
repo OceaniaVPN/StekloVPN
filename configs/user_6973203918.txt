@@ -1,7 +1,5 @@
 #profile-title: HOLOSTVPN
-#profile-update-interval: 4
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1857815645
-#profile-web-page-url: https://t.me/scanmissatov
-#announce: подпишись @Holost_VPN
-#x-expire-days-total: 777
-#x-expire-ts: 1857815645
+#profile-update-interval: 2
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: .
+#announce: .
