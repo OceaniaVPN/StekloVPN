@@ -1,0 +1,7 @@
+#profile-title: Vpn
+#profile-update-interval: 9
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1790855240
+#profile-web-page-url: .
+#announce: .
+#x-expire-days-total: 2
+#x-expire-ts: 1790855240
