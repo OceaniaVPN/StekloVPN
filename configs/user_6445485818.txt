@@ -42,3 +42,4 @@ vless://01897a43-92f2-4607-8e8e-b1ccb4bef23a@bohmtfr.boottbtg.ru:443?encryption=
 vless://6ccd9a9b-716e-4ca7-aa45-bf415ff5909f@185.229.9.16:1443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ligastavok.ru&fp=qq&pbk=eIwe5pSZs414JJDSuBA3R4-ikllq0oITezzVIdUkACI&sid=ad7dab462a323acb&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%92%D1%81%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%203
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?security=tls&sni=hy.quattro-tech.ru#🌐 Anycast-IP | 🇱🇻 🇸🇪 [*CIDR]
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=91.240.86.70&insecure=1#🌐 Anycast-IP | 🇷🇺 [*CIDR]
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=hy.quattro-tech.ru#🌐 Anycast-IP | 🇷🇺 [*CIDR]-1
