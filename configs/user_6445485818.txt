@@ -44,7 +44,6 @@ hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?security=tls
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=91.240.86.70&insecure=1#🌐 Anycast-IP | 🇷🇺 [*CIDR]
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=hy.quattro-tech.ru#🌐 Anycast-IP | 🇷🇺 [*CIDR]-1
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els1.mangshe.xyz:2056?security=tls&sni=els1.mangshe.xyz&insecure=1#🌐 Anycast-IP | 🇷🇺 [*CIDR]-2
-vless://b65a7baa-99f1-490f-9757-dae7e154d45e@176.109.85.77:5443?encryption=none&type=xhttp&security=reality&host=54.img.avito.st&path=%2F&mode=auto&extra=null&fp=firefox&sni=54.img.avito.st&pbk=B7pHgF6iDFjSK8QMq7XTDi_edqn5_gKOxtqXfaIDgxo&sid=aabbccdd#HOLOSTVPN
 vless://4392b776-41a2-4300-b545-a3d2724b605b@92.53.99.72:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=cdn.tracker.yandex.net&fp=firefox&pbk=SRHaGdtnkRYMKRlJPAIlk3gXKNH9lEo_qCzF5BOBdB4&sid=bc1aa344&path=%2Fstatic%2Fjs%2Fmain.js&host=cdn.tracker.yandex.net#HOLOSTVPN
 vless://4392b776-41a2-4300-b545-a3d2724b605b@94.250.252.5:443?encryption=none&type=xhttp&security=reality&host=cdn.tracker.yandex.net&path=%2Fstatic%2Fjs%2Fmain.js&mode=auto&extra=null&fp=firefox&sni=cdn.tracker.yandex.net&pbk=SRHaGdtnkRYMKRlJPAIlk3gXKNH9lEo_qCzF5BOBdB4&sid=cdb4e56c#HOLOSTVPN
 vless://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?type=xhttp&security=reality&encryption=none&fp=firefox&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&sid=f57d8f26&sni=www.amazon.com&path=%2FG3EEoH63#HOLOSTVPN
