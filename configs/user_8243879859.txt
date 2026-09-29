@@ -11,3 +11,4 @@ vless://11281708-0629-477e-9b7e-34b4ca5e8da5@s23.x5-ads-landing.org:443?encrypti
 vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@31.76.249.87:443?security=reality&encryption=none&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.akamai.com#%40
 vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect3.accessgate.link:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=unpkg.com&fp=edge&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B2%20%D0%A5%D0%BE%D0%BC%D1%8F%D0%BA%20%F0%9F%90%B9
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%D0%A4%D0%A0%D0%93
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#%D0%A4%D0%A0%D0%93
