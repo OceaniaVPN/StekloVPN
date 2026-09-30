@@ -1,5 +1,5 @@
-#profile-title: .
+#profile-title: CLIENT VPN
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
-#profile-web-page-url: h
-#announce: m
+#profile-web-page-url: @scanmissatov
+#announce: бесплатный впн https://t.me/client_incy
