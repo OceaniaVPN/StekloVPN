@@ -1,0 +1,15 @@
+#profile-title: Decoded • ffvpn.ru
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://ffvpn.ru/sub/Njk3MzIwMzkxOEB0ZWxlZ3JhbSwxNzkwNzY0MTc0kDKk2elgs1
+
+vless://e6261601-0ba9-465d-9c70-6c8b4e47c7e4@92.255.109.230:443?type=xhttp&security=tls&sni=spb1.ffgate.ru&fp=firefox#ffVPN-NL15
+vless://e6261601-0ba9-465d-9c70-6c8b4e47c7e4@62.109.19.28:443?type=tcp&security=reality&sni=duckduckgo.com&pbk=IxFbqmfuwejYSKYu69qBnzG9yWSuf7UjHujXWOO_w34&sid=9137d914cd770b54&fp=firefox&flow=xtls-rprx-vision#ffVPN-NL7
+vless://e6261601-0ba9-465d-9c70-6c8b4e47c7e4@78.153.149.138:443?type=tcp&security=reality&sni=duckduckgo.com&pbk=IxFbqmfuwejYSKYu69qBnzG9yWSuf7UjHujXWOO_w34&sid=9137d914cd770b54&fp=firefox&flow=xtls-rprx-vision#ffVPN-SE1
+vless://e6261601-0ba9-465d-9c70-6c8b4e47c7e4@185.146.156.181:443?type=tcp&security=reality&sni=duckduckgo.com&pbk=IxFbqmfuwejYSKYu69qBnzG9yWSuf7UjHujXWOO_w34&sid=9137d914cd770b54&fp=firefox&flow=xtls-rprx-vision#ffVPN-NL14
+vless://e6261601-0ba9-465d-9c70-6c8b4e47c7e4@82.97.253.3:443?type=tcp&security=reality&sni=duckduckgo.com&pbk=IxFbqmfuwejYSKYu69qBnzG9yWSuf7UjHujXWOO_w34&sid=9137d914cd770b54&fp=firefox&flow=xtls-rprx-vision#ffVPN-SE2
+vless://e6261601-0ba9-465d-9c70-6c8b4e47c7e4@157.22.199.168:443?type=xhttp&security=tls&sni=mow1.ffgate.ru&fp=firefox#ffVPN-NL12
+vless://e6261601-0ba9-465d-9c70-6c8b4e47c7e4@185.105.111.131:443?type=xhttp&security=tls&sni=mow9.ffgate.ru&fp=firefox#ffVPN-FI7
+vless://e6261601-0ba9-465d-9c70-6c8b4e47c7e4@gw1.ffgate.ru:443?type=xhttp&security=tls&fp=firefox#ffVPN-GW1
+vless://e6261601-0ba9-465d-9c70-6c8b4e47c7e4@gw2.ffgate.ru:443?type=xhttp&security=tls&fp=firefox#ffVPN-GW2
+vless://e6261601-0ba9-465d-9c70-6c8b4e47c7e4@157.22.199.208:443?type=xhttp&security=tls&sni=mow2.ffgate.ru&fp=firefox#ffVPN-NL16
