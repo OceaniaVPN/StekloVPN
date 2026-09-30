@@ -1,0 +1,6 @@
+#profile-title: Decoded • app.rkn.gay
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://app.rkn.gay/b/AAAAAZ-ipc4ff_yuL4dAiJzK1HKgT7Qb
+
+vless://1f7ffcae-2f87-4088-9cca-d472a04fb41b@device-limit.invalid:443?type=tcp&security=tls&sni=device-limit.invalid&fp=edge&flow=xtls-rprx-vision#proxy
