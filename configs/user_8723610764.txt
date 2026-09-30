@@ -1,1 +1,2 @@
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&fp=random&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#Gasai%20WiFi%20%F0%9F%A9%B7%20%F0%9F%87%AB%F0%9F%87%AE
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=vless#Gasai%20WiFi%20%F0%9F%A9%B7%20%F0%9F%87%AC%F0%9F%87%A7
