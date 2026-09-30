@@ -7,3 +7,4 @@
 vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect3.accessgate.link:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=unpkg.com&fp=edge&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B2%20%D0%A5%D0%BE%D0%BC%D1%8F%D0%BA%20%F0%9F%90%B9
 ss://aes-256-gcm:3eOFeNssde7PYYMv@84.247.155.196:443#%D0%A4%D0%A0%D0%93
 vless://eec2f6a7-c10f-43b0-b133-61f9bf9bbc27@147.45.71.184:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=17riEzmqVZyqgLiJkEITsiJc0NcXDfPq6RzQJmH830c&security=reality&sid=ef01859eafef126d&sni=amazon.de&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F
+ss://aes-256-gcm:3eOFeNssde7PYYMv@84.247.155.196:80#%D0%A4%D0%A0%D0%93
