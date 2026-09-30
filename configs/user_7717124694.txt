@@ -1,0 +1,6 @@
+#profile-title: Hills
+#profile-update-interval: 5
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1798555789
+#announce: Бесплатный VPN
+#x-expire-days-total: 90
+#x-expire-ts: 1798555789
