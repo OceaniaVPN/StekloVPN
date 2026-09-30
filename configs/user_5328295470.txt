@@ -1,4 +1,8 @@
-#profile-title: Эмиль впн
+#profile-title: #profile-title: Эмиль впн
 #profile-update-interval: 10
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #announce: Эмиль впн
+#profile-update-interval: А
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: А
+#announce: П
