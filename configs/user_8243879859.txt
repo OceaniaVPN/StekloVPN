@@ -7,3 +7,4 @@
 vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect3.accessgate.link:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=unpkg.com&fp=edge&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B2%20%D0%A5%D0%BE%D0%BC%D1%8F%D0%BA%20%F0%9F%90%B9
 ss://aes-256-gcm:3eOFeNssde7PYYMv@84.247.155.196:443#%D0%A4%D0%A0%D0%93
 ss://aes-256-gcm:3eOFeNssde7PYYMv@84.247.155.196:80#%D0%A4%D0%A0%D0%93
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&fm=%7B%7D&sni=itsallproxy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%91%D0%A1
