@@ -10,3 +10,4 @@ ss://aes-256-gcm:3eOFeNssde7PYYMv@84.247.155.196:80#%D0%A4%D0%A0%D0%93
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&fm=%7B%7D&sni=itsallproxy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%91%D0%A1
 vless://dbe7df9a-c846-4305-9bbf-771c1b2f0520@oil.nikotine.us:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=aHMslQzeWSCspD7XL2TP6wLIyzbVm67q-cc7A2NWbXU&security=reality&sid=f56e9ef4d4b9dadd&sni=oil.nikotine.us&type=tcp#https%3A%2F%2Ft.me%2Fallproconf
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&fm=%7B%7D&sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%9D%D0%B8%D1%89%D0%B8%D0%B5%20%D0%91%D0%A1
+ss://YWVzLTEyOC1nY206YjIzY2MyNDE4YjczNGY4MjA2ZDE4YjBiM2Q5MWYyNzA@216.244.76.141:16956#https%3A%2F%2Ft.me%2Fallproconf
