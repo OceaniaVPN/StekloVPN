@@ -59,3 +59,4 @@ vless://6f91e9a0-d5de-4bd2-a692-8aa94d024ad7@93.190.8.85:3090?security=none&encr
 vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@50.7.193.142:443?security=reality&encryption=none&pbk=OINuDFEDTdmtFR8QRxAZfQIMPA-wJxfGN1LjB3TFUHo&sid=535a3304&fp=random&sni=apiv12nd.goonars.com&flow=xtls-rprx-vision&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%E2%9C%A7Dark%20Dream%E2%9C%A7
 vless://6f91e9a0-d5de-4bd2-a692-8aa94d024ad7@185.87.24.169:2085?security=none&encryption=none&type=grpc&serviceName=vless&mode=gun#%F0%9F%87%B9%F0%9F%87%B7%E2%9C%A7Dark%20Dream%E2%9C%A7
 ss://YWVzLTI1Ni1nY206UzFscGVrcE5kM3BSVmpoeVNXMXNUbkphTUZkNE4zSmpWRkpPZG1nd1ZWYzFjSEkwT0RCb01UZFNUR3RFYUV0bFZVcEhSVlJEYVRKMVMybFpVVm95TVE9PQ@83.147.255.86:32296#%F0%9F%87%B7%F0%9F%87%BA%E2%9C%A7Dark%20Dream%E2%9C%A7-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YmlubVZUNThXbnI2dk56eHVfSm1wekVXNmktRmdBag@80.97.27.106:112#%F0%9F%87%B7%F0%9F%87%B4%E2%9C%A7Dark%20Dream%E2%9C%A7-1
