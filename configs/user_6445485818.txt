@@ -2,3 +2,5 @@
 #profile-update-interval: 4
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #announce: Yooo
+
+vless://dbbcfdbd-89a0-0032-9161-a57271d42474@161.104.38.98:443?security=reality&encryption=none&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&sid=8ba6e72ee60667f6&fp=android&sni=donatov.net&allowInsecure=1&type=xhttp&path=%2Fassets#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5B%2ACIDR%5D
