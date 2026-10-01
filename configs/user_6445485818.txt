@@ -57,3 +57,4 @@ vless://834e5553-d80e-4078-8d7e-482fafe9bbaf@dl2.musicworldtg.com:2018?security=
 vless://5463f486-3cbf-4d68-9054-b8d12b89d8fd@sde.hostnix.ir:6386?security=&encryption=mlkem768x25519plus.native.0rtt.nXRHYT2mMfgY3MxtLcyc89i0YRqqj3y7Zety3O2ipVU&host=sde.hostnix.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E2%9C%A7Dark%20Dream%E2%9C%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YmlubVZUNThXbnI2dk56eHVfSm1wekVXNmktRmdBag@80.97.27.106:112#%F0%9F%87%B7%F0%9F%87%B4%E2%9C%A7Dark%20Dream%E2%9C%A7
 ss://YWVzLTI1Ni1nY206UzFscGVrcE5kM3BSVmpoeVNXMXNUbkphTUZkNE4zSmpWRkpPZG1nd1ZWYzFjSEkwT0RCb01UZFNUR3RFYUV0bFZVcEhSVlJEYVRKMVMybFpVVm95TVE9PQ@83.147.255.86:32296#%F0%9F%87%B7%F0%9F%87%BA%E2%9C%A7Dark%20Dream%E2%9C%A7
+vless://6f91e9a0-d5de-4bd2-a692-8aa94d024ad7@185.87.24.169:2085?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#%F0%9F%87%B9%F0%9F%87%B7%E2%9C%A7Dark%20Dream%E2%9C%A7
