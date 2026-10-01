@@ -1,0 +1,7 @@
+#profile-title: Гильдия "Алая роза" от Ча Ён Джу
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=2350975421
+#profile-web-page-url: @ChaYongJoo6
+#announce: Ну бери ёпта
+#x-expire-days-total: 6483
+#x-expire-ts: 2350975421
