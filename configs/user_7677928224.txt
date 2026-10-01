@@ -1,7 +1,6 @@
-#profile-title: WeterBod
+#profile-title: Boss
 #profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1919435529
-#profile-web-page-url: .
-#announce: Лучший впн
-#x-expire-days-total: 1488
-#x-expire-ts: 1919435529
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=2375541474
+#announce: Впн от меня пользуйся
+#x-expire-days-total: 6767
+#x-expire-ts: 2375541474
