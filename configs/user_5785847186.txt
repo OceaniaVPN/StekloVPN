@@ -5,3 +5,5 @@
 #announce: Для LTE_WIFI
 #x-expire-days-total: 360
 #x-expire-ts: 1821967285
+
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?encryption=none&security=tls&type=ws&path=%2Fapi%2Fconnect#Manual%20Server%20%5Bowpn.org%5D
