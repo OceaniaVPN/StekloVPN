@@ -1,7 +1,0 @@
-#profile-title: Гильдия "Алая роза"
-#profile-update-interval: 3
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=2306047035
-#profile-web-page-url: @ChaYongJoo6
-#announce: Держи ёпта
-#x-expire-days-total: 5963
-#x-expire-ts: 2306047035
