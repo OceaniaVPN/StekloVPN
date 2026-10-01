@@ -60,3 +60,4 @@ vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@50.7.193.142:443?security=reality&e
 vless://6f91e9a0-d5de-4bd2-a692-8aa94d024ad7@185.87.24.169:2085?security=none&encryption=none&type=grpc&serviceName=vless&mode=gun#%F0%9F%87%B9%F0%9F%87%B7%E2%9C%A7Dark%20Dream%E2%9C%A7
 ss://YWVzLTI1Ni1nY206UzFscGVrcE5kM3BSVmpoeVNXMXNUbkphTUZkNE4zSmpWRkpPZG1nd1ZWYzFjSEkwT0RCb01UZFNUR3RFYUV0bFZVcEhSVlJEYVRKMVMybFpVVm95TVE9PQ@83.147.255.86:32296#%F0%9F%87%B7%F0%9F%87%BA%E2%9C%A7Dark%20Dream%E2%9C%A7-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YmlubVZUNThXbnI2dk56eHVfSm1wekVXNmktRmdBag@80.97.27.106:112#%F0%9F%87%B7%F0%9F%87%B4%E2%9C%A7Dark%20Dream%E2%9C%A7-1
+vless://5463f486-3cbf-4d68-9054-b8d12b89d8fd@sde.hostnix.ir:6386?security=none&encryption=mlkem768x25519plus.native.0rtt.nXRHYT2mMfgY3MxtLcyc89i0YRqqj3y7Zety3O2ipVU&type=tcp&headerType=http&host=sde.hostnix.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%9C%A7Dark%20Dream%E2%9C%A7
