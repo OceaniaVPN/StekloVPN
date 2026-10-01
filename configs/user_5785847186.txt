@@ -38,3 +38,4 @@ vless://237f3738-b70a-4146-89a8-10e914387c1d@159.194.243.175:8443?encryption=non
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&fm=%7B%7D&sni=hy.quattro-tech.ru#AgeresVPN LTE
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?encryption=none&security=tls&sni=tg1.cdnphotos.org&alpn=h2&fp=firefox&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D#Gasai%20WiFi%20AUTO%20%F0%9F%87%AA%F0%9F%87%BA
 vless://c2bbf90c-7f13-47dd-b68d-f0bd38b6b3c8@78.159.246.179:2053?encryption=none&security=tls&sni=randomquaint.net&alpn=h2%2C%20http%2F1.1&fp=chrome&type=xhttp&mode=auto&host=randomquaint.net&path=%2Fapi%2Fv1%2Fupload#AgeresVPN
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&alpn=h2%2C%20http%2F1.1&fp=chrome&type=xhttp&mode=auto&host=dismissaltree.net&path=%2Fapi%2Fv1%2Fupload#AgeresVPNLTE
