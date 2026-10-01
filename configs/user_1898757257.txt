@@ -1,0 +1,5 @@
+#profile-title: Для Софы
+#profile-update-interval: 2
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1796064604
+#x-expire-days-total: 60
+#x-expire-ts: 1796064604
