@@ -1,0 +1,6 @@
+#profile-title: моя подписка @izilanch
+#profile-update-interval: 2
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=10431077673
+#announce: приватый впн ,лично для вас
+#x-expire-days-total: 100000
+#x-expire-ts: 10431077673
