@@ -5,3 +5,4 @@
 #announce: FREE VPN
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@dismissaltree.net:2053?encryption=none&security=tls&sni=dismissaltree.net&alpn=h2%2C%20http%2F1.1&fp=random&type=xhttp&mode=auto&host=dismissaltree.net&path=%2Fapi%2Fv1%2Fupload#%F0%9F%87%AA%F0%9F%87%AA%20%D0%9E%D0%91%D0%AB%D0%A7%D0%9D%D0%AB%D0%95%20%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%20%F0%9F%91%87
+vless://64175ab6-9deb-4784-8d06-9e97eb051b05@199.232.78.143:443?encryption=none&security=tls&sni=edge.microsoft.com&alpn=h2&fp=edge&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=xhttp&mode=auto&host=Suporjaz.global.ssl.fastly.net&path=%2F#%F0%9F%87%AB%F0%9F%87%B2WI-FI
