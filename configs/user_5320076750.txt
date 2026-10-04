@@ -2,3 +2,5 @@
 #profile-update-interval: 3
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: https://t.me/yebanutyye_68
+
+vless://4c4c3885-2c05-4bc2-a4a4-b7fa52106de6@nl-021.ethervds.com:443?encryption=none&security=reality&type=grpc&sni=id.pervye.ru&fp=firefox&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&serviceName=ns&mode=gun#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%92%8E%20%D0%90%D0%B2%D1%82%D0%BE%20%7C%20%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9%20%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%E2%9A%A1%EF%B8%8F%E2%9A%A1%EF%B8%8F%E2%9A%A1%EF%B8%8F
