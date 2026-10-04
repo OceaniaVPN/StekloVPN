@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: https://t.me/yebanutyye_68
 
-vless://80f72027-2201-4541-9abb-7070c9b0869e@pol2.serverslocal.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pol2.serverslocal.ru&fp=random&pbk=FdnIXseNFtVqgGO7-GyAFgQ4GUqzuWz5jywOmuZM6To&sid=dd6a0fb60cd7b2fc&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%93%B6LTE%7C%40xex_vpn%20%2315
 vless://d3ceb538-62ec-401a-ae9c-660c43225e54@203.188.173.93:8444?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nl1r.grg.digital&fp=firefox&pbk=2CuJ8hzPOVku22vp00ZZkvvKvzuJ3B61G1WULHLYNW0&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%93%B6LTE%7C%40xex_vpn%20%2314
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@polkakurvich.hohoterz.beer:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=polkakurvich.hohoterz.beer&fp=firefox&pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&sid=fcfd621a2f36e3b6&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%93%B6LTE%7C%40xex_vpn%20%232
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?security=tls&fm=%7B%7D&sni=hy.quattro-tech.ru#%F0%9F%87%B1%F0%9F%87%BB%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F%20%7C%20%D0%91%D0%A1%C2%B9
