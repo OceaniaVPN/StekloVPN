@@ -4,3 +4,5 @@
 #announce: приватый впн ,лично для вас
 #x-expire-days-total: 100000
 #x-expire-ts: 10431077673
+
+vless://27bfccec-549c-4d7d-816b-e63067d1749f@46.8.226.177:443?encryption=none&extra=%7B%22mode%22%3A%22stream-one%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&host=hkex.com.hk&mode=stream-one&path=%2Fassets%2F&pbk=HGHynF-NoJZfrK0GeiFLxCsC8jMuEtuTyH1AL3lHrCI&security=reality&sid=69153f87d9b2&sni=hkex.com.hk&spx=%2F18d192c2588c0a2&type=xhttp&x_padding_bytes=100-1000#%40FuckTheWall-TG-FuckTheWall
