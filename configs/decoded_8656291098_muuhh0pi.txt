@@ -1,0 +1,7 @@
+#profile-title: Decoded • id.cloudxcdn.xyz
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://id.cloudxcdn.xyz/v2/74b747d6-d7d5-4338-81b9-4cb26cf5b2d2
+
+vless://ecb99a7f-9ea4-4ca5-9eaa-7585240f6b9d@45.88.12.36:2083?type=ws&security=tls&path=%2Fvless-ws&sni=crt.viktorthebest.lol&fp=chrome#proxy
+vless://ecb99a7f-9ea4-4ca5-9eaa-7585240f6b9d@45.88.12.36:6443?type=grpc&security=reality&serviceName=grpc&sni=rutube.ru&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=5c766813929a1fdd&fp=chrome#proxy
