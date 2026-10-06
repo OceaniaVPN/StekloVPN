@@ -1,0 +1,6 @@
+#profile-title: Decoded • a1.labuba.cc
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://a1.labuba.cc/XkmbM_nVbX7bqvKa
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#App%20not%20supported
