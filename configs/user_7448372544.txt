@@ -1,0 +1,6 @@
+#profile-title: TG: ALT_VPN_OBXOD
+#profile-update-interval: 12
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://t.me/alt_vpn_obxod
+#announce: сабка обновляется раз в пару дней
+https://t.me/alt_vpn_obxod
