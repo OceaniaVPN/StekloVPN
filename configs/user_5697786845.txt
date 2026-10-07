@@ -4,6 +4,5 @@
 #profile-web-page-url: @Napolegore
 #announce: У всех работает по разному в зависимости от оператора
 
-vless://a053110f-764f-478c-b1e1-94ff26a95094@188.225.78.182:443?security=reality&encryption=none&pbk=Dx5aV0n9e1j_YDhVk8Z4O9HPrg1HLAuGKlmQpgERgDo&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=bm9.hat.onl&sid=8eeca41a32d1523d#🌶️Aether%20VPN%20LTE%202🌶️
 vless://a053110f-764f-478c-b1e1-94ff26a95094@188.225.44.75:443?security=reality&encryption=none&pbk=Zy-GGHQ4J0M5RtpGPF7MUabmQo8nNr9iohVfyrmSGEY&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=bm6.hat.onl&sid=7e704e370213f498#🌶️Aether%20VPN%20LTE%203🌶️
 vless://a053110f-764f-478c-b1e1-94ff26a95094@188.225.44.75:443?security=reality&encryption=none&pbk=GyYuIjccJJRQZM72MGdBQEwGwGR9e0UMNlJxw0sQR2M&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=bm1.hat.onl&sid=38560e0003d69843#🌶️Aether%20VPN%20LTE%204🌶️
