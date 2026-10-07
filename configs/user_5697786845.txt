@@ -3,5 +3,3 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: @Napolegore
 #announce: У всех работает по разному в зависимости от оператора
-
-vless://a053110f-764f-478c-b1e1-94ff26a95094@188.225.44.75:443?security=reality&encryption=none&pbk=GyYuIjccJJRQZM72MGdBQEwGwGR9e0UMNlJxw0sQR2M&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=bm1.hat.onl&sid=38560e0003d69843#🌶️Aether%20VPN%20LTE%204🌶️
