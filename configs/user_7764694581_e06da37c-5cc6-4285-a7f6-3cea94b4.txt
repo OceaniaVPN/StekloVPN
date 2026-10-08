@@ -2,3 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #announce: Бесплатный ВПН от FluxVPN
+
+vless://41391fbd-b92d-4b76-bc5c-9d2ece7b6939@94.183.152.229:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.missetam.nl&fp=firefox&pbk=GvU1FCGHyOcHUAeen4_9smYjuo_ckTg5QAYWBxS8-Xw&sid=78aee0be03721401&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%F0%9F%9A%80
