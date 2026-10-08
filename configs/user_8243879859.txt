@@ -3,3 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: https://t.me/sozdayvpnsam
 #announce: FREE VPN
+
+vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?encryption=none&security=tls&sni=tg1.cdnphotos.org&alpn=h2&fp=firefox&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D#%F0%9F%87%AF%F0%9F%87%B5%20%20WiFi%F0%9F%91%87
