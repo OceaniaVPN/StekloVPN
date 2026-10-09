@@ -1,0 +1,6 @@
+#profile-title: Не VPN
+#profile-update-interval: 30
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1794099430
+#announce: nonnonee of
+#x-expire-days-total: 30
+#x-expire-ts: 1794099430
