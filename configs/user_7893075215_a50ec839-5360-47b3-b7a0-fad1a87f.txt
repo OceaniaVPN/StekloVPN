@@ -1,0 +1,7 @@
+#profile-title: PilotVpn
+#profile-update-interval: 7
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1794211272
+#profile-web-page-url: Pilot
+#announce: @vpn_pilot
+#x-expire-days-total: 30
+#x-expire-ts: 1794211272
