@@ -1,0 +1,6 @@
+#profile-title: moyVpn
+#profile-update-interval: 96
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1799504395
+#announce: Бесплатный и умный VPN
+#x-expire-days-total: 90
+#x-expire-ts: 1799504395
