@@ -1,0 +1,7 @@
+#profile-title: Go speed VPN
+#profile-update-interval: 1 час
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1794603744
+#profile-web-page-url: Канал https://t.me/vpnvvva
+#announce: Лучший VPN @gospeedvpns_bot
+#x-expire-days-total: 30
+#x-expire-ts: 1794603744
