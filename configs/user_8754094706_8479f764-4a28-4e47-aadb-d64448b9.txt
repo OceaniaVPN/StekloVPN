@@ -1,0 +1,5 @@
+#profile-title: Noisy/noi/vpn
+#profile-update-interval: 720
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: open/lock/clock/brock/187
+#announce: ✨ Бесплатный VPN, подпишись @free_vpn123456
