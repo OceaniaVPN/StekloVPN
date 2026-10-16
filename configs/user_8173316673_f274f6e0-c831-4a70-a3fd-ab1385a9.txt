@@ -1,0 +1,7 @@
+#profile-title: Catvpn
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=86400001792167120
+#profile-web-page-url: @blakroge
+#announce: Платный впн
+#x-expire-days-total: 1000000000000
+#x-expire-ts: 86400001792167120
