@@ -1,0 +1,7 @@
+#profile-title: Vot.tak.votVPN
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1794730359
+#profile-web-page-url: vot.tak.vot_vpn22011112
+#announce: Надежный VPN, подпишись @vot.tak.vot_vpn22011112
+#x-expire-days-total: 30
+#x-expire-ts: 1794730359
