@@ -2,3 +2,5 @@
 #profile-update-interval: 4
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #announce: Vless Yaml Shadow socks Reality Trojan proxy knox
+
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@www.speedtest.net:443?encryption=none&type=ws&path=%2Ffdip%23TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=http%2F1.1#Notorgamers
