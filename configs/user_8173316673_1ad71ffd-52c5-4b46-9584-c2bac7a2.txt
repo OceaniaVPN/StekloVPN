@@ -1,7 +1,0 @@
-#profile-title: 192.200.160.255:80 США 🇺🇸
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1794812026
-#profile-web-page-url: @dlakroge
-#announce: Бесплатный впн
-#x-expire-days-total: 30
-#x-expire-ts: 1794812026
