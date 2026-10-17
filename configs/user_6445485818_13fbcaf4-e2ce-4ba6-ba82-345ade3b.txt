@@ -26,3 +26,4 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?encryption=none&se
 vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.25:2087?security=reality&sni=www.yandex.ru&type=grpc&fp=firefox&path=astracat&pbk=KDBhxT2YMtMjDEC9VdoDEISdCwxd6KFrSE8uyUaHcTY&sid=ed435c242097fd05#Notorgamers
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.130.234:443?encryption=none&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome#Notorgamers
 vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?encryption=none&type=tcp&security=tls&sni=user-6a8d949a.noooo.win&flow=xtls-rprx-vision#Notorgamers
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.18.37.127:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#Notorgamers
