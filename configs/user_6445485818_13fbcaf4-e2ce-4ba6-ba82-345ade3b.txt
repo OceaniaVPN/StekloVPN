@@ -15,3 +15,4 @@ vless://6d1593ef-f64a-4e8f-a69b-a22fb8e4368e@89.104.69.137:443?encryption=mlkem7
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&alpn=h2%2C%20http%2F1.1&fp=random&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2Fupload#Notorgamers
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@#Notorgamers
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?path=%2F%3FTelegram---@MTMVPN---@MTMVPN---@MTMVPN---@MTMVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#Notorgamers
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.17.147.22:443?security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&fp=chrome&alpn=http/1.1&allowInsecure=0#Notorgamers
