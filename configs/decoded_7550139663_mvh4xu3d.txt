@@ -1,0 +1,7 @@
+#profile-title: Decoded • flaregate.dedyn.io
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://flaregate.dedyn.io/api/v1/sub/Pu90sR1a10ZAEG5uNglwdA
+
+vless://66ebf791-b0c9-42b5-a992-bb4e23f7ba7a@localhost:2754?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#%D0%90%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%20%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD
+vless://a7535838-26a9-4f27-a841-0000f43e7fe2@localhost:4537?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D1%82%D0%B5%D1%81%D1%8C%20%D0%B2%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D1%83
