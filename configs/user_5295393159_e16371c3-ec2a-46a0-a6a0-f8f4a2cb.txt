@@ -1,0 +1,7 @@
+#profile-title: Noname VPN
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1801150163
+#profile-web-page-url: nonamevpn
+#announce: Noname VPN- твое соединении = твоя свобода
+#x-expire-days-total: 100
+#x-expire-ts: 1801150163
