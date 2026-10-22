@@ -4,7 +4,6 @@
 #profile-web-page-url: @sozdanie_VPN_bot
 #announce: Подпишись на тгк https://t.me/sozdayvpnsam
 
-vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?encryption=none&security=tls&sni=tg1.cdnphotos.org&alpn=h2&fp=firefox&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F#Phantom%20VPN%20%F0%9F%87%AF%F0%9F%87%B5
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?encryption=none&security=tls&sni=randomquaint.net&alpn=h2%2C%20http%2F1.1&type=xhttp&mode=auto&host=randomquaint.net&path=%2Fapi%2Fv1%2Fupload#%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B8%20%F0%9F%87%AF%F0%9F%87%B5
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@randomquaint.net:2053?encryption=none&security=tls&sni=randomquaint.net&alpn=h2%2C%20http%2F1.1&type=xhttp&mode=auto&host=randomquaint.net&path=%2Fapi%2Fv1%2Fupload#%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B8%20%F0%9F%87%AF%F0%9F%87%B5
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&alpn=h2%2C%20http%2F1.1&fp=random&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2Fupload#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%E2%84%961
