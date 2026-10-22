@@ -4,7 +4,6 @@
 #profile-web-page-url: @sozdanie_VPN_bot
 #announce: Подпишись на тгк https://t.me/sozdayvpnsam
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.84:2053?encryption=none&security=tls&sni=summerculture.net&alpn=h2&fp=random&type=xhttp&mode=auto&host=summerculture.net&path=%2Fapi%2Fv1%2Fupload#%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20%E2%84%967%F0%9F%87%B7%F0%9F%87%BA
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=qq.utiltools.site&fp=random&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp&headerType=none#%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20%E2%84%968%F0%9F%87%B7%F0%9F%87%BA
 vless://5d7e07ba-f460-4638-af79-bbcde67fcb6b@81.26.182.128:8443?encryption=none&security=reality&sni=www.asus.com&fp=firefox&pbk=xlXuN8KDdbqGEsaj1m2D8NUnR5d2oeo5TT71RSMmfxY&type=xhttp&mode=auto&path=%2Fxh#%F0%9F%87%B7%F0%9F%87%BA%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20%E2%84%969
 vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@85.193.85.231:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&type=tcp&headerType=none#%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20%E2%84%9610%20%F0%9F%87%B7%F0%9F%87%BA
