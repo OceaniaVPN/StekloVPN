@@ -1,0 +1,7 @@
+#profile-title: Тест
+#profile-update-interval: 3
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1879067094
+#profile-web-page-url: Ллл
+#announce: Оооо
+#x-expire-days-total: 999
+#x-expire-ts: 1879067094
