@@ -1,0 +1,7 @@
+#profile-title: Last VPN
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1795348575
+#profile-web-page-url: @khasandovudov
+#announce: Last VPN
+#x-expire-days-total: 30
+#x-expire-ts: 1795348575
