@@ -1,0 +1,7 @@
+#profile-title: ВПН ПОДПИСКА
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1824321359
+#profile-web-page-url: @Hacker_6555
+#announce: FREE VPN 24/7
+#x-expire-days-total: 365
+#x-expire-ts: 1824321359
