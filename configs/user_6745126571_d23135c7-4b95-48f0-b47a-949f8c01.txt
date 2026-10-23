@@ -1,0 +1,7 @@
+#profile-title: Weroxdultra VPN
+#profile-update-interval: 10
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=12160785020
+#profile-web-page-url: @Weroxddd
+#announce: Бесплатный VPN самый лучший по скорости
+#x-expire-days-total: 120000
+#x-expire-ts: 12160785020
