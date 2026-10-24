@@ -1,0 +1,7 @@
+#profile-title: StekloVPN
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=9601792840006
+#profile-web-page-url: @blakroge
+#announce: Бесплатный Впн
+#x-expire-days-total: 111111111
+#x-expire-ts: 9601792840006
