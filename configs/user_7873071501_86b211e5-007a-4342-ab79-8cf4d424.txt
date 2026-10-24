@@ -1,0 +1,7 @@
+#profile-title: VPN
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: @freevpn629
+#announce: 📢 Наш телеграм канал: https://t.me/freevpn629
+
+❤️‍🩹 Приятного использование
