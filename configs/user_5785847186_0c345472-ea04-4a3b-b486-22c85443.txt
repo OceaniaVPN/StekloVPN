@@ -1,0 +1,6 @@
+#profile-title: AgeresVPN WL
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=4946454853
+#announce: AgeresVPNLTE
+#x-expire-days-total: 36500
+#x-expire-ts: 4946454853
