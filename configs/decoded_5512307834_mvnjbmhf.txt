@@ -1,0 +1,29 @@
+#profile-title: Decoded • a.my-keyboards.shop
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://a.my-keyboards.shop/cart/07rf9zRJmkQWYFYd
+
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@pl35.tranzit-net.ru:443?type=tcp&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@pl37.tranzit-net.ru:443?type=tcp&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-2
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@212.0.206.106:443?type=tcp&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-3
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@de51.tranzit-net.ru:443?type=tcp&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-4
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@de58.tranzit-net.ru:443?type=tcp&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-5
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@de66.tranzit-net.ru:443?type=tcp&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-6
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@de64.tranzit-net.ru:443?type=tcp&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-7
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@ro01.tranzit-net.ru:443?type=tcp&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-8
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@ru40.overseashost.ru:443?type=tcp&security=reality&sni=ru.overseashost.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-9
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@ru48.overseashost.ru:443?type=tcp&security=reality&sni=ru.overseashost.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-10
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@ru54.overseashost.ru:443?type=tcp&security=reality&sni=ru.overseashost.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-11
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@ru55.overseashost.ru:443?type=tcp&security=reality&sni=ru.overseashost.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-12
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@ru56.overseashost.ru:443?type=tcp&security=reality&sni=ru.overseashost.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-13
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@ru40.overseashost.ru:443?type=tcp&security=reality&sni=ru.overseashost.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@ru48.overseashost.ru:443?type=tcp&security=reality&sni=ru.overseashost.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-2
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@ru54.overseashost.ru:443?type=tcp&security=reality&sni=ru.overseashost.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-3
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@ru55.overseashost.ru:443?type=tcp&security=reality&sni=ru.overseashost.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-4
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@ru56.overseashost.ru:443?type=tcp&security=reality&sni=ru.overseashost.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-5
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@212.0.206.106:443?type=tcp&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@de51.tranzit-net.ru:443?type=tcp&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@de58.tranzit-net.ru:443?type=tcp&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-2
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@de66.tranzit-net.ru:443?type=tcp&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-3
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@de64.tranzit-net.ru:443?type=tcp&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy-4
+vless://9f918b2e-c39d-4384-9e21-a8837f997b0b@ro01.tranzit-net.ru:443?type=tcp&security=reality&sni=d.tranzit-net.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox&flow=xtls-rprx-vision#proxy
