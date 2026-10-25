@@ -1,0 +1,10 @@
+#profile-title: Decoded • crypt5
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://broxvpn.apruxdomain.online/sub/gj2Jmm2e8qYHy9HIpiPW
+
+vless://00000000-0000-0000-0000-000000000000@happ-notice.invalid:443?encryption=none&security=tls&sni=happ-notice.invalid&type=tcp&headerType=none#Отключи впн
+vless://00000000-0000-0000-0000-000000000000@happ-notice.invalid:443?encryption=none&security=tls&sni=happ-notice.invalid&type=tcp&headerType=none#И обнови подписку
+vless://00000000-0000-0000-0000-000000000000@happ-notice.invalid:443?encryption=none&security=tls&sni=happ-notice.invalid&type=tcp&headerType=tcp&sni=happ-notice.invalid#Если не помогло
+vless://00000000-0000-0000-0000-000000000000@happ-notice.invalid:443?encryption=none&security=tls&sni=happ-notice.invalid&type=tcp&headerType=tcp&sni=happ-notice.invalid#Обнови happ
+vless://00000000-0000-0000-0000-000000000000@happ-notice.invalid:443?encryption=none&security=tls&sni=happ-notice.invalid&type=tcp&headerType=none#До последней версии
