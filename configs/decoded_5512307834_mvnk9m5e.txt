@@ -1,0 +1,7 @@
+#profile-title: Decoded • sub.alvsub.cc
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://sub.alvsub.cc/mUsNSwBL5_P33gT2
+
+vless://f89c55f2-6dae-4d79-82ba-f007518b2112@riskfreewayoveruse.ferreo.sbs:443?type=tcp&security=reality&sni=riskfreewayoveruse.ferreo.sbs&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&sid=1067b23f928e7618&fp=firefox&flow=xtls-rprx-vision#bridge
+vless://f89c55f2-6dae-4d79-82ba-f007518b2112@riskfreewayoveruse.ferreo.sbs:443?type=tcp&security=reality&sni=riskfreewayoveruse.ferreo.sbs&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&sid=1067b23f928e7618&fp=firefox&flow=xtls-rprx-vision#proxy
