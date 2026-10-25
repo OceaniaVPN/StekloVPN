@@ -1,0 +1,35 @@
+#profile-title: Decoded • freeinternet.bot
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://freeinternet.bot/ZPZ0hUoj2r9pEoQa
+
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@z43bal.rottshieldsons.pics:443?type=tcp&security=reality&sni=z43bal.rottshieldsons.pics&pbk=-ADm-o6yFYNcLgLQgHguNWDWrH9xcRwQyqLMoVuajgo&sid=8944e69f4aadde1e&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@apis.heoleti.pro:8880?type=xhttp&security=tls&sni=apis.heoleti.pro&fp=firefox#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@pulse-resume.pro:443?type=ws&security=tls&path=%2Famsws&sni=pulse-resume.pro&fp=edge#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@t1na.n3vesta.online:443?type=xhttp&security=tls&sni=t1na.n3vesta.online&fp=firefox#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@magi.karp1pdd.life:443?type=xhttp&security=tls&sni=magi.karp1pdd.life&fp=firefox#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@ebsmogg.rekonkista.icu:443?type=ws&security=tls&path=%2Fmjgate&sni=ebsmogg.rekonkista.icu&fp=firefox#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@j0lt1k.khovanski.mom:443?type=xhttp&security=tls&sni=j0lt1k.khovanski.mom&fp=firefox#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@yoyo.pumpkinpie.study:443?type=xhttp&security=tls&sni=yoyo.pumpkinpie.study&fp=firefox#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@solsps.rottshieldsons.pics:443?type=ws&security=tls&path=%2Fmwsgate&sni=solsps.rottshieldsons.pics&fp=firefox#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@geya.bivizandhead.online:443?type=tcp&security=reality&sni=geya.bivizandhead.online&pbk=DYZygG3SAwaVASLcFDQQ5-mD6I3vslQbQvPw4BP_jFg&sid=91843f43e9470b9c&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@czek.rekonkista.icu:443?type=tcp&security=reality&sni=czek.rekonkista.icu&pbk=WU5baXUzRH9BceiYI8MPBmDMEloTFImx2vvE5uh1yjM&sid=f19e02a2fb573c18&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@sweringa.rottshieldsons.pics:443?type=tcp&security=reality&sni=sweringa.rottshieldsons.pics&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&sid=fb442438e2223836&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@z00land3r.rottshieldsons.pics:443?type=tcp&security=reality&sni=z00land3r.rottshieldsons.pics&pbk=III2StgFziJtisbaKDYlEF2qYwBHJZnzZH5DHdwuFQ8&sid=d110331f200987ae&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@awwr.khovanski.mom:2053?type=tcp&security=reality&sni=awwr.khovanski.mom&pbk=372lhUM0WJWBCShaAu0u3JGvIqCWGvBRRXQyjsAHt0Q&sid=685ffe8ade96f0b2&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@xzq.rottshieldsons.pics:2053?type=tcp&security=reality&sni=xzq.rottshieldsons.pics&pbk=xPmRjkBE_F0_Lh-61wEv3SoUn2dTRHZO5Ko7ZdOyTnM&sid=9b2653371e8cbc31&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@kitt.rottshieldsons.pics:443?type=tcp&security=reality&sni=kitt.rottshieldsons.pics&pbk=r1MW0o1DsC6EEWN-KPKnoXszb1trxlKShRIgOpxqHBk&sid=d98e7afec9c0c359&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@3loz.moriage.online:443?type=tcp&security=reality&sni=3loz.moriage.online&pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&sid=fcfd621a2f36e3b6&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@waww.rottshieldsons.pics:443?type=tcp&security=reality&sni=waww.rottshieldsons.pics&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@tere.rekonkista.icu:443?type=tcp&security=reality&sni=tere.rekonkista.icu&pbk=I_-Mb_q3_4-ZdzrzB6SKh-Zla1kKI4M_0OMjWDYXVxg&sid=13d8fbd7fd9e1ce8&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@mold.nxxzxaw.beer:443?type=tcp&security=reality&sni=mold.nxxzxaw.beer&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@mylove.khovanski.mom:443?type=tcp&security=reality&sni=mylove.khovanski.mom&pbk=cn19zhvxIt-kcsvM9hL2l1soDZzSETLDdiae0YDaPBQ&sid=4bd1446773450886&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@yaruss.stopingiphatered.shop:443?type=tcp&security=reality&sni=yaruss.stopingiphatered.shop&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@turagenstvo.stopingiphatered.shop:443?type=tcp&security=reality&sni=turagenstvo.stopingiphatered.shop&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@musosoli.ben1toq.online:443?type=tcp&security=reality&sni=musosoli.ben1toq.online&pbk=T0rs8JahQFJ0vF6W04f9_quTjT-5tNMEYHzjvYSeqFs&sid=6c050e745decc363&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@spalilisuki.khovanski.mom:443?type=tcp&security=reality&sni=spalilisuki.khovanski.mom&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@h00p.likontrop.wiki:443?type=tcp&security=reality&sni=h00p.likontrop.wiki&pbk=uMt7ANUMFerzG_x4cxDqRV4HiT3nToJ0C-995BUG1AM&sid=ec9f66f8edac0879&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@tatatai.nxxzxaw.beer:443?type=tcp&security=reality&sni=tatatai.nxxzxaw.beer&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@knukrz.nakkers.online:443?type=tcp&security=reality&sni=knukrz.nakkers.online&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@sha2.rottshieldsons.pics:443?type=tcp&security=reality&sni=sha2.rottshieldsons.pics&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://db12cef2-a42c-4f00-925f-f9c9cca07f3e@kazakx.kovsh.lol:443?type=tcp&security=reality&sni=kazakx.kovsh.lol&pbk=AQvd3i3V4g-Im7Oaq4xKGxWszTSXZLgsPPtiIlN_kRk&sid=01a71fb3926ba422&fp=firefox&flow=xtls-rprx-vision#proxy
