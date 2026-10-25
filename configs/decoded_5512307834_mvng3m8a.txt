@@ -1,0 +1,7 @@
+#profile-title: Decoded • dds.yandexdns-api-service.help
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://dds.yandexdns-api-service.help/sub/1DDC9239F0/
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&headerType=none#Вы достигли лимит устройств
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&headerType=none#В бесплатной версии доступно 2 устройства (телефон и ПК). Для подключения до 5 устройств оформите VIP-подписку!
