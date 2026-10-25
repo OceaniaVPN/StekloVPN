@@ -1,0 +1,7 @@
+#profile-title: ⚡️Silence FREE 🐥
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1801592899
+#profile-web-page-url: Нету
+#announce: Бесплатный VPN
+#x-expire-days-total: 100
+#x-expire-ts: 1801592899
