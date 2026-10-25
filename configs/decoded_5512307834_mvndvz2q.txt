@@ -1,0 +1,6 @@
+#profile-title: Decoded • sub2.deltaorg.org
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://sub2.deltaorg.org/NfRJGxStAsd5vJee
+
+vless://529c8927-c85c-44f8-aa5a-0124d3891a8a@0.0.0.0:1?security=&type=tcp&headerType=&path=&host=#App%20not%20supported
