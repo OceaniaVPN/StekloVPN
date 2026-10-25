@@ -1,0 +1,7 @@
+#profile-title: Decoded • crypt5
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://flaregate.dedyn.io/api/v1/sub/bLZORrl-AMw9jVlR_Ybt2Q
+
+vless://d7508796-8d35-47ac-b7de-2a115a9bc921@localhost:11036?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#%D0%90%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%20%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD
+vless://e6437191-5ed9-489a-b486-f40a98eed988@localhost:12149?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision#%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D1%82%D0%B5%D1%81%D1%8C%20%D0%B2%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D1%83
