@@ -1,0 +1,19 @@
+#profile-title: Decoded • crypt5
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://flaregate.dedyn.io/api/v1/sub/Y6Lerjob3lgMGnwb1V_viw
+
+vless://ee78c844-83b6-4508-b1f9-b3f00c8e0556@87.120.104.46:8443?type=xhttp&security=reality&sni=twitch.tv&pbk=qlE96V8EuBoDsWz4DaeGYx5XEUbOcs-o0aK-Z9U4cC8&sid=fd0ccc8b9788b8aa&fp=chrome#proxy
+vless://2bb5176f-cc45-41b5-908c-441581dccf8a@2.59.163.133:8443?type=tcp&security=reality&sni=ads.x5.ru&pbk=FS94iBvy7Vx93IMVFkMmFgyHRD8YZ7hmj1yv7vpWwBQ&sid=e9c407d1&fp=chrome&flow=xtls-rprx-vision#proxy
+vless://1d7427ab-8a5d-4317-9335-2e48d50be4fc@2.26.139.69:443?type=tcp&security=reality&sni=cdn.tbank.ru&pbk=HmnsKa6Mmm34gALomXBKB7d8UMIM33hhItp2z43VCkQ&sid=a1d8f3b6c2e59407&fp=chrome&flow=xtls-rprx-vision#proxy
+vless://b4128b2c-74b8-4c90-bc64-4e9399d70a00@188.225.78.43:464?type=tcp&security=reality&sni=ama-tur.ip-tv24.ru&pbk=TB0Ei5kg74uuPGmCuZldUUY_XMfbP7FR2d8DIpkJoVY&fp=chrome&flow=xtls-rprx-vision#proxy
+vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@195.123.210.119:8443?type=tcp&security=reality&sni=twitch.tv&pbk=4Q94EQl7s-2M2PP16I45fB8ltPTyuRS_JGmzf8PqgDo&sid=0a73036cece6a890&fp=chrome&flow=xtls-rprx-vision#proxy
+vless://e103bb56-7b35-48a0-8883-b4b2f2e6f82f@200.165.237.15:44303?type=tcp&security=reality&sni=dropbox.ignorelist.com&pbk=0IRndXkFt4G2_RrNZth51dyQ92TqfgGGfiIZSAV6mB4&sid=7128a6c2a6d663cd&fp=chrome&flow=xtls-rprx-vision#proxy
+vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@147.45.51.171:8443?type=tcp&security=reality&sni=twitch.tv&pbk=dPa581kev2x9-st7VQ-DTh3NjXlHJ2830YDySuI8n2U&sid=e723d26df67888b9&fp=chrome&flow=xtls-rprx-vision#proxy
+vless://4b1be712-774c-4b65-8491-a3339e124a70@194.36.36.152:443?type=tcp&security=reality&sni=am1.pc-nodalys.top&pbk=v36yrZJ-5Zikx9eh_SXaoDS2GuobOA4_WLagBVO0vxk&sid=a9c3f7e2&fp=chrome&flow=xtls-rprx-vision#proxy
+vless://821249fc-d4e8-4e4f-895f-53bd0f1227c8@201.24.126.254:8445?type=tcp&security=reality&sni=eh.vk.ru&pbk=NsasJClRAw_9nAF0zmMMg1iDElr840ZJOShdiRuO_hU&sid=8f3a1c9d2e7b4f60&fp=chrome&flow=xtls-rprx-vision#proxy
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@213.176.17.28:8443?type=ws&security=tls&path=%2FFIN1&host=fin.pad-service.com&sni=fin.pad-sservice.lat&fp=chrome#proxy
+vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.30:443?type=tcp&security=reality&sni=c8.qwyak.ru&pbk=3pBHfffYFRPpe8Lt47cLSSgCgwNR-70blFzpEbm11AE&sid=b2baf331493d3de1&fp=chrome&flow=xtls-rprx-vision#proxy
+vless://25266051-50d2-480e-8f52-8e3848f3af1a@18.245.64.2:443?type=xhttp&security=tls&sni=d2ulocwoynrsm3.cloudfront.net&fp=chrome&alpn=h3#proxy
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@89.58.20.210:8443?type=ws&security=tls&path=%2FA11U&host=au2.pad-service.com&sni=au2.pad-sservice.lat&fp=chrome#proxy
+vless://abca037b-bee5-41cc-a888-0668e4c66176@85.121.176.86:443?type=xhttp&security=tls&sni=1505137c.con.metricdraft.tech&fp=chrome&alpn=h2#proxy
