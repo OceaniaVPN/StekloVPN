@@ -1,0 +1,14 @@
+#profile-title: Decoded • oceaniavpn.dimastekolnikov13.workers.dev
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://oceaniavpn.dimastekolnikov13.workers.dev/sub?u=5512307834&f=decoded_5512307834_mvp6ip8d.txt&p=windows&scope=decode
+
+vless://0af34045-3d5e-4abe-bc8a-16e356daa214@de.vmagnum.win:443?type=xhttp&security=tls&sni=api-v3-0af34045.vmagnum.win&fp=firefox#proxy
+vless://0af34045-3d5e-4abe-bc8a-16e356daa214@50.7.28.211:443?type=xhttp&security=tls&sni=api-v3-0af34045.vmagnum.win&fp=firefox#proxy
+vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv2.himoy.space:443?type=tcp&security=reality&sni=lv2.himoy.space&pbk=AoPku9i0xSD2cCzJdPcUSSft8c_RkIZbsbP888VO938&sid=287b3d62899669d7&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?type=grpc&security=reality&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&fp=chrome#proxy
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@62.182.192.195:443?type=ws&security=tls&path=%2Ffdip&host=snip.edgeoneai.cc.cd&sni=snip.edgeoneai.cc.cd&fp=chrome#proxy
+vless://2b9fc113-db27-4635-86d8-fa4556a5b7ba@nl.cachevault.net:443?type=xhttp&security=reality&sni=nl.cachevault.net&pbk=XTX6Yvtj5B4HENQbNCS0MH3jDqq5vj5gWlg2nilTviE&sid=8ba02790a1480848&fp=ios#proxy
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?type=tcp&security=reality&sni=mother-earth.fyi&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&flow=xtls-rprx-vision#proxy
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?type=grpc&security=reality&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&sid=ed0cd5cc2e26e6e7&fp=chrome#proxy
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?type=tcp&security=reality&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000&fp=chrome&flow=xtls-rprx-vision#proxy
