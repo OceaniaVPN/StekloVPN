@@ -1,0 +1,11 @@
+#profile-title: Decoded • crypt5
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+#profile-web-page-url: https://flaregate.dedyn.io/api/v1/sub/Y6Lerjob3lgMGnwb1V_viw
+
+vless://1d7427ab-8a5d-4317-9335-2e48d50be4fc@2.26.139.69:443?type=tcp&security=reality&sni=cdn.tbank.ru&pbk=HmnsKa6Mmm34gALomXBKB7d8UMIM33hhItp2z43VCkQ&sid=a1d8f3b6c2e59407&fp=chrome&flow=xtls-rprx-vision#proxy
+vless://b4128b2c-74b8-4c90-bc64-4e9399d70a00@188.225.78.43:464?type=tcp&security=reality&sni=ama-tur.ip-tv24.ru&pbk=TB0Ei5kg74uuPGmCuZldUUY_XMfbP7FR2d8DIpkJoVY&fp=chrome&flow=xtls-rprx-vision#proxy
+vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@195.123.210.119:8443?type=tcp&security=reality&sni=twitch.tv&pbk=4Q94EQl7s-2M2PP16I45fB8ltPTyuRS_JGmzf8PqgDo&sid=0a73036cece6a890&fp=chrome&flow=xtls-rprx-vision#proxy
+vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@147.45.51.171:8443?type=tcp&security=reality&sni=twitch.tv&pbk=dPa581kev2x9-st7VQ-DTh3NjXlHJ2830YDySuI8n2U&sid=e723d26df67888b9&fp=chrome&flow=xtls-rprx-vision#proxy
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.70:443?type=tcp&security=reality&sni=fuji.etherhub.cc&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&sid=bd6f67b6b2152b45&fp=chrome&flow=xtls-rprx-vision#proxy
+vless://4b1be712-774c-4b65-8491-a3339e124a70@78.135.73.168:443?type=tcp&security=reality&sni=tr2.tv-quoralyx.top&pbk=w0yEuw7sPMCEwk9_vDVoqjBhJsGoPvR7TsxIZVJy3iw&sid=f4b2a12c&fp=chrome&flow=xtls-rprx-vision#proxy
