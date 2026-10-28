@@ -1,0 +1,7 @@
+#profile-title: Лучший Впн
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=4903583604
+#profile-web-page-url: Поддержите звёздами @NapoleGore
+#announce: Впн от Mr.White
+#x-expire-days-total: 36000
+#x-expire-ts: 4903583604
