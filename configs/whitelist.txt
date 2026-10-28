@@ -133,5 +133,3 @@ vless://aa0faee3-a4f1-4073-a1ec-a108c948adc5@vpn1.aantoshin.ru:2087?security=rea
 vless://aa0faee3-a4f1-4073-a1ec-a108c948adc5@vpn1.aantoshin.ru:2087?security=reality&sni=api.vk.com&pbk=REEIQ_PfKFRYuhTX1Ex-JxfTJhwCryeGlCszQOG7Mmc&sid=8ed34d466d05d404&spx=%2Fd5c6c1fd662e5fb&type=tcp&flow=xtls-rprx-vision&encryption=none&fp=ios#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20api.vk.com
 hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443/?insecure=1&sni=vk.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20vk.com
 hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160/?insecure=1&sni=vk.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20vk.com
-# Date/Time: 2026-10-28 / 19:03 (Moscow)
-# Количество: 2
