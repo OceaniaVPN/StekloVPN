@@ -1,3 +1,5 @@
 #profile-title: Phantom Plus
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
+
+vless://84bc685a-c9a4-4078-8b03-a27d4bf8a207@78.31.67.80:8511?encryption=none&security=reality&sni=download-installer.cdn.mozilla.net&fp=firefox&pbk=RxNrf_t5iLvdz0zMLxdf3NRfiizKf2dEmvCznwJXxW0&sid=6911a8026c8fb3ae&type=xhttp&mode=packet-up&path=%2Falterra-t2#%F0%9F%87%B8%F0%9F%87%AA%20%E2%9C%A8%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
