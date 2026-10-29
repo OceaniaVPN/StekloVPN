@@ -1,0 +1,7 @@
+#profile-title: AMA VPN
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1795873294
+#profile-web-page-url: @amastxa
+#announce: @amavpnrobot
+#x-expire-days-total: 30
+#x-expire-ts: 1795873294
