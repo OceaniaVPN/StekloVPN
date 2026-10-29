@@ -3,3 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 #profile-web-page-url: @DarkAngel4ikk
 #announce: Phantom premium service
+
+ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9Italy
