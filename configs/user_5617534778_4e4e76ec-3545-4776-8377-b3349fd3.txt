@@ -3,3 +3,4 @@
 #subscription-userinfo: upload=0; download=0; total=536870912000; expire=0
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443?sni=www.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20OT@Hy2UDP%20(WIFI/LTE%20(7)
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?sni=www.searchnationwidecareerchangehelperandguidancetoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20OT@Hy2UDP%20(WIFI/LTE%20(4)
