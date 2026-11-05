@@ -1,0 +1,8 @@
+#profile-title: AgeresVPN_WL
+#profile-update-interval: 2
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1824997567
+#profile-web-page-url: Поддержка в лс @zebdu
+#announce: Подпишись на
+https://t.me/+EhdMK2nqhsY0ZTNi
+#x-expire-days-total: 360
+#x-expire-ts: 1824997567
