@@ -1,0 +1,6 @@
+#profile-title: Krevetka free 🦐
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1794857790
+#announce: Бесплатная креветка на 7 дней
+#x-expire-days-total: 7
+#x-expire-ts: 1794857790
