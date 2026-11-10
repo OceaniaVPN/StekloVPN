@@ -5,6 +5,5 @@
 #x-expire-days-total: 5
 #x-expire-ts: 1794751639
 
-vless://36f42723-705b-4097-adeb-868f9774cc53@64.188.81.194:25805?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ss-se.24velocityvpn.online&fp=qq&pbk=HXCemASg57D6XSziDGg0r_hx5tERcfl7Gz3jLB5HRko&sid=b03757ddb531e036#Sweden
-vless://36f42723-705b-4097-adeb-868f9774cc53@31.59.218.173:25805?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ss-ee.24velocityvpn.online&fp=qq&pbk=RFhtBKa89vP3BqKi3da_30NtAB-lv7CVm6wYBNCHNWQ&sid=9ad0586dda6ac42c#Estonia
-vless://36f42723-705b-4097-adeb-868f9774cc53@31.59.216.155:25805?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ss-de.24velocityvpn.online&fp=qq&pbk=u9RdTxD9syELnKqcjgzVI2rC85F2RT8AUOui6kNuogs&sid=02ae4593eb8830d0#Germany
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B5%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D0%B5%D1%82%D1%81%D1%8F
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5%20Happ%2C%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%B2%20%D0%B1%D0%BE%D1%82%D0%B5%20%40velocityconnect_bot
