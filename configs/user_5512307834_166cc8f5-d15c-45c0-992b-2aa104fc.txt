@@ -1,0 +1,6 @@
+#profile-title: Velocity VPN HACK @free_vpn123456
+#profile-update-interval: 5
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1794751639
+#announce: Взлом оформлен каналом  @free_vpn123456 💻
+#x-expire-days-total: 5
+#x-expire-ts: 1794751639
