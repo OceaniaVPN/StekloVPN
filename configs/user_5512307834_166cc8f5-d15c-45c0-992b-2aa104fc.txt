@@ -4,18 +4,3 @@
 #announce: Взлом оформлен каналом  @free_vpn123456 💻
 #x-expire-days-total: 5
 #x-expire-ts: 1794751639
-
-vless://36f42723-705b-4097-adeb-868f9774cc53@pctechbuysell.sbs:443?type=tcp&security=reality&sni=pctechbuysell.sbs&pbk=G6sLnszWZzPx7EqsRVvqUD3rv3IcRrJWUABZgdUEEkY&sid=a79ac1efbab5bfac&fp=chrome&flow=xtls-rprx-vision#node
-vless://36f42723-705b-4097-adeb-868f9774cc53@shop.pctechbuysell.sbs:443?type=tcp&security=reality&sni=shop.pctechbuysell.sbs&pbk=jLL0lgP7fz1Mq98ho85esHmHRnADNeuZ2mZYGpK6uWA&sid=bad1c13534e40405&fp=chrome&flow=xtls-rprx-vision#node-2
-vless://36f42723-705b-4097-adeb-868f9774cc53@biexchange.sbs:443?type=tcp&security=reality&sni=biexchange.sbs&pbk=HXCemASg57D6XSziDGg0r_hx5tERcfl7Gz3jLB5HRko&sid=b03757ddb531e036&fp=chrome&flow=xtls-rprx-vision#node-3
-vless://36f42723-705b-4097-adeb-868f9774cc53@trade.biexchange.sbs:443?type=tcp&security=reality&sni=trade.biexchange.sbs&pbk=RFhtBKa89vP3BqKi3da_30NtAB-lv7CVm6wYBNCHNWQ&sid=9ad0586dda6ac42c&fp=chrome&flow=xtls-rprx-vision#node-4
-vless://36f42723-705b-4097-adeb-868f9774cc53@deals.pctechbuysell.sbs:443?type=tcp&security=reality&sni=deals.pctechbuysell.sbs&pbk=u9RdTxD9syELnKqcjgzVI2rC85F2RT8AUOui6kNuogs&sid=02ae4593eb8830d0&fp=chrome&flow=xtls-rprx-vision#node-5
-vless://36f42723-705b-4097-adeb-868f9774cc53@www.biexchange.sbs:443?type=xhttp&security=reality&sni=www.biexchange.sbs&pbk=HXCemASg57D6XSziDGg0r_hx5tERcfl7Gz3jLB5HRko&sid=015b58fef807f798&fp=chrome#node-2
-vless://36f42723-705b-4097-adeb-868f9774cc53@www.pctechbuysell.sbs:443?type=xhttp&security=reality&sni=www.pctechbuysell.sbs&pbk=G6sLnszWZzPx7EqsRVvqUD3rv3IcRrJWUABZgdUEEkY&sid=0c02a19d26818e45&fp=chrome#node-2
-vless://36f42723-705b-4097-adeb-868f9774cc53@market.pctechbuysell.sbs:443?type=xhttp&security=reality&sni=market.pctechbuysell.sbs&pbk=jLL0lgP7fz1Mq98ho85esHmHRnADNeuZ2mZYGpK6uWA&sid=2c8dd3ed586697d2&fp=chrome#node-2
-vless://36f42723-705b-4097-adeb-868f9774cc53@portal.biexchange.sbs:443?type=xhttp&security=reality&sni=portal.biexchange.sbs&pbk=RFhtBKa89vP3BqKi3da_30NtAB-lv7CVm6wYBNCHNWQ&sid=b64e464db99ba3e7&fp=chrome#node-2
-vless://36f42723-705b-4097-adeb-868f9774cc53@catalog.pctechbuysell.sbs:443?type=xhttp&security=reality&sni=catalog.pctechbuysell.sbs&pbk=u9RdTxD9syELnKqcjgzVI2rC85F2RT8AUOui6kNuogs&sid=8aa36e7707dbda93&fp=chrome#node-2
-vless://36f42723-705b-4097-adeb-868f9774cc53@deals.pctechbuysell.sbs:443?type=tcp&security=reality&sni=deals.pctechbuysell.sbs&pbk=u9RdTxD9syELnKqcjgzVI2rC85F2RT8AUOui6kNuogs&sid=02ae4593eb8830d0&fp=firefox&flow=xtls-rprx-vision#proxy
-vless://36f42723-705b-4097-adeb-868f9774cc53@deals.pctechbuysell.sbs:443?type=tcp&security=reality&sni=deals.pctechbuysell.sbs&pbk=u9RdTxD9syELnKqcjgzVI2rC85F2RT8AUOui6kNuogs&sid=02ae4593eb8830d0&fp=edge&flow=xtls-rprx-vision#proxy
-vless://36f42723-705b-4097-adeb-868f9774cc53@95.85.240.158:25805?type=tcp&security=reality&sni=www.aviasales.com&pbk=m5zhHJqlRXZ9QpL1x5W1KUZ-ovepKaGNMC8Z6ALUX14&sid=5d9d9f0d95686981&fp=chrome&flow=xtls-rprx-vision#proxy
-vless://36f42723-705b-4097-adeb-868f9774cc53@95.85.240.158:25807?type=xhttp&security=reality&sni=www.aviasales.com&pbk=RKYuCE_IeDyY_pC-Bvp0BDWy2tq1NzGalsUEjOWLj2E&sid=bc8f315a3e42eb9b&fp=chrome#proxy
