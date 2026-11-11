@@ -1,0 +1,6 @@
+#profile-title: My Subscription
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1796970457
+#announce: Free
+#x-expire-days-total: 30
+#x-expire-ts: 1796970457
