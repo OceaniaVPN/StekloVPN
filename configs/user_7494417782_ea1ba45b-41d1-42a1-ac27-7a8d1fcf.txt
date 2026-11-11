@@ -1,0 +1,6 @@
+#profile-title: AniyskiyVPN
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1970161077
+#announce: VPN только для андийцев
+#x-expire-days-total: 2034
+#x-expire-ts: 1970161077
