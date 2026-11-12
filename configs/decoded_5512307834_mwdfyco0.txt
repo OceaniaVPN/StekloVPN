@@ -1,0 +1,858 @@
+[
+  {
+    "dns": {
+      "hosts": {
+        "freedns.controld.com": "76.76.2.0",
+        "anycast.uncensoreddns.org": "91.239.100.100"
+      },
+      "servers": [
+        "https://anycast.uncensoreddns.org/dns-query",
+        "https://freedns.controld.com/p0"
+      ],
+      "queryStrategy": "UseIP"
+    },
+    "log": {
+      "loglevel": "warning"
+    },
+    "remarks": "\uD83C\uDDFA\uD83C\uDDF3 \u0410\u0432\u0442\u043E-\u0432\u044B\u0431\u043E\u0440 \u0438 \u0420\u043E\u0443\u0442\u0438\u043D\u0433",
+    "routing": {
+      "rules": [
+        {
+          "ip": [
+            "10.0.0.0/8",
+            "172.16.0.0/12",
+            "192.168.0.0/16",
+            "127.0.0.0/8",
+            "169.254.0.0/16",
+            "fc00::/7",
+            "fe80::/10",
+            "::1/128"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "protocol": [
+            "bittorrent"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "domain": [
+            "regexp:\\.(ru|su|xn--p1ai)$"
+          ],
+          "outboundTag": "proxy-d7020bb148e042d485149b79ebcad910"
+        },
+        {
+          "network": "tcp,udp",
+          "balancerTag": "location-pool"
+        }
+      ],
+      "balancers": [
+        {
+          "tag": "location-pool",
+          "selector": [
+            "proxy-4a3f464035604c9ca0ce3c9799c6a784",
+            "proxy-31cbe6d7412d481795cba067460acc54",
+            "proxy-78087bfa776d4720ac5fcaf2be0b5e7d",
+            "proxy-1facb876e5294b869a9658223c260afe",
+            "proxy-9bbcc61b11284355b326de57f02aecd6"
+          ],
+          "strategy": {
+            "type": "leastLoad",
+            "settings": {
+              "expected": 1
+            }
+          },
+          "fallbackTag": "proxy-4a3f464035604c9ca0ce3c9799c6a784"
+        }
+      ],
+      "domainStrategy": "AsIs"
+    },
+    "inbounds": [
+      {
+        "tag": "socks-in",
+        "port": 10806,
+        "listen": "127.0.0.1",
+        "protocol": "socks",
+        "settings": {
+          "udp": true,
+          "auth": "noauth"
+        },
+        "sniffing": {
+          "enabled": true,
+          "routeOnly": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "mux": {
+          "enabled": false
+        },
+        "tag": "proxy-4a3f464035604c9ca0ce3c9799c6a784",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "nl2.vip-get.ru",
+              "port": 443,
+              "users": [
+                {
+                  "id": "f1c3915d-7be6-4449-976e-bd48742eeec1",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "sockopt": {},
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "serverName": "nl2.vip-get.ru",
+            "fingerprint": "random"
+          },
+          "xhttpSettings": {
+            "path": "/edge/stream",
+            "mode": "auto",
+            "host": "nl2.vip-get.ru"
+          }
+        }
+      },
+      {
+        "mux": {
+          "enabled": false
+        },
+        "tag": "proxy-78087bfa776d4720ac5fcaf2be0b5e7d",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "153.56.228.154",
+              "port": 443,
+              "users": [
+                {
+                  "id": "f1c3915d-7be6-4449-976e-bd48742eeec1",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "sockopt": {},
+          "tlsSettings": {
+            "serverName": "de.cultcorp.net",
+            "fingerprint": "random"
+          },
+          "xhttpSettings": {
+            "mode": "auto",
+            "path": "/api/v4/assets/nVwx8JaRlrk8PLpTSi9rhA2dOYLWQ4TVKbqrDyFGPU8/",
+            "extra": {
+              "xPaddingObfsMode": true,
+              "xPaddingPlacement": "cookie",
+              "xPaddingKey": "session",
+              "xPaddingMethod": "tokenish",
+              "xPaddingBytes": "100-1000"
+            },
+            "host": "153.56.228.154"
+          }
+        }
+      },
+      {
+        "mux": {
+          "enabled": false
+        },
+        "tag": "proxy-1facb876e5294b869a9658223c260afe",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "fr.vip-get.ru",
+              "port": 8443,
+              "users": [
+                {
+                  "id": "f1c3915d-7be6-4449-976e-bd48742eeec1",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "ws",
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "fr.vip-get.ru"
+          },
+          "wsSettings": {
+            "path": "/api/download"
+          }
+        }
+      },
+      {
+        "mux": {
+          "enabled": false
+        },
+        "tag": "proxy-9bbcc61b11284355b326de57f02aecd6",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "179.253.81.242",
+              "port": 443,
+              "users": [
+                {
+                  "id": "f1c3915d-7be6-4449-976e-bd48742eeec1",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "sockopt": {},
+          "tlsSettings": {
+            "serverName": "ee.cultcorp.net",
+            "fingerprint": "random"
+          },
+          "xhttpSettings": {
+            "path": "/edge/stream",
+            "mode": "auto",
+            "host": "179.253.81.242"
+          }
+        }
+      },
+      {
+        "mux": {
+          "enabled": false
+        },
+        "tag": "proxy-d7020bb148e042d485149b79ebcad910",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "45.91.53.7",
+              "port": 443,
+              "users": [
+                {
+                  "id": "f1c3915d-7be6-4449-976e-bd48742eeec1",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "sockopt": {},
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "serverName": "layeriq.ru",
+            "fingerprint": "firefox"
+          },
+          "xhttpSettings": {
+            "mode": "auto",
+            "path": "/api/v4/assets/510f43f4aec5c08be74dbbcb3c964a8bd64815750bdb59ed/",
+            "host": "layeriq.ru"
+          }
+        }
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ],
+    "observatory": {
+      "probeURL": "https://www.gstatic.com/generate_204",
+      "probeInterval": "10s",
+      "subjectSelector": [
+        "proxy-"
+      ]
+    }
+  },
+  {
+    "dns": {
+      "hosts": {
+        "freedns.controld.com": "76.76.2.0",
+        "anycast.uncensoreddns.org": "91.239.100.100"
+      },
+      "servers": [
+        "https://anycast.uncensoreddns.org/dns-query",
+        "https://freedns.controld.com/p0"
+      ],
+      "queryStrategy": "UseIP"
+    },
+    "log": {
+      "loglevel": "warning"
+    },
+    "remarks": "\uD83C\uDDF3\uD83C\uDDF1 \u041D\u0438\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u044B, \u0410\u043C\u0441\u0442\u0435\u0440\u0434\u0430\u043C",
+    "routing": {
+      "rules": [
+        {
+          "ip": [
+            "10.0.0.0/8",
+            "172.16.0.0/12",
+            "192.168.0.0/16",
+            "127.0.0.0/8",
+            "169.254.0.0/16",
+            "fc00::/7",
+            "fe80::/10",
+            "::1/128"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "protocol": [
+            "bittorrent"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "network": "tcp,udp",
+          "outboundTag": "proxy"
+        }
+      ],
+      "domainStrategy": "AsIs"
+    },
+    "inbounds": [
+      {
+        "tag": "socks-in",
+        "port": 10808,
+        "listen": "127.0.0.1",
+        "protocol": "socks",
+        "settings": {
+          "udp": true,
+          "auth": "noauth"
+        },
+        "sniffing": {
+          "enabled": true,
+          "routeOnly": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "mux": {
+          "enabled": false
+        },
+        "tag": "proxy",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "nl2.vip-get.ru",
+              "port": 443,
+              "users": [
+                {
+                  "id": "f1c3915d-7be6-4449-976e-bd48742eeec1",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "sockopt": {},
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "serverName": "nl2.vip-get.ru",
+            "fingerprint": "random"
+          },
+          "xhttpSettings": {
+            "path": "/edge/stream",
+            "mode": "auto",
+            "host": "nl2.vip-get.ru"
+          }
+        }
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ]
+  },
+  {
+    "dns": {
+      "hosts": {
+        "freedns.controld.com": "76.76.2.0",
+        "anycast.uncensoreddns.org": "91.239.100.100"
+      },
+      "servers": [
+        "https://anycast.uncensoreddns.org/dns-query",
+        "https://freedns.controld.com/p0"
+      ],
+      "queryStrategy": "UseIP"
+    },
+    "log": {
+      "loglevel": "warning"
+    },
+    "remarks": "\uD83C\uDDE9\uD83C\uDDEA \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F, \u0424\u0440\u0430\u043D\u043A\u0444\u0443\u0440\u0442",
+    "routing": {
+      "rules": [
+        {
+          "ip": [
+            "10.0.0.0/8",
+            "172.16.0.0/12",
+            "192.168.0.0/16",
+            "127.0.0.0/8",
+            "169.254.0.0/16",
+            "fc00::/7",
+            "fe80::/10",
+            "::1/128"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "protocol": [
+            "bittorrent"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "network": "tcp,udp",
+          "outboundTag": "proxy"
+        }
+      ],
+      "domainStrategy": "AsIs"
+    },
+    "inbounds": [
+      {
+        "tag": "socks-in",
+        "port": 10808,
+        "listen": "127.0.0.1",
+        "protocol": "socks",
+        "settings": {
+          "udp": true,
+          "auth": "noauth"
+        },
+        "sniffing": {
+          "enabled": true,
+          "routeOnly": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "mux": {
+          "enabled": false
+        },
+        "tag": "proxy",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "153.56.228.154",
+              "port": 443,
+              "users": [
+                {
+                  "id": "f1c3915d-7be6-4449-976e-bd48742eeec1",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "sockopt": {},
+          "tlsSettings": {
+            "serverName": "de.cultcorp.net",
+            "fingerprint": "random"
+          },
+          "xhttpSettings": {
+            "mode": "auto",
+            "path": "/api/v4/assets/nVwx8JaRlrk8PLpTSi9rhA2dOYLWQ4TVKbqrDyFGPU8/",
+            "extra": {
+              "xPaddingObfsMode": true,
+              "xPaddingPlacement": "cookie",
+              "xPaddingKey": "session",
+              "xPaddingMethod": "tokenish",
+              "xPaddingBytes": "100-1000"
+            },
+            "host": "153.56.228.154"
+          }
+        }
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ]
+  },
+  {
+    "dns": {
+      "hosts": {
+        "freedns.controld.com": "76.76.2.0",
+        "anycast.uncensoreddns.org": "91.239.100.100"
+      },
+      "servers": [
+        "https://anycast.uncensoreddns.org/dns-query",
+        "https://freedns.controld.com/p0"
+      ],
+      "queryStrategy": "UseIP"
+    },
+    "log": {
+      "loglevel": "warning"
+    },
+    "remarks": "\uD83C\uDDEB\uD83C\uDDF7 \u0424\u0440\u0430\u043D\u0446\u0438\u044F, \u041F\u0430\u0440\u0438\u0436",
+    "routing": {
+      "rules": [
+        {
+          "ip": [
+            "10.0.0.0/8",
+            "172.16.0.0/12",
+            "192.168.0.0/16",
+            "127.0.0.0/8",
+            "169.254.0.0/16",
+            "fc00::/7",
+            "fe80::/10",
+            "::1/128"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "protocol": [
+            "bittorrent"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "network": "tcp,udp",
+          "outboundTag": "proxy"
+        }
+      ],
+      "domainStrategy": "AsIs"
+    },
+    "inbounds": [
+      {
+        "tag": "socks-in",
+        "port": 10808,
+        "listen": "127.0.0.1",
+        "protocol": "socks",
+        "settings": {
+          "udp": true,
+          "auth": "noauth"
+        },
+        "sniffing": {
+          "enabled": true,
+          "routeOnly": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "mux": {
+          "enabled": false
+        },
+        "tag": "proxy",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "fr.vip-get.ru",
+              "port": 8443,
+              "users": [
+                {
+                  "id": "f1c3915d-7be6-4449-976e-bd48742eeec1",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "ws",
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "fr.vip-get.ru"
+          },
+          "wsSettings": {
+            "path": "/api/download"
+          }
+        }
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ]
+  },
+  {
+    "dns": {
+      "hosts": {
+        "freedns.controld.com": "76.76.2.0",
+        "anycast.uncensoreddns.org": "91.239.100.100"
+      },
+      "servers": [
+        "https://anycast.uncensoreddns.org/dns-query",
+        "https://freedns.controld.com/p0"
+      ],
+      "queryStrategy": "UseIP"
+    },
+    "log": {
+      "loglevel": "warning"
+    },
+    "remarks": "\uD83C\uDDEA\uD83C\uDDEA \u042D\u0441\u0442\u043E\u043D\u0438\u044F, \u0422\u0430\u043B\u043B\u0438\u043D",
+    "routing": {
+      "rules": [
+        {
+          "ip": [
+            "10.0.0.0/8",
+            "172.16.0.0/12",
+            "192.168.0.0/16",
+            "127.0.0.0/8",
+            "169.254.0.0/16",
+            "fc00::/7",
+            "fe80::/10",
+            "::1/128"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "protocol": [
+            "bittorrent"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "network": "tcp,udp",
+          "outboundTag": "proxy"
+        }
+      ],
+      "domainStrategy": "AsIs"
+    },
+    "inbounds": [
+      {
+        "tag": "socks-in",
+        "port": 10808,
+        "listen": "127.0.0.1",
+        "protocol": "socks",
+        "settings": {
+          "udp": true,
+          "auth": "noauth"
+        },
+        "sniffing": {
+          "enabled": true,
+          "routeOnly": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "mux": {
+          "enabled": false
+        },
+        "tag": "proxy",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "179.253.81.242",
+              "port": 443,
+              "users": [
+                {
+                  "id": "f1c3915d-7be6-4449-976e-bd48742eeec1",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "sockopt": {},
+          "tlsSettings": {
+            "serverName": "ee.cultcorp.net",
+            "fingerprint": "random"
+          },
+          "xhttpSettings": {
+            "path": "/edge/stream",
+            "mode": "auto",
+            "host": "179.253.81.242"
+          }
+        }
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ]
+  },
+  {
+    "dns": {
+      "hosts": {
+        "freedns.controld.com": "76.76.2.0",
+        "anycast.uncensoreddns.org": "91.239.100.100"
+      },
+      "servers": [
+        "https://anycast.uncensoreddns.org/dns-query",
+        "https://freedns.controld.com/p0"
+      ],
+      "queryStrategy": "UseIP"
+    },
+    "log": {
+      "loglevel": "warning"
+    },
+    "remarks": "\uD83C\uDDF7\uD83C\uDDFA \u0420\u043E\u0441\u0441\u0438\u044F, \u041C\u043E\u0441\u043A\u0432\u0430",
+    "routing": {
+      "rules": [
+        {
+          "ip": [
+            "10.0.0.0/8",
+            "172.16.0.0/12",
+            "192.168.0.0/16",
+            "127.0.0.0/8",
+            "169.254.0.0/16",
+            "fc00::/7",
+            "fe80::/10",
+            "::1/128"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "protocol": [
+            "bittorrent"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "network": "tcp,udp",
+          "outboundTag": "proxy"
+        }
+      ],
+      "domainStrategy": "AsIs"
+    },
+    "inbounds": [
+      {
+        "tag": "socks-in",
+        "port": 10808,
+        "listen": "127.0.0.1",
+        "protocol": "socks",
+        "settings": {
+          "udp": true,
+          "auth": "noauth"
+        },
+        "sniffing": {
+          "enabled": true,
+          "routeOnly": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        }
+      }
+    ],
+    "outbounds": [
+      {
+        "mux": {
+          "enabled": false
+        },
+        "tag": "proxy",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "45.91.53.7",
+              "port": 443,
+              "users": [
+                {
+                  "id": "f1c3915d-7be6-4449-976e-bd48742eeec1",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "sockopt": {},
+          "tlsSettings": {
+            "alpn": [
+              "h3"
+            ],
+            "serverName": "layeriq.ru",
+            "fingerprint": "firefox"
+          },
+          "xhttpSettings": {
+            "mode": "auto",
+            "path": "/api/v4/assets/510f43f4aec5c08be74dbbcb3c964a8bd64815750bdb59ed/",
+            "host": "layeriq.ru"
+          }
+        }
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom"
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole"
+      }
+    ]
+  }
+]
