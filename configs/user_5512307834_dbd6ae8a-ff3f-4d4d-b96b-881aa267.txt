@@ -4,3 +4,10 @@
 #announce: Hack by @free_vpn123456
 #x-expire-days-total: 5
 #x-expire-ts: 1794913603
+
+vless://f1c3915d-7be6-4449-976e-bd48742eeec1@nl2.vip-get.ru:443?type=xhttp&security=tls&sni=nl2.vip-get.ru&fp=random&alpn=h3#proxy-4a3f464035604c9ca0ce3c9799c6a784
+vless://f1c3915d-7be6-4449-976e-bd48742eeec1@153.56.228.154:443?type=xhttp&security=tls&sni=de.cultcorp.net&fp=random#proxy-78087bfa776d4720ac5fcaf2be0b5e7d
+vless://f1c3915d-7be6-4449-976e-bd48742eeec1@fr.vip-get.ru:8443?type=ws&security=tls&path=%2Fapi%2Fdownload&sni=fr.vip-get.ru#proxy-1facb876e5294b869a9658223c260afe
+vless://f1c3915d-7be6-4449-976e-bd48742eeec1@179.253.81.242:443?type=xhttp&security=tls&sni=ee.cultcorp.net&fp=random#proxy-9bbcc61b11284355b326de57f02aecd6
+vless://f1c3915d-7be6-4449-976e-bd48742eeec1@45.91.53.7:443?type=xhttp&security=tls&sni=layeriq.ru&fp=firefox&alpn=h3#proxy-d7020bb148e042d485149b79ebcad910
+vless://f1c3915d-7be6-4449-976e-bd48742eeec1@ycdn.layeriq.ru:443?type=xhttp&security=tls&sni=ycdn.layeriq.ru&fp=random#proxy
