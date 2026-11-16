@@ -17,3 +17,4 @@ vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@178.176.128.128:443?security=tls&sn
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@129.101.98.60:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&security=reality&sid=3992cc7fb9fcbe58&sni=ru7e2bab87cc39.eu-cdn539.com&type=tcp#🇷🇺
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@ru7e2bab87cc39.eu-cdn539.com:443?encryption=none&type=tcp&security=reality&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&sid=3992cc7fb9fcbe58&fp=chrome&flow=xtls-rprx-vision#RU%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%40Raydikalx%20%7C%2031E82D%20-%20...
 vless://2e69b088-6ef3-417f-8247-125cf257fafd@3.174.189.0:443?security=tls&sni=d3rpprumpbwwt5.cloudfront.net&type=xhttp&host=d3rpprumpbwwt5.cloudfront.net&path=%2Fcf&fp=chrome#🔒
+vless://2e69b088-6ef3-417f-8247-125cf257fafd@3.174.189.0:443?security=tls&sni=d3bufpfi7s84bl.cloudfront.net&type=xhttp&host=d3bufpfi7s84bl.cloudfront.net&path=%2Fcf&fp=chrome#🔒
