@@ -1,0 +1,7 @@
+#profile-title: 🟪AgeresVPN whitelist 🟪
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1838002721
+#profile-web-page-url: Поддержка в канале https://t.me/+EhdMK2nqhsY0ZTNi
+#announce: ✨ Бесплатный VPN, подпишись https://t.me/+EhdMK2nqhsY0ZTNi
+#x-expire-days-total: 500
+#x-expire-ts: 1838002721
