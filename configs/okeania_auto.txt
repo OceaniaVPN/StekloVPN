@@ -8,7 +8,7 @@
       "rules": [
         {"type": "field", "protocol": ["quic"], "outboundTag": "block"},
         {"type": "field", "protocol": ["bittorrent"], "outboundTag": "block"},
-        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$", "geosite:category-ru"], "outboundTag": "direct"},
+        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$"], "outboundTag": "direct"},
         {"type": "field", "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct"},
         {"type": "field", "network": "tcp,udp", "outboundTag": "proxy-0"}
       ],
@@ -48,7 +48,7 @@
       "rules": [
         {"type": "field", "protocol": ["quic"], "outboundTag": "block"},
         {"type": "field", "protocol": ["bittorrent"], "outboundTag": "block"},
-        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$", "geosite:category-ru"], "outboundTag": "direct"},
+        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$"], "outboundTag": "direct"},
         {"type": "field", "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct"},
         {"type": "field", "network": "tcp,udp", "outboundTag": "proxy-1"}
       ],
@@ -88,7 +88,7 @@
       "rules": [
         {"type": "field", "protocol": ["quic"], "outboundTag": "block"},
         {"type": "field", "protocol": ["bittorrent"], "outboundTag": "block"},
-        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$", "geosite:category-ru"], "outboundTag": "direct"},
+        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$"], "outboundTag": "direct"},
         {"type": "field", "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct"},
         {"type": "field", "network": "tcp,udp", "outboundTag": "proxy-2"}
       ],
@@ -140,7 +140,7 @@
       "rules": [
         {"type": "field", "protocol": ["quic"], "outboundTag": "block"},
         {"type": "field", "protocol": ["bittorrent"], "outboundTag": "block"},
-        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$", "geosite:category-ru"], "outboundTag": "direct"},
+        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$"], "outboundTag": "direct"},
         {"type": "field", "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct"},
         {"type": "field", "network": "tcp,udp", "outboundTag": "proxy-3"}
       ],
@@ -181,7 +181,7 @@
       "rules": [
         {"type": "field", "protocol": ["quic"], "outboundTag": "block"},
         {"type": "field", "protocol": ["bittorrent"], "outboundTag": "block"},
-        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$", "geosite:category-ru"], "outboundTag": "direct"},
+        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$"], "outboundTag": "direct"},
         {"type": "field", "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct"},
         {"type": "field", "network": "tcp,udp", "outboundTag": "proxy-4"}
       ],
@@ -221,7 +221,7 @@
       "rules": [
         {"type": "field", "protocol": ["quic"], "outboundTag": "block"},
         {"type": "field", "protocol": ["bittorrent"], "outboundTag": "block"},
-        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$", "geosite:category-ru"], "outboundTag": "direct"},
+        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$"], "outboundTag": "direct"},
         {"type": "field", "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct"},
         {"type": "field", "network": "tcp,udp", "outboundTag": "proxy-5"}
       ],
@@ -261,7 +261,7 @@
       "rules": [
         {"type": "field", "protocol": ["quic"], "outboundTag": "block"},
         {"type": "field", "protocol": ["bittorrent"], "outboundTag": "block"},
-        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$", "geosite:category-ru"], "outboundTag": "direct"},
+        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$"], "outboundTag": "direct"},
         {"type": "field", "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct"},
         {"type": "field", "network": "tcp,udp", "outboundTag": "proxy-6"}
       ],
@@ -301,7 +301,7 @@
       "rules": [
         {"type": "field", "protocol": ["quic"], "outboundTag": "block"},
         {"type": "field", "protocol": ["bittorrent"], "outboundTag": "block"},
-        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$", "geosite:category-ru"], "outboundTag": "direct"},
+        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$"], "outboundTag": "direct"},
         {"type": "field", "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct"},
         {"type": "field", "network": "tcp,udp", "outboundTag": "proxy-7"}
       ],
@@ -341,7 +341,7 @@
       "rules": [
         {"type": "field", "protocol": ["quic"], "outboundTag": "block"},
         {"type": "field", "protocol": ["bittorrent"], "outboundTag": "block"},
-        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$", "geosite:category-ru"], "outboundTag": "direct"},
+        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$"], "outboundTag": "direct"},
         {"type": "field", "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct"},
         {"type": "field", "network": "tcp,udp", "outboundTag": "proxy-8"}
       ],
@@ -381,7 +381,7 @@
       "rules": [
         {"type": "field", "protocol": ["quic"], "outboundTag": "block"},
         {"type": "field", "protocol": ["bittorrent"], "outboundTag": "block"},
-        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$", "geosite:category-ru"], "outboundTag": "direct"},
+        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$"], "outboundTag": "direct"},
         {"type": "field", "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct"},
         {"type": "field", "network": "tcp,udp", "outboundTag": "proxy-9"}
       ],
@@ -421,7 +421,7 @@
       "rules": [
         {"type": "field", "protocol": ["quic"], "outboundTag": "block"},
         {"type": "field", "protocol": ["bittorrent"], "outboundTag": "block"},
-        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$", "geosite:category-ru"], "outboundTag": "direct"},
+        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$"], "outboundTag": "direct"},
         {"type": "field", "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct"},
         {"type": "field", "network": "tcp,udp", "outboundTag": "proxy-10"}
       ],
@@ -471,7 +471,7 @@
       "rules": [
         {"type": "field", "protocol": ["quic"], "outboundTag": "block"},
         {"type": "field", "protocol": ["bittorrent"], "outboundTag": "block"},
-        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$", "geosite:category-ru"], "outboundTag": "direct"},
+        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$"], "outboundTag": "direct"},
         {"type": "field", "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct"},
         {"type": "field", "network": "tcp,udp", "outboundTag": "proxy-11"}
       ],
@@ -540,7 +540,7 @@
       "rules": [
         {"type": "field", "protocol": ["quic"], "outboundTag": "block"},
         {"type": "field", "protocol": ["bittorrent"], "outboundTag": "block"},
-        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$", "geosite:category-ru"], "outboundTag": "direct"},
+        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$"], "outboundTag": "direct"},
         {"type": "field", "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct"},
         {"type": "field", "network": "tcp,udp", "outboundTag": "proxy-12"}
       ],
@@ -584,7 +584,7 @@
       "rules": [
         {"type": "field", "protocol": ["quic"], "outboundTag": "block"},
         {"type": "field", "protocol": ["bittorrent"], "outboundTag": "block"},
-        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$", "geosite:category-ru"], "outboundTag": "direct"},
+        {"type": "field", "domain": ["regexp:\\.(ru|su|xn--p1ai)$"], "outboundTag": "direct"},
         {"type": "field", "ip": ["geoip:ru", "geoip:private"], "outboundTag": "direct"},
         {"type": "field", "network": "tcp,udp", "balancerTag": "Auto_Balancer"}
       ],
