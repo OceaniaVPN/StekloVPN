@@ -27,22 +27,13 @@
     <span class="pill">GitHub Pages · автоматическое обновление после публикации</span>
   </section>
   <section class="section">
-    <h2>Конфигурация для Happ</h2>
-    <p>Основной JSON-массив серверов. Скопируй адрес и добавь его в Happ через «+» → импорт по ссылке.</p>
+    <h2>Единая подписка Happ</h2>
+    <p>Одна ссылка: список серверов и параметры профиля передаются вместе. Это экспериментальный формат — после добавления проверь, что Happ принял и серверы, и название профиля.</p>
     <div class="actions">
-      <a class="btn primary" href="/configs/okeania_auto.txt">Открыть конфигурацию</a>
-      <button class="btn" id="copy-config" type="button">Скопировать URL конфигурации</button>
+      <a class="btn primary" href="/happ-subscription.txt">Открыть подписку</a>
+      <button class="btn" id="copy-sub" type="button">Скопировать одну ссылку</button>
     </div>
-    <div class="url" id="config-url">https://sub-steklo-plus.apruxdomain.lol/configs/okeania_auto.txt</div>
-  </section>
-  <section class="section">
-    <h2>Метаданные профиля</h2>
-    <p>Название, объявление, ссылка поддержки и адрес сайта. Это отдельный JSON-файл; сам Happ не объединяет его с конфигурацией автоматически.</p>
-    <div class="actions">
-      <a class="btn" href="/configs/metadata.json">Открыть metadata.json</a>
-      <button class="btn" id="copy-meta" type="button">Скопировать URL метаданных</button>
-    </div>
-    <div class="url">https://sub-steklo-plus.apruxdomain.lol/configs/metadata.json</div>
+    <div class="url">https://sub-steklo-plus.apruxdomain.lol/happ-subscription.txt</div>
   </section>
   <section class="section">
     <h2>Как добавить профиль</h2>
@@ -60,8 +51,7 @@
     try { await navigator.clipboard.writeText(text); const old=button.textContent; button.textContent='Скопировано ✓'; setTimeout(()=>button.textContent=old,1800); }
     catch { window.prompt('Скопируй ссылку:',text); }
   }
-  document.getElementById('copy-config').addEventListener('click',e=>copy(base+'/configs/okeania_auto.txt',e.currentTarget));
-  document.getElementById('copy-meta').addEventListener('click',e=>copy(base+'/configs/metadata.json',e.currentTarget));
+  document.getElementById('copy-sub').addEventListener('click',e=>copy(base+'/happ-subscription.txt',e.currentTarget));
 </script>
 </body>
 </html>
