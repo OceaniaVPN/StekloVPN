@@ -1,0 +1,71 @@
+name: Build Happ single-link subscription
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - test/github-pages-happ
+    paths:
+      - "configs/okeania_auto.txt"
+      - "configs/metadata.json"
+      - ".github/workflows/build-happ-subscription.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: test/github-pages-happ
+
+      - name: Build combined subscription
+        run: |
+          node <<'NODE'
+          const fs = require('node:fs');
+          const configs = JSON.parse(fs.readFileSync('configs/okeania_auto.txt', 'utf8'));
+          const metadata = JSON.parse(fs.readFileSync('configs/metadata.json', 'utf8'));
+
+          if (!Array.isArray(configs) || configs.length === 0) {
+            throw new Error('okeania_auto.txt must contain a non-empty JSON array');
+          }
+
+          const required = ['profile-title', 'announce', 'support-url', 'profile-web-page-url'];
+          for (const key of required) {
+            if (typeof metadata[key] !== 'string' || !metadata[key].trim()) {
+              throw new Error('Missing metadata field: ' + key);
+            }
+          }
+
+          const title = metadata['profile-title'];
+          if (title.length > 25) throw new Error('Happ profile-title must be 25 characters or fewer');
+
+          // Happ accepts body metadata directives before subscription entries.
+          // Keep the original Xray JSON array intact for this compatibility test.
+          const announce = metadata.announce.replace(/\\s+/g, ' ').trim();
+          const header = [
+            '#profile-title: ' + title,
+            '#announce: ' + announce,
+            '#support-url: ' + metadata['support-url'],
+            '#profile-web-page-url: ' + metadata['profile-web-page-url'],
+            ''
+          ].join('\\n');
+
+          fs.writeFileSync('happ-subscription.txt', header + JSON.stringify(configs, null, 2) + '\\n');
+          console.log('Built Happ subscription with ' + configs.length + ' Xray profiles');
+          NODE
+
+      - name: Commit generated subscription
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add happ-subscription.txt
+          if git diff --cached --quiet; then
+            echo "Subscription is already up to date"
+            exit 0
+          fi
+          git commit -m "Build Happ single-link subscription"
+          git push
