@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#07131f">
+  <meta name="description" content="Steklo VPN — конфигурации и параметры профиля.">
+  <title>Steklo VPN | PLUS</title>
+  <style>
+    :root{color-scheme:dark;--bg:#07131f;--panel:#102437;--line:#24445b;--text:#edf7ff;--muted:#9bb4c7;--cyan:#55d6e8;--blue:#5d9cff}
+    *{box-sizing:border-box}body{margin:0;min-height:100vh;background:radial-gradient(ellipse at 15% 0%,#123b50 0,transparent 42%),linear-gradient(160deg,#07131f,#091b2b 65%,#07131f);font:16px/1.55 system-ui,-apple-system,Segoe UI,sans-serif;color:var(--text);display:grid;place-items:center;padding:28px 16px}
+    main{width:min(760px,100%)}.brand{display:flex;align-items:center;gap:12px;margin-bottom:28px}.logo{width:48px;height:48px;border-radius:15px;background:linear-gradient(145deg,#5de0ec,#3976b8);display:grid;place-items:center;color:#052033;font-size:25px;font-weight:800;box-shadow:0 10px 35px #42cce533}.brand strong{display:block;font-size:18px;letter-spacing:.08em}.brand small{color:var(--muted)}
+    .hero{padding:34px 30px 28px;border:1px solid var(--line);border-radius:24px;background:linear-gradient(145deg,#112b40ee,#0b1c2cee);box-shadow:0 24px 70px #0005}.eyebrow{color:var(--cyan);font-size:12px;font-weight:800;letter-spacing:.16em;text-transform:uppercase}.hero h1{font-size:clamp(30px,6vw,46px);line-height:1.08;margin:12px 0}.hero p{color:var(--muted);max-width:590px;margin:0}
+    .section{margin-top:20px;padding:22px;border:1px solid var(--line);border-radius:18px;background:#0d2030d9}.section h2{font-size:18px;margin:0 0 6px}.section p{color:var(--muted);font-size:14px;margin:0 0 16px}.actions{display:grid;grid-template-columns:1fr 1fr;gap:12px}.btn{min-height:48px;border-radius:12px;padding:12px 15px;display:flex;align-items:center;justify-content:center;text-decoration:none;font-weight:700;border:1px solid var(--line);color:var(--text);background:#142f45;cursor:pointer}.btn.primary{background:linear-gradient(110deg,#56dbe8,#5598e8);border:0;color:#061927}.btn:hover{filter:brightness(1.08)}.url{margin-top:12px;padding:12px;border-radius:10px;background:#071522;color:#a9c6d9;font-size:12px;overflow-wrap:anywhere}
+    .steps{display:grid;gap:10px;margin-top:14px}.step{display:flex;gap:12px;color:var(--muted);font-size:14px}.num{flex:0 0 25px;height:25px;border-radius:8px;background:#1a4058;color:var(--cyan);display:grid;place-items:center;font-weight:800}
+    footer{text-align:center;color:#7592a8;font-size:12px;margin:24px 0 4px}.pill{display:inline-block;border:1px solid #2b5a70;border-radius:99px;padding:4px 10px;color:#9ceaf0;font-size:12px;margin-top:18px}
+    @media(max-width:540px){.hero{padding:26px 20px}.section{padding:18px}.actions{grid-template-columns:1fr}.brand{margin-bottom:20px}}
+  </style>
+</head>
+<body>
+<main>
+  <div class="brand"><div class="logo">S</div><div><strong>STEKLO VPN</strong><small>PLUS · CONFIGURATION HUB</small></div></div>
+  <section class="hero">
+    <div class="eyebrow">🌊 Secure connection · Steklo</div>
+    <h1>Steklo VPN<br>PLUS</h1>
+    <p>Файлы профиля и конфигурации в одном месте. Конфигурации публикуются отдельно от служебных метаданных, чтобы исходные Xray-настройки не повреждались.</p>
+    <span class="pill">GitHub Pages · автоматическое обновление после публикации</span>
+  </section>
+  <section class="section">
+    <h2>Конфигурация для Happ</h2>
+    <p>Основной JSON-массив серверов. Скопируй адрес и добавь его в Happ через «+» → импорт по ссылке.</p>
+    <div class="actions">
+      <a class="btn primary" href="/configs/okeania_auto.txt">Открыть конфигурацию</a>
+      <button class="btn" id="copy-config" type="button">Скопировать URL конфигурации</button>
+    </div>
+    <div class="url" id="config-url">https://sub-steklo-plus.apruxdomain.lol/configs/okeania_auto.txt</div>
+  </section>
+  <section class="section">
+    <h2>Метаданные профиля</h2>
+    <p>Название, объявление, ссылка поддержки и адрес сайта. Это отдельный JSON-файл; сам Happ не объединяет его с конфигурацией автоматически.</p>
+    <div class="actions">
+      <a class="btn" href="/configs/metadata.json">Открыть metadata.json</a>
+      <button class="btn" id="copy-meta" type="button">Скопировать URL метаданных</button>
+    </div>
+    <div class="url">https://sub-steklo-plus.apruxdomain.lol/configs/metadata.json</div>
+  </section>
+  <section class="section">
+    <h2>Как добавить профиль</h2>
+    <div class="steps">
+      <div class="step"><span class="num">1</span><span>Нажми «Скопировать URL конфигурации».</span></div>
+      <div class="step"><span class="num">2</span><span>Открой Happ, нажми «+» и выбери добавление по ссылке / из буфера обмена.</span></div>
+      <div class="step"><span class="num">3</span><span>Вставь ссылку и дождись загрузки серверов.</span></div>
+    </div>
+  </section>
+  <footer>Steklo VPN · PLUS 🌟<br>Поддержка: <a href="https://t.me/free_vpn123456" style="color:#8edce8">Telegram</a></footer>
+</main>
+<script>
+  const base = 'https://sub-steklo-plus.apruxdomain.lol';
+  async function copy(text, button) {
+    try { await navigator.clipboard.writeText(text); const old=button.textContent; button.textContent='Скопировано ✓'; setTimeout(()=>button.textContent=old,1800); }
+    catch { window.prompt('Скопируй ссылку:',text); }
+  }
+  document.getElementById('copy-config').addEventListener('click',e=>copy(base+'/configs/okeania_auto.txt',e.currentTarget));
+  document.getElementById('copy-meta').addEventListener('click',e=>copy(base+'/configs/metadata.json',e.currentTarget));
+</script>
+</body>
+</html>
