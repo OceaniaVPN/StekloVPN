@@ -54,7 +54,7 @@ jobs:
             ''
           ].join('\n');
 
-          fs.writeFileSync('happ-subscription.txt', header + JSON.stringify(configs, null, 2) + '\n');
+          fs.writeFileSync('happ-subscription.json', header + JSON.stringify(configs, null, 2) + '\n');
           console.log('Built Happ subscription with ' + configs.length + ' Xray profiles');
           NODE
 
@@ -62,7 +62,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add happ-subscription.txt
+          git add happ-subscription.json
           if git diff --cached --quiet; then
             echo "Subscription is already up to date"
             exit 0
