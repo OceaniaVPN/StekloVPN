@@ -30,10 +30,10 @@
     <h2>Единая подписка Happ</h2>
     <p>Одна ссылка: список серверов и параметры профиля передаются вместе. Это экспериментальный формат — после добавления проверь, что Happ принял и серверы, и название профиля.</p>
     <div class="actions">
-      <a class="btn primary" href="/happ-subscription.txt">Открыть подписку</a>
+      <a class="btn primary" href="/happ-subscription.json">Открыть подписку</a>
       <button class="btn" id="copy-sub" type="button">Скопировать одну ссылку</button>
     </div>
-    <div class="url">https://sub-steklo-plus.apruxdomain.lol/happ-subscription.txt</div>
+    <div class="url">https://sub-steklo-plus.apruxdomain.lol/happ-subscription.json</div>
   </section>
   <section class="section">
     <h2>Как добавить профиль</h2>
@@ -51,7 +51,7 @@
     try { await navigator.clipboard.writeText(text); const old=button.textContent; button.textContent='Скопировано ✓'; setTimeout(()=>button.textContent=old,1800); }
     catch { window.prompt('Скопируй ссылку:',text); }
   }
-  document.getElementById('copy-sub').addEventListener('click',e=>copy(base+'/happ-subscription.txt',e.currentTarget));
+  document.getElementById('copy-sub').addEventListener('click',e=>copy(base+'/happ-subscription.json',e.currentTarget));
 </script>
 </body>
 </html>
