@@ -226,10 +226,10 @@
               "mode": "packet-up",
               "path": "/api/v2/analytics/",
               "xmux": {
-                "cMaxReuseTimes": 1000.0,
+                "cMaxReuseTimes": 1000,
                 "maxConcurrency": "2-4",
-                "maxConnections": 0.0,
-                "hKeepAlivePeriod": 10000.0,
+                "maxConnections": 0,
+                "hKeepAlivePeriod": 10000,
                 "hMaxRequestTimes": "50-100",
                 "hMaxReusableSecs": "25"
               },
@@ -251,7 +251,7 @@
               "uplinkHTTPMethod": "GET",
               "xPaddingObfsMode": true,
               "xPaddingPlacement": "cookie",
-              "scMaxBufferedPosts": 30.0,
+              "scMaxBufferedPosts": 30,
               "scMaxEachPostBytes": "4000-6000",
               "sessionIDPlacement": "query",
               "uplinkDataPlacement": "cookie",
@@ -281,7 +281,7 @@
         "proxy-0"
       ]
     },
-    "remarks": "🇳🇱 Нидерланды | Russia MIFA A98",
+    "remarks": "🇳🇱 Нидерланды | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -527,12 +527,12 @@
               "uplinkHTTPMethod": "GET",
               "xPaddingObfsMode": true,
               "xPaddingPlacement": "queryInHeader",
-              "scMaxBufferedPosts": 512.0,
+              "scMaxBufferedPosts": 512,
               "scMaxEachPostBytes": "20480-24576",
               "sessionIDPlacement": "query",
               "uplinkDataPlacement": "header",
               "scMinPostsIntervalMs": "2-3",
-              "serverMaxHeaderBytes": 262144.0
+              "serverMaxHeaderBytes": 262144
             }
           }
         }
@@ -557,7 +557,7 @@
         "proxy-1"
       ]
     },
-    "remarks": "🇸🇨 Сейшелы | Russia MIFA A5Y",
+    "remarks": "🇸🇨 Сейшелы | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -800,7 +800,7 @@
         "proxy-2"
       ]
     },
-    "remarks": "🇪🇪 Эстония | Estonia MIFA A66",
+    "remarks": "🇪🇪 Эстония | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -1050,7 +1050,7 @@
         "proxy-3"
       ]
     },
-    "remarks": "🇩🇪 Германия | Russia MIFA A9K",
+    "remarks": "🇩🇪 Германия | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -1298,7 +1298,7 @@
         "proxy-4"
       ]
     },
-    "remarks": "🇫🇮 Финляндия | Финляндия — Хельсинки",
+    "remarks": "🇫🇮 Финляндия | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -1544,7 +1544,7 @@
         "proxy-5"
       ]
     },
-    "remarks": "🇳🇱 Нидерланды | Бункер Микс #07 | VLESS",
+    "remarks": "🇳🇱 Нидерланды | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -1788,7 +1788,7 @@
         "proxy-6"
       ]
     },
-    "remarks": "🇵🇱 Польша | Бункер Микс #72 | VLESS",
+    "remarks": "🇨🇿 Чехия | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -2035,7 +2035,7 @@
         "proxy-7"
       ]
     },
-    "remarks": "🇵🇱 Польша | [БС] 🌨️🎄",
+    "remarks": "🇵🇱 Польша | [БС]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -2279,7 +2279,7 @@
         "proxy-8"
       ]
     },
-    "remarks": "🇩🇪 Германия | [обычн] ⛄🎊",
+    "remarks": "🇩🇪 Германия | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -2540,10 +2540,10 @@
               "mode": "packet-up",
               "path": "/api/v2/analytics/",
               "xmux": {
-                "cMaxReuseTimes": 1000.0,
+                "cMaxReuseTimes": 1000,
                 "maxConcurrency": "2-4",
-                "maxConnections": 0.0,
-                "hKeepAlivePeriod": 10000.0,
+                "maxConnections": 0,
+                "hKeepAlivePeriod": 10000,
                 "hMaxRequestTimes": "50-100",
                 "hMaxReusableSecs": "25"
               },
@@ -2565,7 +2565,7 @@
               "uplinkHTTPMethod": "GET",
               "xPaddingObfsMode": true,
               "xPaddingPlacement": "cookie",
-              "scMaxBufferedPosts": 30.0,
+              "scMaxBufferedPosts": 30,
               "scMaxEachPostBytes": "4000-6000",
               "sessionIDPlacement": "query",
               "uplinkDataPlacement": "cookie",
@@ -2626,12 +2626,12 @@
               "uplinkHTTPMethod": "GET",
               "xPaddingObfsMode": true,
               "xPaddingPlacement": "queryInHeader",
-              "scMaxBufferedPosts": 512.0,
+              "scMaxBufferedPosts": 512,
               "scMaxEachPostBytes": "20480-24576",
               "sessionIDPlacement": "query",
               "uplinkDataPlacement": "header",
               "scMinPostsIntervalMs": "2-3",
-              "serverMaxHeaderBytes": 262144.0
+              "serverMaxHeaderBytes": 262144
             }
           }
         }
