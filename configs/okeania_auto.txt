@@ -195,11 +195,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "canvas.newificonnect.online",
+              "address": "188.72.112.1",
               "port": 443,
               "users": [
                 {
-                  "id": "8597bf2d-11d8-461c-a77a-ed9238d78cd4",
+                  "id": "0259e5aa-c188-4334-b204-32cd5ea859f6",
                   "encryption": "none"
                 }
               ]
@@ -210,8 +210,8 @@
           "network": "xhttp",
           "security": "tls",
           "tlsSettings": {
-            "serverName": "canvas.newificonnect.online",
-            "fingerprint": "firefox",
+            "serverName": "keno-nl-cdn-cello.keno.su",
+            "fingerprint": "edge",
             "alpn": [
               "h2",
               "http/1.1"
@@ -219,44 +219,20 @@
           },
           "xhttpSettings": {
             "mode": "packet-up",
-            "host": "canvas.newificonnect.online",
-            "path": "/api/v2/analytics/",
+            "host": "keno-nl-cdn-cello.keno.su",
+            "path": "/api/uploadFile/",
             "extra": {
-              "host": "canvas.newificonnect.online",
-              "mode": "packet-up",
-              "path": "/api/v2/analytics/",
               "xmux": {
-                "cMaxReuseTimes": 1000,
-                "maxConcurrency": "2-4",
+                "cMaxLifetimeMs": 300000,
+                "cMaxReuseTimes": 100,
+                "maxConcurrency": "16-32",
                 "maxConnections": 0,
-                "hKeepAlivePeriod": 10000,
-                "hMaxRequestTimes": "50-100",
-                "hMaxReusableSecs": "25"
+                "hKeepAlivePeriod": 30
               },
-              "seqKey": "x_seq",
-              "headers": {},
-              "sessionKey": "x_session",
-              "noSSEHeader": true,
-              "xPaddingKey": "padding",
-              "noGRPCHeader": false,
-              "seqPlacement": "cookie",
-              "sessionIDKey": "x_session",
-              "uplinkDataKey": "x_data",
-              "xPaddingBytes": "64-96",
-              "sessionIDTable": "0123456789abcdefghijklmnopqrstuvwxyz",
-              "xPaddingHeader": "X-Buffer-Padding",
-              "xPaddingMethod": "tokenish",
-              "sessionIDLength": "20-24",
-              "uplinkChunkSize": "3000-4000",
+              "uplinkDataKey": "X-Payload",
               "uplinkHTTPMethod": "GET",
-              "xPaddingObfsMode": true,
-              "xPaddingPlacement": "cookie",
-              "scMaxBufferedPosts": 30,
-              "scMaxEachPostBytes": "4000-6000",
-              "sessionIDPlacement": "query",
-              "uplinkDataPlacement": "cookie",
-              "scMinPostsIntervalMs": "5-10",
-              "scStreamUpServerSecs": "20-28"
+              "scMaxEachPostBytes": 4096,
+              "uplinkDataPlacement": "header"
             }
           }
         }
@@ -281,7 +257,7 @@
         "proxy-0"
       ]
     },
-    "remarks": "🇳🇱 Нидерланды | [обычн]",
+    "remarks": "🇫🇮 Финляндия | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -482,11 +458,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "cedar.kryonix.space",
+              "address": "717252g.nl8.h1clayd.click",
               "port": 443,
               "users": [
                 {
-                  "id": "0b6a7fe0-206b-4071-9f96-cd397d1ec01a",
+                  "id": "cda0862a-0f87-4be9-8ed8-1d0c9e382839",
                   "encryption": "none"
                 }
               ]
@@ -494,46 +470,17 @@
           ]
         },
         "streamSettings": {
-          "network": "xhttp",
-          "security": "tls",
-          "tlsSettings": {
-            "serverName": "cedar.kryonix.space",
-            "fingerprint": "firefox",
-            "alpn": [
-              "h2"
-            ]
+          "network": "grpc",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "717252g.nl8.h1clayd.click",
+            "fingerprint": "ios",
+            "publicKey": "PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU",
+            "shortId": "d3bd772514c87d28"
           },
-          "xhttpSettings": {
-            "mode": "packet-up",
-            "host": "cedar.kryonix.space",
-            "path": "/api/api_v2/mediaupload_process",
-            "extra": {
-              "xmux": {
-                "cMaxReuseTimes": "16-32",
-                "maxConnections": "2",
-                "hMaxReusableSecs": "120-240"
-              },
-              "seqKey": "segment",
-              "xPaddingKey": "cacheVersion",
-              "seqPlacement": "query",
-              "sessionIDKey": "media_session",
-              "uplinkDataKey": "data",
-              "xPaddingBytes": "64-320",
-              "sessionIDTable": "Base62",
-              "xPaddingHeader": "Referer",
-              "xPaddingMethod": "tokenish",
-              "sessionIDLength": "22-30",
-              "uplinkChunkSize": "4096-6144",
-              "uplinkHTTPMethod": "GET",
-              "xPaddingObfsMode": true,
-              "xPaddingPlacement": "queryInHeader",
-              "scMaxBufferedPosts": 512,
-              "scMaxEachPostBytes": "20480-24576",
-              "sessionIDPlacement": "query",
-              "uplinkDataPlacement": "header",
-              "scMinPostsIntervalMs": "2-3",
-              "serverMaxHeaderBytes": 262144
-            }
+          "grpcSettings": {
+            "serviceName": "204adda7e3da",
+            "multiMode": true
           }
         }
       },
@@ -557,7 +504,7 @@
         "proxy-1"
       ]
     },
-    "remarks": "🇸🇨 Сейшелы | [обычн]",
+    "remarks": "🇺🇸 США | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -758,25 +705,38 @@
         "settings": {
           "vnext": [
             {
-              "address": "31.56.187.171",
+              "address": "s1.mymediafamily.com",
               "port": 443,
               "users": [
                 {
-                  "id": "0259e5aa-c188-4334-b204-32cd5ea859f6",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
+                  "id": "f338a9b2-bb22-485f-a192-7078366ce8b5",
+                  "encryption": "mlkem768x25519plus.native.0rtt.Gjfi9pcgk4is0ilkzkhoCUJrIWJtKXsC1uLxXIM5c0I"
                 }
               ]
             }
           ]
         },
         "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "maps-carts-world.keno.su",
-            "fingerprint": "firefox",
-            "publicKey": "_MeP-WwmolUvi6wMXNoSs_zo6miG_OW7xk4ibzADiHY"
+          "network": "xhttp",
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "s1.mymediafamily.com",
+            "fingerprint": "chrome",
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ]
+          },
+          "xhttpSettings": {
+            "mode": "packet-up",
+            "host": "s1.mymediafamily.com",
+            "path": "/api/v4/segment/",
+            "extra": {
+              "uplinkHTTPMethod": "GET",
+              "scMaxEachPostBytes": 10000,
+              "uplinkDataPlacement": "cookie",
+              "scMinPostsIntervalMs": 10
+            }
           }
         }
       },
@@ -800,7 +760,7 @@
         "proxy-2"
       ]
     },
-    "remarks": "🇪🇪 Эстония | [обычн]",
+    "remarks": "🇧🇿 Белиз | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -1001,11 +961,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "ws3.falmero.store",
+              "address": "146.75.32.177",
               "port": 443,
               "users": [
                 {
-                  "id": "0b6a7fe0-206b-4071-9f96-cd397d1ec01a",
+                  "id": "e15225fb-0998-4719-8391-eede56f4d472",
                   "encryption": "none"
                 }
               ]
@@ -1013,20 +973,19 @@
           ]
         },
         "streamSettings": {
-          "network": "ws",
+          "network": "xhttp",
           "security": "tls",
           "tlsSettings": {
-            "serverName": "paperbirch.merlano.monster",
+            "serverName": "zd.fastly.com",
             "fingerprint": "firefox",
             "alpn": [
-              "http/1.1"
+              "h3"
             ]
           },
-          "wsSettings": {
-            "path": "/api/de1/stream",
-            "headers": {
-              "Host": "paperbirch.merlano.monster"
-            }
+          "xhttpSettings": {
+            "mode": "packet-up",
+            "host": "huryuk.global.ssl.fastly.net",
+            "path": "/"
           }
         }
       },
@@ -1251,11 +1210,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "31.76.230.58",
-              "port": 8846,
+              "address": "13.141.36.15",
+              "port": 443,
               "users": [
                 {
-                  "id": "08ffe334-d846-41d5-8142-a60d6f3cd5ae",
+                  "id": "2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df",
                   "encryption": "none"
                 }
               ]
@@ -1263,18 +1222,13 @@
           ]
         },
         "streamSettings": {
-          "network": "xhttp",
+          "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "msk.substituteme.space",
+            "serverName": "a80b5386.fi2.h1clayd.click",
             "fingerprint": "firefox",
-            "publicKey": "ATDm1nPTmQTZQCURNt-AWEJE4KqVAxK-9MdBRqjpB2U",
-            "shortId": "47c3461be89dbf81"
-          },
-          "xhttpSettings": {
-            "mode": "auto",
-            "host": "31.76.230.58",
-            "path": "/58c492097df6ed08"
+            "publicKey": "PslSaSQWP4BZZmkL7irab4FMti8sW6BvoC7ytFjJFyc",
+            "shortId": "cc678f10161992a9"
           }
         }
       },
@@ -1298,7 +1252,7 @@
         "proxy-4"
       ]
     },
-    "remarks": "🇫🇮 Финляндия | [обычн]",
+    "remarks": "🇬🇧 Великобритания | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -1499,11 +1453,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "78.24.92.222",
+              "address": "45.67.215.20",
               "port": 443,
               "users": [
                 {
-                  "id": "26156d2f-6cde-455e-a5ac-372d989161f1",
+                  "id": "da500c8e-990b-4d84-abca-b675280c1651",
                   "encryption": "none"
                 }
               ]
@@ -1514,13 +1468,12 @@
           "network": "xhttp",
           "security": "tls",
           "tlsSettings": {
-            "serverName": "tg1.cdnphotos.org",
+            "serverName": "mama1472.baklajann.ru",
             "fingerprint": "firefox"
           },
           "xhttpSettings": {
             "mode": "auto",
-            "host": "tg1.cdnphotos.org",
-            "path": "/api/v1/"
+            "path": "/"
           }
         }
       },
@@ -1544,7 +1497,7 @@
         "proxy-5"
       ]
     },
-    "remarks": "🇳🇱 Нидерланды | [обычн]",
+    "remarks": "🇫🇷 Франция | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -1745,11 +1698,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "109.248.17.252",
+              "address": "185.178.208.167",
               "port": 443,
               "users": [
                 {
-                  "id": "9000a7f3-df2a-49a8-ae56-3e7777bd32f7",
+                  "id": "c2b17066-5386-0001-803b-5e652c0528f9",
                   "encryption": "none"
                 }
               ]
@@ -1757,14 +1710,17 @@
           ]
         },
         "streamSettings": {
-          "network": "grpc",
+          "network": "ws",
           "security": "tls",
           "tlsSettings": {
-            "serverName": "v4.clequinix.globalinetforallalwaysandneverbanyoubelieveme.com",
-            "fingerprint": "firefox"
+            "serverName": "trx.tools",
+            "fingerprint": "safari"
           },
-          "grpcSettings": {
-            "serviceName": "v4-clequinix-globalinetforallalwaysandneverbanyoubelieveme-com"
+          "wsSettings": {
+            "path": "/session",
+            "headers": {
+              "Host": "api.14887277.xyz"
+            }
           }
         }
       },
@@ -1788,7 +1744,7 @@
         "proxy-6"
       ]
     },
-    "remarks": "🇨🇿 Чехия | [обычн]",
+    "remarks": "🇫🇮 Финляндия | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -1989,11 +1945,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "185.178.208.167",
+              "address": "146.75.32.177",
               "port": 443,
               "users": [
                 {
-                  "id": "c2b17066-5386-0001-803b-5e652c0528f9",
+                  "id": "e15225fb-0998-4719-8391-eede56f4d472",
                   "encryption": "none"
                 }
               ]
@@ -2001,17 +1957,19 @@
           ]
         },
         "streamSettings": {
-          "network": "ws",
+          "network": "xhttp",
           "security": "tls",
           "tlsSettings": {
-            "serverName": "trx.tools",
-            "fingerprint": "safari"
+            "serverName": "zd.fastly.com",
+            "fingerprint": "firefox",
+            "alpn": [
+              "h3"
+            ]
           },
-          "wsSettings": {
-            "path": "/session",
-            "headers": {
-              "Host": "api.14887277.xyz"
-            }
+          "xhttpSettings": {
+            "mode": "packet-up",
+            "host": "huryuk.global.ssl.fastly.net",
+            "path": "/"
           }
         }
       },
@@ -2035,7 +1993,7 @@
         "proxy-7"
       ]
     },
-    "remarks": "🇵🇱 Польша | [БС]",
+    "remarks": "🇩🇪 Германия | [обычн]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -2185,8 +2143,21 @@
         },
         {
           "type": "field",
+          "domain": [
+            "domain:telegram.org",
+            "domain:t.me",
+            "domain:telegram.me",
+            "domain:telegra.ph",
+            "domain:tdesktop.com",
+            "domain:core.telegram.org",
+            "domain:telegram.dog"
+          ],
+          "outboundTag": "proxy-0"
+        },
+        {
+          "type": "field",
           "network": "tcp,udp",
-          "outboundTag": "proxy-8"
+          "outboundTag": "direct"
         }
       ],
       "domainMatcher": "hybrid",
@@ -2231,31 +2202,62 @@
     ],
     "outbounds": [
       {
-        "tag": "proxy-8",
+        "tag": "proxy-0",
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "144.124.246.61",
-              "port": 8442,
+              "address": "178.176.128.128",
+              "port": 443,
               "users": [
                 {
-                  "id": "5d98ff1a-d576-46d3-9504-b158d94bcce9",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
+                  "id": "50b95deb-6394-46c5-b88a-583e5b3ca7ee",
+                  "encryption": "none"
                 }
               ]
             }
           ]
         },
         "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "www.kpn.com",
+          "network": "xhttp",
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "tgg.fastcon.cc",
             "fingerprint": "firefox",
-            "publicKey": "OiVtWvPLqJE7txxfOAgh5LB90JW3f88TYCHwNes3VDw",
-            "shortId": "681529e72742472e"
+            "alpn": [
+              "h2"
+            ]
+          },
+          "xhttpSettings": {
+            "mode": "packet-up",
+            "host": "tgg.fastcon.cc",
+            "path": "/clips/hls/v4/",
+            "extra": {
+              "xPaddingBytes": "24-48",
+              "scMaxEachPostBytes": "8192-16384",
+              "scMinPostsIntervalMs": "20-40",
+              "uplinkDataPlacement": "header",
+              "uplinkDataKey": "X-Client-Data",
+              "uplinkChunkSize": "2048-3072",
+              "uplinkHTTPMethod": "GET",
+              "seqPlacement": "query",
+              "seqKey": "page",
+              "xPaddingObfsMode": true,
+              "xPaddingHeader": "X-Request-Id",
+              "xPaddingPlacement": "header",
+              "xPaddingMethod": "tokenish",
+              "sessionIDPlacement": "cookie",
+              "sessionIDKey": "sid",
+              "sessionIDTable": "Base62",
+              "sessionIDLength": "20-24",
+              "xmux": {
+                "maxConnections": 3,
+                "cMaxReuseTimes": 0,
+                "hMaxRequestTimes": "600-900",
+                "hMaxReusableSecs": "1800-3000",
+                "hKeepAlivePeriod": 0
+              }
+            }
           }
         }
       },
@@ -2276,10 +2278,10 @@
         "destination": "http://www.gstatic.com/generate_204"
       },
       "subjectSelector": [
-        "proxy-8"
+        "proxy-0"
       ]
     },
-    "remarks": "🇩🇪 Германия | [обычн]",
+    "remarks": "🇩🇪 Германия | [Telegram]",
     "meta": {
       "description": "Оптимизирован"
     }
@@ -2444,8 +2446,7 @@
             "proxy-4",
             "proxy-5",
             "proxy-6",
-            "proxy-7",
-            "proxy-8"
+            "proxy-7"
           ],
           "strategy": {
             "type": "leastLoad",
@@ -2509,11 +2510,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "canvas.newificonnect.online",
+              "address": "188.72.112.1",
               "port": 443,
               "users": [
                 {
-                  "id": "8597bf2d-11d8-461c-a77a-ed9238d78cd4",
+                  "id": "0259e5aa-c188-4334-b204-32cd5ea859f6",
                   "encryption": "none"
                 }
               ]
@@ -2524,8 +2525,8 @@
           "network": "xhttp",
           "security": "tls",
           "tlsSettings": {
-            "serverName": "canvas.newificonnect.online",
-            "fingerprint": "firefox",
+            "serverName": "keno-nl-cdn-cello.keno.su",
+            "fingerprint": "edge",
             "alpn": [
               "h2",
               "http/1.1"
@@ -2533,44 +2534,20 @@
           },
           "xhttpSettings": {
             "mode": "packet-up",
-            "host": "canvas.newificonnect.online",
-            "path": "/api/v2/analytics/",
+            "host": "keno-nl-cdn-cello.keno.su",
+            "path": "/api/uploadFile/",
             "extra": {
-              "host": "canvas.newificonnect.online",
-              "mode": "packet-up",
-              "path": "/api/v2/analytics/",
               "xmux": {
-                "cMaxReuseTimes": 1000,
-                "maxConcurrency": "2-4",
+                "cMaxLifetimeMs": 300000,
+                "cMaxReuseTimes": 100,
+                "maxConcurrency": "16-32",
                 "maxConnections": 0,
-                "hKeepAlivePeriod": 10000,
-                "hMaxRequestTimes": "50-100",
-                "hMaxReusableSecs": "25"
+                "hKeepAlivePeriod": 30
               },
-              "seqKey": "x_seq",
-              "headers": {},
-              "sessionKey": "x_session",
-              "noSSEHeader": true,
-              "xPaddingKey": "padding",
-              "noGRPCHeader": false,
-              "seqPlacement": "cookie",
-              "sessionIDKey": "x_session",
-              "uplinkDataKey": "x_data",
-              "xPaddingBytes": "64-96",
-              "sessionIDTable": "0123456789abcdefghijklmnopqrstuvwxyz",
-              "xPaddingHeader": "X-Buffer-Padding",
-              "xPaddingMethod": "tokenish",
-              "sessionIDLength": "20-24",
-              "uplinkChunkSize": "3000-4000",
+              "uplinkDataKey": "X-Payload",
               "uplinkHTTPMethod": "GET",
-              "xPaddingObfsMode": true,
-              "xPaddingPlacement": "cookie",
-              "scMaxBufferedPosts": 30,
-              "scMaxEachPostBytes": "4000-6000",
-              "sessionIDPlacement": "query",
-              "uplinkDataPlacement": "cookie",
-              "scMinPostsIntervalMs": "5-10",
-              "scStreamUpServerSecs": "20-28"
+              "scMaxEachPostBytes": 4096,
+              "uplinkDataPlacement": "header"
             }
           }
         }
@@ -2581,11 +2558,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "cedar.kryonix.space",
+              "address": "717252g.nl8.h1clayd.click",
               "port": 443,
               "users": [
                 {
-                  "id": "0b6a7fe0-206b-4071-9f96-cd397d1ec01a",
+                  "id": "cda0862a-0f87-4be9-8ed8-1d0c9e382839",
                   "encryption": "none"
                 }
               ]
@@ -2593,46 +2570,17 @@
           ]
         },
         "streamSettings": {
-          "network": "xhttp",
-          "security": "tls",
-          "tlsSettings": {
-            "serverName": "cedar.kryonix.space",
-            "fingerprint": "firefox",
-            "alpn": [
-              "h2"
-            ]
+          "network": "grpc",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "717252g.nl8.h1clayd.click",
+            "fingerprint": "ios",
+            "publicKey": "PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU",
+            "shortId": "d3bd772514c87d28"
           },
-          "xhttpSettings": {
-            "mode": "packet-up",
-            "host": "cedar.kryonix.space",
-            "path": "/api/api_v2/mediaupload_process",
-            "extra": {
-              "xmux": {
-                "cMaxReuseTimes": "16-32",
-                "maxConnections": "2",
-                "hMaxReusableSecs": "120-240"
-              },
-              "seqKey": "segment",
-              "xPaddingKey": "cacheVersion",
-              "seqPlacement": "query",
-              "sessionIDKey": "media_session",
-              "uplinkDataKey": "data",
-              "xPaddingBytes": "64-320",
-              "sessionIDTable": "Base62",
-              "xPaddingHeader": "Referer",
-              "xPaddingMethod": "tokenish",
-              "sessionIDLength": "22-30",
-              "uplinkChunkSize": "4096-6144",
-              "uplinkHTTPMethod": "GET",
-              "xPaddingObfsMode": true,
-              "xPaddingPlacement": "queryInHeader",
-              "scMaxBufferedPosts": 512,
-              "scMaxEachPostBytes": "20480-24576",
-              "sessionIDPlacement": "query",
-              "uplinkDataPlacement": "header",
-              "scMinPostsIntervalMs": "2-3",
-              "serverMaxHeaderBytes": 262144
-            }
+          "grpcSettings": {
+            "serviceName": "204adda7e3da",
+            "multiMode": true
           }
         }
       },
@@ -2642,25 +2590,38 @@
         "settings": {
           "vnext": [
             {
-              "address": "31.56.187.171",
+              "address": "s1.mymediafamily.com",
               "port": 443,
               "users": [
                 {
-                  "id": "0259e5aa-c188-4334-b204-32cd5ea859f6",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
+                  "id": "f338a9b2-bb22-485f-a192-7078366ce8b5",
+                  "encryption": "mlkem768x25519plus.native.0rtt.Gjfi9pcgk4is0ilkzkhoCUJrIWJtKXsC1uLxXIM5c0I"
                 }
               ]
             }
           ]
         },
         "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "maps-carts-world.keno.su",
-            "fingerprint": "firefox",
-            "publicKey": "_MeP-WwmolUvi6wMXNoSs_zo6miG_OW7xk4ibzADiHY"
+          "network": "xhttp",
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "s1.mymediafamily.com",
+            "fingerprint": "chrome",
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ]
+          },
+          "xhttpSettings": {
+            "mode": "packet-up",
+            "host": "s1.mymediafamily.com",
+            "path": "/api/v4/segment/",
+            "extra": {
+              "uplinkHTTPMethod": "GET",
+              "scMaxEachPostBytes": 10000,
+              "uplinkDataPlacement": "cookie",
+              "scMinPostsIntervalMs": 10
+            }
           }
         }
       },
@@ -2670,11 +2631,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "ws3.falmero.store",
+              "address": "146.75.32.177",
               "port": 443,
               "users": [
                 {
-                  "id": "0b6a7fe0-206b-4071-9f96-cd397d1ec01a",
+                  "id": "e15225fb-0998-4719-8391-eede56f4d472",
                   "encryption": "none"
                 }
               ]
@@ -2682,20 +2643,19 @@
           ]
         },
         "streamSettings": {
-          "network": "ws",
+          "network": "xhttp",
           "security": "tls",
           "tlsSettings": {
-            "serverName": "paperbirch.merlano.monster",
+            "serverName": "zd.fastly.com",
             "fingerprint": "firefox",
             "alpn": [
-              "http/1.1"
+              "h3"
             ]
           },
-          "wsSettings": {
-            "path": "/api/de1/stream",
-            "headers": {
-              "Host": "paperbirch.merlano.monster"
-            }
+          "xhttpSettings": {
+            "mode": "packet-up",
+            "host": "huryuk.global.ssl.fastly.net",
+            "path": "/"
           }
         }
       },
@@ -2705,11 +2665,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "31.76.230.58",
-              "port": 8846,
+              "address": "13.141.36.15",
+              "port": 443,
               "users": [
                 {
-                  "id": "08ffe334-d846-41d5-8142-a60d6f3cd5ae",
+                  "id": "2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df",
                   "encryption": "none"
                 }
               ]
@@ -2717,18 +2677,13 @@
           ]
         },
         "streamSettings": {
-          "network": "xhttp",
+          "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "msk.substituteme.space",
+            "serverName": "a80b5386.fi2.h1clayd.click",
             "fingerprint": "firefox",
-            "publicKey": "ATDm1nPTmQTZQCURNt-AWEJE4KqVAxK-9MdBRqjpB2U",
-            "shortId": "47c3461be89dbf81"
-          },
-          "xhttpSettings": {
-            "mode": "auto",
-            "host": "31.76.230.58",
-            "path": "/58c492097df6ed08"
+            "publicKey": "PslSaSQWP4BZZmkL7irab4FMti8sW6BvoC7ytFjJFyc",
+            "shortId": "cc678f10161992a9"
           }
         }
       },
@@ -2738,11 +2693,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "78.24.92.222",
+              "address": "45.67.215.20",
               "port": 443,
               "users": [
                 {
-                  "id": "26156d2f-6cde-455e-a5ac-372d989161f1",
+                  "id": "da500c8e-990b-4d84-abca-b675280c1651",
                   "encryption": "none"
                 }
               ]
@@ -2753,47 +2708,17 @@
           "network": "xhttp",
           "security": "tls",
           "tlsSettings": {
-            "serverName": "tg1.cdnphotos.org",
+            "serverName": "mama1472.baklajann.ru",
             "fingerprint": "firefox"
           },
           "xhttpSettings": {
             "mode": "auto",
-            "host": "tg1.cdnphotos.org",
-            "path": "/api/v1/"
+            "path": "/"
           }
         }
       },
       {
         "tag": "proxy-6",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "109.248.17.252",
-              "port": 443,
-              "users": [
-                {
-                  "id": "9000a7f3-df2a-49a8-ae56-3e7777bd32f7",
-                  "encryption": "none"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "grpc",
-          "security": "tls",
-          "tlsSettings": {
-            "serverName": "v4.clequinix.globalinetforallalwaysandneverbanyoubelieveme.com",
-            "fingerprint": "firefox"
-          },
-          "grpcSettings": {
-            "serviceName": "v4-clequinix-globalinetforallalwaysandneverbanyoubelieveme-com"
-          }
-        }
-      },
-      {
-        "tag": "proxy-7",
         "protocol": "vless",
         "settings": {
           "vnext": [
@@ -2825,31 +2750,36 @@
         }
       },
       {
-        "tag": "proxy-8",
+        "tag": "proxy-7",
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "144.124.246.61",
-              "port": 8442,
+              "address": "146.75.32.177",
+              "port": 443,
               "users": [
                 {
-                  "id": "5d98ff1a-d576-46d3-9504-b158d94bcce9",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
+                  "id": "e15225fb-0998-4719-8391-eede56f4d472",
+                  "encryption": "none"
                 }
               ]
             }
           ]
         },
         "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "www.kpn.com",
+          "network": "xhttp",
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "zd.fastly.com",
             "fingerprint": "firefox",
-            "publicKey": "OiVtWvPLqJE7txxfOAgh5LB90JW3f88TYCHwNes3VDw",
-            "shortId": "681529e72742472e"
+            "alpn": [
+              "h3"
+            ]
+          },
+          "xhttpSettings": {
+            "mode": "packet-up",
+            "host": "huryuk.global.ssl.fastly.net",
+            "path": "/"
           }
         }
       },
@@ -2877,8 +2807,7 @@
         "proxy-4",
         "proxy-5",
         "proxy-6",
-        "proxy-7",
-        "proxy-8"
+        "proxy-7"
       ]
     },
     "remarks": "⚖️ StekloVPN | Авто-балансировщик 🎄❄️",
