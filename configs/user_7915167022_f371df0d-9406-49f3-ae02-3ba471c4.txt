@@ -1,0 +1,7 @@
+#profile-title: Bratva
+#profile-update-interval: 4
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1968503547
+#profile-web-page-url: N777nn53
+#announce: Ку
+#x-expire-days-total: 2000
+#x-expire-ts: 1968503547
