@@ -2856,7 +2856,7 @@
         "proxy-19"
       ]
     },
-    "remarks": "🇪🇸 Испания | Gemini | [ИИ]",
+    "remarks": "🇪🇸 Испания | [ИИ]",
     "meta": {
       "description": "Оптимизирован"
     }
