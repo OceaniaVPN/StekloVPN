@@ -1,0 +1,6 @@
+#profile-title: Тима впн
+#profile-update-interval: 2
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1798295325
+#announce: @Tima vpn
+#x-expire-days-total: 30
+#x-expire-ts: 1798295325
