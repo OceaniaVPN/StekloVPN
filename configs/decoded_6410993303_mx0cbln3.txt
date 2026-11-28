@@ -1,0 +1,8 @@
+#profile-title:⚡️SPEED VPN⚡️
+#support-url: https://t.me/marusayvpn
+#subscription-userinfo: upload=0; download=997767865; total=0; expire=4102444800
+#profile-update-interval: 2
+#announce:Обновления каждый день из за блокировки ии ркн,обходные сервера на починке
+hysteria2://f88bc31a-c30a-4a7f-bca6-5bc95d5bb593@88.119.176.54:443?sni=tuv10.harcho.shop#🇺🇸ЮТУБ 
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@176.109.103.238:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rumos.yandex-api.com&fp=firefox&pbk=gQYbz6BaTE05ZD6sk_0lHZGsk2cXzt1cKdjVWZM_C2g&sid=badfead2ae4dca2e&spx=/&type=tcp&headerType=none#🇺🇸 США | Обход БС ⬜
+vless://faf6b8af-e741-4ef5-b1e2-25a3f413cc8e@188.72.112.1:443?encryption=none&security=tls&sni=cdnok.b2ai.top&alpn=h2&fp=firefox&type=xhttp&mode=packet-up&host=cdnok.b2ai.top&path=%2Fapi%2Fv1%2Ftelemetry%2Fcall%2F&extra=%7B%22mode%22%3A%22packet-up%22%2C%22path%22%3A%22%2Fapi%2Fv1%2Ftelemetry%2Fcall%2F%22%2C%22scMaxEachPostBytes%22%3A32768.0%2C%22scMinPostsIntervalMs%22%3A35.0%2C%22seqKey%22%3A%22chunk_id%22%2C%22seqPlacement%22%3A%22query%22%2C%22serverMaxHeaderBytes%22%3A65536.0%2C%22sessionIDKey%22%3A%22X-Upload-Token%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22uplinkChunkSize%22%3A4096.0%2C%22uplinkDataKey%22%3A%22X-Data%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingBytes%22%3A%2216-64%22%2C%22xPaddingHeader%22%3A%22X-Client-Version%22%2C%22xPaddingKey%22%3A%22hash%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%7D#🇦🇷Аргентина|Обход БС◻️
